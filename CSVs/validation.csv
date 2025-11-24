@@ -1,0 +1,1335 @@
+image_id,class_name,label
+5bb68aea19f6eb00d28d0e6386afecfc,"Aortic enlargement, Consolidation, Lung Opacity, Pleural effusion",Abnormal
+74292e695d6b5868b89acf26363ee93e,"Aortic enlargement, Cardiomegaly, Lung Opacity, Other lesion, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+7d746268923b15615c93334eff3a6baf,"ILD, Nodule/Mass",Abnormal
+56e004d50c71eb7952e1e961853fa909,No finding,Normal
+5631b7a74c46990fc86daf723f8c4626,No finding,Normal
+fec3e77cce3ce87eb3e6e244c185cb87,No finding,Normal
+61fee17f99b29fc46130613d0e7ba7c2,No finding,Normal
+ef62dda3f041cf6ad772e7885354fbdf,No finding,Normal
+9cc547186a3b1e833823635292fb160c,No finding,Normal
+c50bb66530634bfac9d5487a607e8211,"Lung Opacity, Pleural effusion",Abnormal
+5303496f0f979e8cc2414a3c1522302e,No finding,Normal
+5445ae1e0f8f8703e12f3b75b6344863,No finding,Normal
+18e91ea53a6b6829c70ae2d762605c21,"Aortic enlargement, Cardiomegaly",Abnormal
+e9278ee61a8a275650baf02c600c382e,Aortic enlargement,Abnormal
+b94bdfd2abb0f398c7bbeb9a45292aa4,No finding,Normal
+db10ef88a4b96c89919a5591d119202c,No finding,Normal
+0e064df2b171504e828e3cb8959f6507,No finding,Normal
+fff2025e3c1d6970a8a6ee0404ac6940,No finding,Normal
+69afc1cd6a3209dfc08651a43e7628fd,"Aortic enlargement, Pleural thickening",Abnormal
+13408fd9a760f2110321b4dfc67d8386,No finding,Normal
+592d8b548a45338c899adeb96b355f32,No finding,Normal
+36f9f3166dc757f415e384e69b0a2447,"Aortic enlargement, Cardiomegaly, Pulmonary fibrosis",Abnormal
+bbcc1d9eab8a1b5ddad7caa4a30f35dc,No finding,Normal
+038a29d3e340d8ab60644826c14596db,No finding,Normal
+05f202ee95a17a4b1e6dbe1916ffe8bf,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+76bd6d60f495982df348eaf871cf2025,No finding,Normal
+66cd940a7bbf8b37c6abecc0a4004661,"Infiltration, Pulmonary fibrosis",Abnormal
+f69a67703fe0e5e5bd9535025fbff414,"Lung Opacity, Other lesion, Pleural effusion, Pulmonary fibrosis",Abnormal
+b59cec71b2f090368b6582070814e791,No finding,Normal
+aa6475267e83947ee5078281a7ff3df3,No finding,Normal
+c17bc3d1b521108cdbbb896015c8ab07,No finding,Normal
+14629917f69e21145d1e662ef6c0dc2e,Aortic enlargement,Abnormal
+dff0b05ec36121a537d59148ac0443ca,"Aortic enlargement, Cardiomegaly",Abnormal
+5465c0b3f26ee18b26ffb13d824e6fde,No finding,Normal
+1df9d68d3a8352f4fecbc3895ebd80fa,No finding,Normal
+f9dda1a40ac162af4e9fbc6027ed5375,"Aortic enlargement, Cardiomegaly",Abnormal
+9f6515eac1d5043d511068bd757a17e1,No finding,Normal
+492c436c00725c4c909ec6fbc9223b92,"Calcification, Nodule/Mass, Other lesion, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+2cb170e77545abd5b7992c83865eb690,Aortic enlargement,Abnormal
+3ea1b5a733446a95048f48337f0275d9,No finding,Normal
+9e8d740c139e49c5fd7488e0ca58a4dc,No finding,Normal
+7430af9cdc5fa56f86d71b66a837390c,Pulmonary fibrosis,Abnormal
+784ce01cd06b8294074b59c452dbadcb,No finding,Normal
+4d911f55a3576833aa411f5718c8021e,"Atelectasis, Infiltration, Pleural thickening, Pulmonary fibrosis",Abnormal
+6eded50356520b1bbbf9a3c40a87ce4a,No finding,Normal
+96734f3235d72a018aaef6b78391df7a,"Cardiomegaly, Lung Opacity, Pleural thickening",Abnormal
+846a659d3d5f0c9bc9a7f917dea9da79,"Aortic enlargement, Cardiomegaly, Infiltration, Lung Opacity, Other lesion, Pleural effusion",Abnormal
+ae36d480c2a2fc78c9ff95f4266bd059,"Other lesion, Pleural thickening, Pulmonary fibrosis",Abnormal
+cc5ad3b4b93bbfc63e70eca023ab6eda,No finding,Normal
+97a05a3ade68254d5163547aab61f3f4,"Consolidation, Infiltration, Lung Opacity",Abnormal
+f911342fabc994606ca8b6deffd8cc0f,No finding,Normal
+9a2d123a36eea730440d44f430ad2951,"Aortic enlargement, Cardiomegaly",Abnormal
+55bb2808e74d4d4bfda40275268603a4,"Aortic enlargement, Cardiomegaly, ILD, Infiltration",Abnormal
+48d94d0bacf56bf81d0092000e9697ea,No finding,Normal
+47a50643e0ffee2204984ca1ac6bccf0,"Aortic enlargement, Calcification, Lung Opacity, Nodule/Mass, Pleural thickening, Pulmonary fibrosis",Abnormal
+ee5f83857d2f92db7596c009c1ce3dba,No finding,Normal
+f635b5ecbb18bd0b90c881dd055fb089,"Aortic enlargement, ILD, Infiltration",Abnormal
+3387caf8482024c8887d0a95b4fa0245,"Aortic enlargement, Cardiomegaly",Abnormal
+e9581123b6819b2cd1bcf6ed35481520,"Atelectasis, Consolidation, Infiltration, Other lesion, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+0a8e6cb00c56ff52e3489ccd6305a758,No finding,Normal
+25978f8d8601743919c7b3613b4d066e,No finding,Normal
+7b6a241b30dfcf7b91c6d6a63d693fd9,"Aortic enlargement, Cardiomegaly",Abnormal
+4fb8b42ce575d32e3bc864ac4b72b46f,No finding,Normal
+683ec9af11ca7fe33686ddce989d3768,"Atelectasis, Pulmonary fibrosis",Abnormal
+68f7ee667e33c638abc21bcd543ad9d5,"Consolidation, Lung Opacity, Nodule/Mass, Other lesion, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+a856ceb08a968a90562df73417bdc1d8,"Aortic enlargement, Cardiomegaly",Abnormal
+3f79d5c9084186e488c6617e723a3339,No finding,Normal
+c1ef70e18d73c3fe0b0d741b1b0b59fb,"Infiltration, Other lesion, Pleural thickening, Pulmonary fibrosis",Abnormal
+f680bcf8c99e7817749be9abfbf3000b,No finding,Normal
+f5f0081e8dc7596b38083e2b7aa4214a,No finding,Normal
+336b63df1d774eb3f819e5405feb4fa5,"Aortic enlargement, Cardiomegaly",Abnormal
+3ea8bc6bac5cf5cd5a80cd1b93afa2b5,No finding,Normal
+7daa7e5ce05f09404b845efb87f3ea20,"Cardiomegaly, Pleural thickening",Abnormal
+01415f1554556009b0eaf0ad7ca360bd,No finding,Normal
+828468076a2fa7c97169cfb83a117593,"Infiltration, Pulmonary fibrosis",Abnormal
+ecadf9a1eca2152b13f18d3a0b8bfba4,"Nodule/Mass, Pleural thickening, Pulmonary fibrosis",Abnormal
+01551a642641ce4371d7a400666afde1,No finding,Normal
+045fe806619a89d8c588c0c02c5bd241,No finding,Normal
+545dfeb98c767fa82f092f977057c9e6,No finding,Normal
+2ec02b88b8678801b23f7dce1ab2369e,No finding,Normal
+cfbac484f94686cd93d564487d9e5a8a,"Consolidation, Infiltration",Abnormal
+0bdadb23e846f9c247d3ea571f63913d,No finding,Normal
+2e14a1d545fe84fb87891640ba990781,"Aortic enlargement, Cardiomegaly, ILD",Abnormal
+854079ff7c24d428b28fe5992c9f5a41,No finding,Normal
+6c4280d4c09d682091a5d92102ef4162,No finding,Normal
+b67cf50f66d2336db3e9d43370e6e050,No finding,Normal
+94fe218b2934a56f5c5e9dbbe7c3ab98,No finding,Normal
+3f104043e0a3a9e1c980b042aa40cc4d,No finding,Normal
+371f686aebbbe6929b4bd3b86ab58873,"Aortic enlargement, Lung Opacity, Nodule/Mass, Pleural thickening, Pulmonary fibrosis",Abnormal
+de8c78afea91064bd977bb7092b99a63,No finding,Normal
+d79c5fd6d2f8b96c7de39829805fb270,No finding,Normal
+e2f74cb96fb90ec20839f4ff497c007f,"Aortic enlargement, Cardiomegaly, Lung Opacity, Nodule/Mass, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+54d9b89fd235a6141bc3512482e988a9,"Infiltration, Pulmonary fibrosis",Abnormal
+9823c13f2412bfef40728c2f08972b03,"Aortic enlargement, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+e51f4e56fc5e970b796959961c10ce26,No finding,Normal
+b57e21ea64ba9736e0711bdbbe53c221,"Aortic enlargement, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+693008c77b426c4afc45e990f5f07287,"ILD, Infiltration, Lung Opacity, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+f3c32b9968cd8443be3af4fc59da2eb0,No finding,Normal
+50e578a1af0cba03c513965993b9e5fa,"Aortic enlargement, Cardiomegaly",Abnormal
+6544852e523b70450c51b767f71eb275,"Aortic enlargement, Lung Opacity, Nodule/Mass, Pleural thickening",Abnormal
+3f7daa8c216b9501d1d2603a86e6a5f9,No finding,Normal
+28eb28a9feba4a3fd37327417aba1ed7,Cardiomegaly,Abnormal
+085924d80d57f282c294b8bd59cbd1e3,No finding,Normal
+2c8f7823a733497e98add3125db370cf,"Aortic enlargement, Cardiomegaly, Lung Opacity, Other lesion, Pulmonary fibrosis",Abnormal
+0d420cb872c8f385c119071c1302264d,No finding,Normal
+4da6d92e1eeeed4658aaa52ce11fe8f4,"Aortic enlargement, Cardiomegaly, Other lesion, Pleural effusion, Pleural thickening",Abnormal
+cd84507c340286ab3e70e4731bc59dc2,No finding,Normal
+90bee1dab151fe98c962ac6fc289bd92,No finding,Normal
+818796ebd40823cf964a850393882fea,"Aortic enlargement, Cardiomegaly",Abnormal
+49c82483ac000168b60056b1153c1afd,"Aortic enlargement, Cardiomegaly",Abnormal
+b8cf3b0d5faac4be08620f5f68df30b9,No finding,Normal
+e0ca12accbcc74173452a15218bf6cde,No finding,Normal
+105a734d1de02e6681c11743d5da094f,No finding,Normal
+fad39dc356aaa2da58470c6daaba8112,"Cardiomegaly, Pleural effusion, Pleural thickening",Abnormal
+7043451da60cb89537435829965759c3,"Aortic enlargement, Cardiomegaly, Pleural thickening, Pulmonary fibrosis",Abnormal
+61fccb625931e4bbbb170376b4d94356,No finding,Normal
+fb60c3083ec018a8bc953b6af2d39151,"Aortic enlargement, Cardiomegaly",Abnormal
+2534b21e1fcdf7748a07109999952840,"Aortic enlargement, Lung Opacity, Nodule/Mass, Pleural thickening, Pulmonary fibrosis",Abnormal
+f38e6047550ecab948fe98c912f3e508,No finding,Normal
+2e7b51cf120ec59d369331d09bba34b8,"Aortic enlargement, Lung Opacity, Nodule/Mass, Other lesion, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+bb72868e96a7c3c5b82dae9f1d814eec,"Aortic enlargement, Cardiomegaly",Abnormal
+ccfd8ce24bf167cc12999fc53efd2dc5,No finding,Normal
+373bd5fc47c8eabdefd4c313121c1d42,No finding,Normal
+e645d9985d6afaacf2722b9c82b2c9c5,"Cardiomegaly, Pulmonary fibrosis",Abnormal
+5c796eb672128aa15473051998334a09,"Nodule/Mass, Other lesion, Pulmonary fibrosis",Abnormal
+bd60f56f346490b1b62e6cfd02cbe7f5,"Aortic enlargement, Calcification, Lung Opacity, Nodule/Mass, Other lesion, Pleural thickening",Abnormal
+f2f7a0f3169acfe68c8efa1e7eb1b358,No finding,Normal
+eebb4b0a4472b69b72b1004b5b4bfcaa,"Aortic enlargement, Cardiomegaly",Abnormal
+4f3efbc07cd21a34f8ae635de12aac5b,No finding,Normal
+c63cd4290e16ed91c8ab7ee6f986afd4,No finding,Normal
+730b58517ca8b274e1b66e87c723c003,"Aortic enlargement, Pulmonary fibrosis",Abnormal
+3925524220e998ce7bec943286f63e73,No finding,Normal
+55e76d25542c80eb46184eb9e62a26f5,No finding,Normal
+cf4d4dc28551c17c0d33d0326d4a201b,"Cardiomegaly, Pleural thickening",Abnormal
+af0417dbc6afc8bdf3ab0fc5e6891ed6,No finding,Normal
+2f3264d3c0a52bb2e280855bcfd35733,"Atelectasis, Pulmonary fibrosis",Abnormal
+ca13b9ec000feeadce49117fd75a6287,No finding,Normal
+9a47806b91f9968263697e625cc75b20,No finding,Normal
+059412ad34b2c48179f178e3138b5022,"Lung Opacity, Pleural thickening",Abnormal
+ef9ba80e23c77ad5c619e74bfbdffd8b,"Aortic enlargement, Other lesion, Pleural effusion, Pleural thickening",Abnormal
+7b9e4e3ba89ca58d7a0e4e9a13d7dbc4,No finding,Normal
+959612f16d4ab164853d66bde4ec1297,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+084c1a06136415cf5422e5216186f30f,No finding,Normal
+d2ba8e95f185391a08f009c8e2a9ca12,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+d547ff1995b2b5cd7904cb0052857dd1,"Lung Opacity, Nodule/Mass, Other lesion",Abnormal
+d23bb0447470c62748051ef65bbf7698,No finding,Normal
+39b3e751f3256e7b2da318acd07303d3,No finding,Normal
+9b9fafab95a68b7dd80a22f337245a93,"Calcification, Cardiomegaly",Abnormal
+76707c5d3cfdb63e883e98cc2f9eb4e0,No finding,Normal
+326f5799de625f4fddd67b9c7827bfe5,"Aortic enlargement, Nodule/Mass",Abnormal
+5002ee95c82607e1b6811d1d6b6d0499,No finding,Normal
+28936b1a86428a44f356135a896b8627,"Aortic enlargement, Cardiomegaly, Nodule/Mass, Other lesion, Pleural effusion, Pleural thickening",Abnormal
+1b5fcd4b24608c798bd36523feaa5a03,No finding,Normal
+a9ed4b5aaf129325369ebae1cfd5e321,"Calcification, ILD, Nodule/Mass",Abnormal
+a45407e8b1daab75a1217b65de60c29d,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+ba33d7cc23010fe4295ed579cbc6e611,No finding,Normal
+3df005a70ab162381374fd43655aa145,"ILD, Infiltration",Abnormal
+d35ffd8afe3f0ff397f387509049885e,No finding,Normal
+ee532c103f58a75f5ef435fe24962b2e,No finding,Normal
+2b4cc90d8da5aed26cdc3bb1f39e9f55,No finding,Normal
+3695e9b858bf3ef80689b571e42fbebe,No finding,Normal
+1aebe196c344ddae48ec99b142bcf4c2,"Calcification, Nodule/Mass",Abnormal
+ed9f5c40c389c115089e5a8f15e162b0,"Pleural thickening, Pulmonary fibrosis",Abnormal
+78d237a2c0fe8f82956cec48132c0b1e,"Aortic enlargement, Cardiomegaly",Abnormal
+7effa21acd9351541b87fefff4818036,No finding,Normal
+6e012abbe46edde7d92243fa241bf38c,No finding,Normal
+7a5ed0a74ecc27101ba9cb64066cf452,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+309567fc6ae93a47b1665c7c60edd20b,No finding,Normal
+df8f1b15783b1b4b934231d944cc30e1,No finding,Normal
+c4220ae72fdf295cb20a089b71b3294f,No finding,Normal
+3dead8495b3fdcdde5912953e520b303,"Aortic enlargement, Pleural effusion, Pleural thickening",Abnormal
+f03ab985cd68c5cc6e57b3c936e2aeed,No finding,Normal
+51252d90beb12e47b0684e8673080ee0,"Aortic enlargement, Cardiomegaly, Other lesion",Abnormal
+2b8a0c8760862e0bd6dbac062d421396,"Aortic enlargement, Cardiomegaly, Pulmonary fibrosis",Abnormal
+0844f274f2a388e70231d3133754ac35,"Aortic enlargement, Pleural thickening",Abnormal
+f87b9997c140964b0956c28e929ed7f2,No finding,Normal
+73ef14aecb3e3f53d36a01014172f9bf,No finding,Normal
+84eb3e8b282f648bbc43c356f058f24e,"Cardiomegaly, ILD, Lung Opacity, Other lesion, Pleural effusion, Pulmonary fibrosis",Abnormal
+916917dc9ec6191ac3c32d8b2c6571e2,No finding,Normal
+742669c2df8236b4f543fca44c166ad7,No finding,Normal
+c2bdc729e1623c6c142d9f4e6ed48418,"Aortic enlargement, Pleural thickening",Abnormal
+05e560d65da399f4310a51c5bc7f44d8,No finding,Normal
+1cbdce1ee91b08da8573de59820f6381,No finding,Normal
+da8512183f1a490e9c7b516ae9e0db5d,No finding,Normal
+954ba15a1e8ab492c5b7ddfc2a48653e,No finding,Normal
+3aefb8dc3f0615131c0dc1477b4e3133,"Aortic enlargement, Infiltration, Nodule/Mass, Pleural thickening, Pulmonary fibrosis",Abnormal
+17b6cfad0ea2ecd3b9511743a608bcb7,"Aortic enlargement, Pleural thickening",Abnormal
+2beb474652da324c06ca0267cc903c1e,"Aortic enlargement, Cardiomegaly",Abnormal
+cf95785b8e8bf924e9cf0b51faef41aa,"Aortic enlargement, Infiltration, Lung Opacity, Nodule/Mass, Other lesion, Pulmonary fibrosis",Abnormal
+4de00727970092f702013334de506744,No finding,Normal
+5869fc566e6cf8443a772d649887c63e,No finding,Normal
+ccd403a2a0b24d9d67ebf996e03224d3,"Aortic enlargement, Cardiomegaly",Abnormal
+02cdc15120fca8e0ee1065c0a3153f06,No finding,Normal
+8e8605a691bd8149aad332a64fce5dcf,"Aortic enlargement, Infiltration, Lung Opacity, Other lesion, Pulmonary fibrosis",Abnormal
+2d6adf24742b6e9c95cbe0a0f67f288c,No finding,Normal
+a95d641ac8ee1a9f186cd0b8c0dca7ef,"Aortic enlargement, Cardiomegaly, Other lesion",Abnormal
+6d8478f09244fc42d4cef1c65e8ddd3c,No finding,Normal
+23d21fefa17763a4434cd67b576f09f1,No finding,Normal
+4ac18595c02ca0c74e4dcabf41245b02,No finding,Normal
+36eabd9827cd86b5fafb928ff4ee3883,No finding,Normal
+55e6279aac033f9a68822a4f84d765fc,No finding,Normal
+fca6ec628aaba74b867c27fec104fd3a,No finding,Normal
+e2cdf4955f581cb30a0e92f006125307,"Aortic enlargement, Cardiomegaly",Abnormal
+99c17974af8bce85486e4a8636afad26,No finding,Normal
+d3637a1935a905b3c326af31389cb846,"Aortic enlargement, Nodule/Mass, Pleural thickening, Pulmonary fibrosis",Abnormal
+d4d3f6cc1564b7cb824cf935e7c3c13c,No finding,Normal
+1f4ff0b5f150423ece6b38bc36e5bbfa,No finding,Normal
+2147ae7db5e6338ef91239c47fb1f311,No finding,Normal
+e1e596163010acb347ac7fa1a48d8d9c,"Atelectasis, Cardiomegaly, Consolidation, Lung Opacity, Other lesion, Pleural effusion, Pleural thickening",Abnormal
+7ed7def1a431371634f38e5113c396f2,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+930a3d2c506f5035a1aa301b401f6fec,"Aortic enlargement, Cardiomegaly",Abnormal
+484ac8b02e7fdf5807e95774da5f625f,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+08f84015dd3811451c7a99f3357480be,No finding,Normal
+8ce1c8d29072b068ae7c6c185213e156,"Aortic enlargement, Cardiomegaly",Abnormal
+b86e96470c56333125d835c60cabce5b,No finding,Normal
+17eea018beec6ef78ec675919080e6a1,No finding,Normal
+427f538105c4b3e67683731e4cb6eacf,No finding,Normal
+43c35b1e4a9632f71e77ae183173ccfa,No finding,Normal
+a838e79ba2e9716bc790a76f7ae1c94e,"Aortic enlargement, Cardiomegaly, Lung Opacity, Nodule/Mass, Other lesion",Abnormal
+a5beb1c44c49e97f1f46e5071c5c38e8,"Aortic enlargement, Other lesion, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+29ef577fc5d98ec967f9ebc3ac3257a3,No finding,Normal
+b30909789a5928b30bfa4739843e5bf0,No finding,Normal
+285757455efb2aa9ee37477dc3ce17b6,No finding,Normal
+e9830ce7a4a5adfbd50f18a25572bb33,No finding,Normal
+5766dfc49e91557e8cd4a06a406b8890,"Calcification, Consolidation, Nodule/Mass, Pulmonary fibrosis",Abnormal
+3bc5b8b466dc9ade754e1f179fddfafb,No finding,Normal
+c3ac713912a16b9a8b6e9b8b3246a328,No finding,Normal
+5610fd15c233e8ed55909ff2b9948ad3,No finding,Normal
+97b4c7ed1f29972870f135a4c3584693,No finding,Normal
+4b4fc21963a6438adf40b10348e87f49,No finding,Normal
+5184bc9a54adf7c8cb707c45f21fd741,"Pleural thickening, Pulmonary fibrosis",Abnormal
+0129a93b23aa71e7ea2b8b988d1c5287,No finding,Normal
+612418de926c8286c8eb5ea317cfe138,No finding,Normal
+3052424d097d8b94d387a20248639d47,"Calcification, Nodule/Mass, Pleural thickening, Pulmonary fibrosis",Abnormal
+2e4b0a0fb7faf81bc42b46c3247ae8ad,"Aortic enlargement, Cardiomegaly",Abnormal
+7bf14801ba177b4d09cee3dd3e452973,Other lesion,Abnormal
+2cb442312ff65f3255923b38dc6dc2fa,"Aortic enlargement, Cardiomegaly, Lung Opacity, Other lesion",Abnormal
+129a1e7753432edd052a2cdbfbaee00e,"Aortic enlargement, Cardiomegaly, ILD, Lung Opacity, Pleural thickening, Pulmonary fibrosis",Abnormal
+051d112b55e4c9f9dfa53307cc2ffb62,"Aortic enlargement, Cardiomegaly, Lung Opacity, Pleural thickening",Abnormal
+904e7343ef4dbd016fcf9c679690ce8b,No finding,Normal
+b691366d6d838d521c053720ef950e54,"Aortic enlargement, ILD, Pulmonary fibrosis",Abnormal
+acb556c64a4b230f77a02103b34afe7a,"Consolidation, Lung Opacity, Pleural effusion, Pleural thickening",Abnormal
+655c037ef7034935898655e0865857e0,No finding,Normal
+d32509da6cdeed96643392245b6ab8e8,No finding,Normal
+c7e98748e4f569bf9eb456a8b01c9b9a,No finding,Normal
+4ba255d801f2e52fd54a67d79bd3da8a,"Pleural effusion, Pulmonary fibrosis",Abnormal
+3845b3f74a2a76ef0b58310d61d03e6a,Aortic enlargement,Abnormal
+96bd06e0d91d69607522a2f8cab22550,No finding,Normal
+14a35e1f083bd63954592ce015771d0b,No finding,Normal
+0508d7ea85ba9be425657cc04c24a4f8,"Aortic enlargement, Cardiomegaly",Abnormal
+481e428544ec493d5608e0aaaf5464a9,No finding,Normal
+af16925c379e1cdfb07d11f68d85ec49,No finding,Normal
+9b1034893f70d565ab25e7c3aedb3ff7,"Aortic enlargement, Cardiomegaly",Abnormal
+2f605e2e7687b0cc0eaafa2c1b62193d,No finding,Normal
+7c1add6833d5f0102b0d3619a1682a64,"Consolidation, Lung Opacity, Pleural effusion",Abnormal
+eb9e22a9dbb15c3a9b957945351e651d,"Aortic enlargement, Cardiomegaly, Pulmonary fibrosis",Abnormal
+6535a046e90cc4e42bd3ac9598a07e06,No finding,Normal
+cefc99738c5307f12d9104f31ff2c1c4,"Aortic enlargement, Nodule/Mass, Other lesion, Pulmonary fibrosis",Abnormal
+7acf032984e0dde6b0cce4a429c1c8ee,No finding,Normal
+a54dadab8f6cc14103878d99092d2b7a,"Pleural thickening, Pulmonary fibrosis",Abnormal
+91f1c20e4e0753f19022f919014aaa3d,"Aortic enlargement, Calcification, Pleural thickening",Abnormal
+17e020659d7f13ef04ea22c404f44b78,No finding,Normal
+06632edb4a24bf2935ace8859d0134da,No finding,Normal
+4af2fb064cc821e4a7631fccdcf86c3e,No finding,Normal
+ca54feb71bb069bfb7206bc3aac0c9f7,No finding,Normal
+917974e9208badd0cf8ed8f757276a1f,"Infiltration, Pulmonary fibrosis",Abnormal
+d11b2ce53ce195af06de80a5076f8126,"Aortic enlargement, Calcification, Pleural effusion, Pleural thickening",Abnormal
+66fc91228ec5c614305dd54706f73f80,"Calcification, Consolidation, ILD, Infiltration, Lung Opacity, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+fc206ae1d3ef8a63e90642dba9f75e4a,"Infiltration, Lung Opacity, Nodule/Mass, Pulmonary fibrosis",Abnormal
+feb24760f15f661154ccc371571ceb4b,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+48fc499bce865b59c1a963e4affa8ad6,No finding,Normal
+d0c26a940c582594036c08b85b75e541,No finding,Normal
+2d8daf336410cbd18744f0e5cbdfa1d1,No finding,Normal
+f7dd175ca0962155ec39311b997a5288,"Atelectasis, Other lesion, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+9f3df4393958e462699462c22c36f26d,No finding,Normal
+9896c5404b9b37acf8193b1e22c98a15,No finding,Normal
+127c8c92b4e4393323efcde8c536de93,No finding,Normal
+7f0e383a8f3c1c49b14021f834d2fa24,"Aortic enlargement, Cardiomegaly",Abnormal
+6807503ed8ab156abd8b43ee6bc4be75,"Aortic enlargement, Cardiomegaly",Abnormal
+4555cd23fa3c64760cddeb6628c9ad1d,No finding,Normal
+8c09865ee3cb674cc41dee8bca45fe5a,"Consolidation, ILD, Infiltration, Lung Opacity, Nodule/Mass, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+6c7168280c801ce96908597527695ab5,"Aortic enlargement, Cardiomegaly, Pleural effusion, Pleural thickening",Abnormal
+57d275e696c91f74b75a1ef00c586538,No finding,Normal
+2dd1a6606ae8f23a5912114dd69cec94,No finding,Normal
+1bd8c16e09e5bb5526a6e9d7952927ee,No finding,Normal
+67e142bee76b89f0ca09bab8d7adaa2e,"Aortic enlargement, Other lesion",Abnormal
+96632a14b81e14539d4bf34e04954312,No finding,Normal
+0cf83a19a8281e4a281dece9854008ac,"Lung Opacity, Pleural thickening, Pulmonary fibrosis",Abnormal
+d7ab4fc8eba9859ab9199138002d6f34,No finding,Normal
+8e8d8e5b84f477e17297df90008ab053,Pulmonary fibrosis,Abnormal
+1ad1420c6bf26f67e1f0d1140e938efd,"Aortic enlargement, Cardiomegaly",Abnormal
+d0252f72f9db197d04d2f59c8f77f908,"Aortic enlargement, ILD, Infiltration",Abnormal
+1965a7754db07d37805473e656bbf611,No finding,Normal
+8ee700d34588f26133fe6241f875ee08,No finding,Normal
+6f0231d5ec13130df2de4cf1a4541a15,No finding,Normal
+24793d2a018f80fe9bc31876003e359a,No finding,Normal
+9ac2c7528ea0a9bea5f7485694006a5f,No finding,Normal
+8a1194107e6ab9101402512dba498e8e,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+dfcf19aba6e7eed78f46775320358f28,No finding,Normal
+c5d97710f6f2c62e878401019504228f,No finding,Normal
+2c2fd436da6ef27e51b626fa13b37fa5,No finding,Normal
+cca960f7eb04e1a2cb55cb006abf7c49,No finding,Normal
+4dd2565b70e524eeabe9a1c6ce75a3a3,Cardiomegaly,Abnormal
+9fc583b82b23ec8adb680d4fa2a6ba93,No finding,Normal
+15edc6ae9aebe34220472aa7fcf34b08,"Atelectasis, Other lesion, Pulmonary fibrosis",Abnormal
+609eb619fc23177db779067b5cc816a7,"Aortic enlargement, Cardiomegaly, ILD, Lung Opacity",Abnormal
+b0c015954f4b80fddd0ed4d105e9e434,"Aortic enlargement, Cardiomegaly",Abnormal
+ec5ed0882416a17e69399ae3c69aeb6d,No finding,Normal
+ee387adc8e34dcbb696539dcbb626a9d,"Aortic enlargement, Calcification, Other lesion, Pleural thickening",Abnormal
+364c33a7ee60c6919e8f6ba8a8972262,No finding,Normal
+26fd27f25c4c5329c224f75f5f94d96c,Aortic enlargement,Abnormal
+454d4b20bb55eb38f90fd51706531b9e,"Aortic enlargement, Lung Opacity, Nodule/Mass",Abnormal
+6605faf598579d666064f0a09cee2557,"Aortic enlargement, Cardiomegaly",Abnormal
+c14cbdbdd9e48f814b8e8991b4cd58d1,No finding,Normal
+192c4c38091301d8e28feefe188d0688,No finding,Normal
+78d5ff1cb48bc317bd20d7e3ddae34f5,No finding,Normal
+945dcf557d9d281b55644289c53b1039,Cardiomegaly,Abnormal
+b23548e92d78f28ac323a4609751c152,"ILD, Pleural thickening, Pulmonary fibrosis",Abnormal
+e37701f73ced1fb55d243771bb06e4da,No finding,Normal
+7ea1e4cded4ece38e3ffa27a3bf2e937,No finding,Normal
+119bc2dba30b0ba7995e189504126ed1,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+9134e1c89231ce785443c0e4eac783a7,"Aortic enlargement, Lung Opacity, Nodule/Mass",Abnormal
+eaa4b09922cfd1c4130787403173e93a,"Aortic enlargement, Cardiomegaly, ILD, Infiltration, Lung Opacity, Nodule/Mass",Abnormal
+6c4b78e706f33af6d0561c990df490b0,"Cardiomegaly, Other lesion, Pulmonary fibrosis",Abnormal
+97fe3100065217d8818a7391c0fdaa99,No finding,Normal
+1246d654bb8a0b1e713e6d48a485456a,No finding,Normal
+018a2fe44c3451281ec338c27ecc9c53,"Atelectasis, Calcification, Lung Opacity, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+dadf619a987c90a4f2c250ae26ed2041,"Lung Opacity, Nodule/Mass, Pleural thickening",Abnormal
+fba40b4a066903eaccbf80e168617e69,"Aortic enlargement, Cardiomegaly, Nodule/Mass",Abnormal
+10d100f6b480361b2b5c9e1ce4f4f9f2,No finding,Normal
+4ec2fcd26cb91d4d33596c69c46e0816,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+44d27ae011ba5ec163264667b89fdb89,No finding,Normal
+caf1b7af2b0caf57a7ae5d23b5dd2aba,"Infiltration, Lung Opacity, Pleural effusion",Abnormal
+24051b6c68ac93e887c70b671d9197cb,"Aortic enlargement, Cardiomegaly, Infiltration, Pulmonary fibrosis",Abnormal
+b065d3b4da92b8015b47224341661fd8,"ILD, Infiltration, Lung Opacity, Nodule/Mass, Pleural effusion",Abnormal
+91a12fbbe1ad5eb62cdf97edeb122280,"Aortic enlargement, Cardiomegaly, Lung Opacity, Other lesion, Pleural effusion, Pleural thickening, Pneumothorax, Pulmonary fibrosis",Abnormal
+a33cd2473556d2cdfd77ba3d2fa78349,"Other lesion, Pulmonary fibrosis",Abnormal
+54baa0567d081c840fe6b42744e46d35,No finding,Normal
+5ea233bb0768709612169057aed71051,No finding,Normal
+0b6006be69ea1764f9bf80e5091b1e8e,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+7ef087c19b4be20d077ae67763a63f63,"Aortic enlargement, Cardiomegaly",Abnormal
+6af136c2174e33858709f8600065aa44,No finding,Normal
+0d5b5d084d43bed385e4c41afc273f75,No finding,Normal
+7f599800cc62ee666b751303ca096f98,No finding,Normal
+02562eb68a9c682f5f644fa7a099733f,"Calcification, Nodule/Mass, Pleural thickening, Pulmonary fibrosis",Abnormal
+4cac1c56a780cc70bebecf84c5f51d5c,No finding,Normal
+23f29ee2101fa421afeb84cf923ee9b6,"Infiltration, Other lesion, Pulmonary fibrosis",Abnormal
+46691ca3337bb1ac6facb15a8794ef9e,No finding,Normal
+d7aea6f37597df566725da73655edcc2,"Aortic enlargement, Cardiomegaly, Consolidation, Infiltration, Lung Opacity, Pleural effusion, Pleural thickening",Abnormal
+b6361404d23cc3dded7fa521b1ebddde,No finding,Normal
+dd56e45f5a420deeea392f45fedee77c,No finding,Normal
+315749c6f7397c42913f97db8388f4c2,"Aortic enlargement, Cardiomegaly, Other lesion, Pleural thickening, Pulmonary fibrosis",Abnormal
+f32fbc404c68b727c5bf14bca3ec7b5e,"Aortic enlargement, Atelectasis, Cardiomegaly, Consolidation, Lung Opacity, Other lesion, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+b66d58ed04096cca4e4fbb0da6e74592,"Aortic enlargement, Cardiomegaly",Abnormal
+42fba4329860d5995fea57553104907a,"ILD, Infiltration, Other lesion, Pleural thickening, Pulmonary fibrosis",Abnormal
+f1190be5b190b5f8d3b7893ac107ce9c,No finding,Normal
+f3dd8aef2b62153f4268b48635c7ad9d,No finding,Normal
+8a352d81c1b4c05e404eb34be4082022,No finding,Normal
+3875a7e4eb1bdb443470a1abbe93cb58,"Aortic enlargement, Cardiomegaly, Pulmonary fibrosis",Abnormal
+9a321e5a866cee9e943cf5f3684de512,"Aortic enlargement, Calcification, Cardiomegaly, Lung Opacity, Pleural thickening, Pulmonary fibrosis",Abnormal
+75ecc008a5e1a7f034c309b4f3f1e64e,"Aortic enlargement, Nodule/Mass",Abnormal
+b2fe8c30a2fa3f246ec9aaebf8c0e96a,No finding,Normal
+c72ea62bef9b30e27d165d44aad89e90,No finding,Normal
+2c49a0717dffbc97f2236bd0e9ae62a7,No finding,Normal
+d70e8f6924ff1e80d6b008965df94e08,"Infiltration, Lung Opacity, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+a3fbcbd433c86cf2e93320884219aa99,No finding,Normal
+79c5d4d7f3b2e7a5a183bfbe664c699d,"Consolidation, Infiltration, Lung Opacity, Pulmonary fibrosis",Abnormal
+0c7a38f293d5f5e4846aa4ca6db4daf1,"ILD, Nodule/Mass, Other lesion",Abnormal
+4010817f919544f7c1c7eef1858ce071,"Calcification, Nodule/Mass, Other lesion, Pleural effusion, Pleural thickening",Abnormal
+dba73ad098671788c3ed72fc9b07bdd3,"Aortic enlargement, Cardiomegaly",Abnormal
+052cf8f6cb59da96df7386adf8d5f6a0,"Aortic enlargement, Other lesion",Abnormal
+928076ee487f027f64e040389fc91725,Pleural effusion,Abnormal
+124ec853c372fcf7f4428b26b32be62f,Pleural effusion,Abnormal
+4f0931c2ed68bf3838e35108ec0fbf55,No finding,Normal
+0ae620944412bde5a4698049c2bbd3af,No finding,Normal
+d5fd5c2233862d3d73a5e4f7b57be280,"Aortic enlargement, ILD, Infiltration, Lung Opacity, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+7bfe0a0d0ef7ce9e90eb3d0946a0fcd5,No finding,Normal
+b4105a81821522d6bfe3d18d9b757eb4,"Aortic enlargement, Cardiomegaly, Consolidation, Lung Opacity, Pleural effusion, Pulmonary fibrosis",Abnormal
+51a8a2d913f12d2b39d9fe43fe27aa2d,"Aortic enlargement, Cardiomegaly",Abnormal
+6496f25a409ae303ee6f158b8727db87,No finding,Normal
+d86c7405606f965ab7300ef1eacbcacc,No finding,Normal
+74a6dc1a51dffd964baef5089fc4d1b6,"Aortic enlargement, Nodule/Mass, Other lesion",Abnormal
+7e2b67509fa24f95e4237ed93ac683e2,"Aortic enlargement, Calcification, Cardiomegaly, Nodule/Mass, Other lesion",Abnormal
+f67af60921c0ac44001149705cb5cf69,No finding,Normal
+7b692197176f29c71158ffc95b3c1e18,No finding,Normal
+07c3a06d3617ad26847c00aadf719eb5,No finding,Normal
+4b33db392748079f75a5250a15840b74,"Aortic enlargement, Cardiomegaly, ILD",Abnormal
+81ea940f6219bbc128abe9f642342c6c,No finding,Normal
+adab49fdf0b185df201ab8f1d1857453,No finding,Normal
+9f329a8c05ac45949b43e6626efdb8d0,"Lung Opacity, Other lesion, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+6d2ea40c6bdeaf8c3c7be4ae9125834e,"Aortic enlargement, Cardiomegaly, Lung Opacity, Pleural thickening",Abnormal
+b022e92b9271babbc6a7a734fd7b77cc,"Aortic enlargement, Nodule/Mass",Abnormal
+8211d579bf654c694955d5b6bed67cf3,No finding,Normal
+149d54ca6c3a3b1ea979e841c7130f8c,No finding,Normal
+6ca600eafd1788addffae22ebb7837dc,No finding,Normal
+ddeb40737928ae87d4f71257d5b29c3d,"Cardiomegaly, Pleural thickening",Abnormal
+395a89a6041167d0254dc826ddfe7110,"Aortic enlargement, Lung Opacity, Nodule/Mass, Pleural thickening",Abnormal
+9cb1de7f6ec0995064c08d3855a9cc0f,No finding,Normal
+0fafbbfb67745f8c29351f9f7263b82f,"Aortic enlargement, Calcification, Other lesion, Pleural effusion, Pleural thickening",Abnormal
+425a34be84f439353a9d4a2f54212e8c,"Aortic enlargement, Cardiomegaly",Abnormal
+a6c730c40225de86de9f09d502ee5932,No finding,Normal
+3123f4eaee1eb304261c91bb668b0631,No finding,Normal
+15be011ec328fb18affff8f2f3f3c4ea,No finding,Normal
+9d78bfe4df5aa3ba04c68ac0373d3470,No finding,Normal
+959cb0680fbb9779352b9e42feef7977,No finding,Normal
+ac2a615b3861212f9a2ada6acd077fd9,"Aortic enlargement, Cardiomegaly, Infiltration, Lung Opacity, Pleural thickening",Abnormal
+db0409f17482d968dc350ae12a91d913,"Aortic enlargement, Pleural effusion, Pleural thickening",Abnormal
+a92879d1bc65ab8fbda2755e55f6462a,No finding,Normal
+528b0f9791c96c9cb1b2e4f510223f8e,"Aortic enlargement, Cardiomegaly, Infiltration, Lung Opacity, Other lesion, Pulmonary fibrosis",Abnormal
+ce0a7268695e0f82d7350f8646ea8c86,"Aortic enlargement, Cardiomegaly",Abnormal
+968172a174cec0c1f043932fd8a4576b,"Aortic enlargement, Cardiomegaly, Other lesion, Pleural thickening",Abnormal
+2024502be6b68ef571732398b632b004,No finding,Normal
+1e942d9666eb7b3cd0bf4e2bedae5fd6,"Infiltration, Nodule/Mass, Pulmonary fibrosis",Abnormal
+96836e392ecca0df10f8aeac33db3c68,"Aortic enlargement, Calcification, Cardiomegaly",Abnormal
+595883a29ce9b34f8ae3c2380cbd6239,No finding,Normal
+88932681cc425d08e5583baeafb9dd12,"Cardiomegaly, Pleural thickening, Pulmonary fibrosis",Abnormal
+1a12a01319157c409b0874b66319bc35,No finding,Normal
+50454d9d187709b92281d016553b2a75,No finding,Normal
+77b13d39f6c20a45830c2a09659eb00a,No finding,Normal
+b9e3a3e2f00c934a4212c99b8727d720,No finding,Normal
+e52fdb7334e3e02e6e9ab29c3158e278,No finding,Normal
+18d947bf4df364db859aefa2e3ef34fd,No finding,Normal
+6260a671232c600e16c6d5ab67566449,No finding,Normal
+e18a100e84aefa9da53dc8cc2fd4f22c,"Aortic enlargement, Cardiomegaly, Lung Opacity, Pleural effusion, Pulmonary fibrosis",Abnormal
+f959f8e6ea3da784426e14ee78f849ac,No finding,Normal
+b9e484fa14cf5877736daa59b2ce2b24,"Cardiomegaly, Lung Opacity, Nodule/Mass, Other lesion, Pleural thickening, Pulmonary fibrosis",Abnormal
+4b56bc6d22b192f075f13231419dfcc8,"Aortic enlargement, Cardiomegaly, Lung Opacity, Pleural effusion, Pleural thickening",Abnormal
+ccc68a4342b2e47a4d047da91403568d,No finding,Normal
+8dd6662d207b63fbfd51d2ccda2910cc,"Aortic enlargement, Lung Opacity, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+fbda3ef47493765e3d705185bf5c9538,"Aortic enlargement, Cardiomegaly, Pleural thickening, Pulmonary fibrosis",Abnormal
+4f3f5460ae80ab6ec1bf00b33087a828,"Aortic enlargement, Atelectasis, Consolidation, Infiltration, Lung Opacity, Other lesion, Pleural thickening, Pulmonary fibrosis",Abnormal
+da95c308ecf6b869be4930aa124c0d7e,"Aortic enlargement, Cardiomegaly, Nodule/Mass, Pleural thickening",Abnormal
+fa9cd1a78a6d2d8d6e918a8c4125faf4,"Atelectasis, Consolidation, Lung Opacity, Nodule/Mass",Abnormal
+97f48290716a3cad241bf74f3ce47143,"Calcification, Nodule/Mass, Other lesion, Pulmonary fibrosis",Abnormal
+06c585d390e6e6ddd213f2715c367601,No finding,Normal
+d3088874dca00ceca4712f526429b46e,No finding,Normal
+01fec681f2d698497151a88d6c5205a1,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+c2fafca7a6e8316c8bc0a3dc400b8aba,"Cardiomegaly, Consolidation, Lung Opacity, Nodule/Mass",Abnormal
+eda73e10819c025c32693190a120b7b1,No finding,Normal
+465ad9a4411cbf4dd5edef11b3055189,No finding,Normal
+cf5594b365507845c417b03b93107877,Pulmonary fibrosis,Abnormal
+55e45c8cf9f997e9970596503683521a,"Aortic enlargement, Cardiomegaly, Pulmonary fibrosis",Abnormal
+e583b6c45b5622f1e714f57521a22a30,"Aortic enlargement, Consolidation, Lung Opacity, Other lesion, Pleural thickening, Pulmonary fibrosis",Abnormal
+e29f74e241faaa7b65fd5d15c06d52eb,No finding,Normal
+53125b5fb758b63aaf01465e70f732c9,No finding,Normal
+cdd5d9b02e2b7b41e239cfcfc1519a25,No finding,Normal
+e601c68efa9bba0dce609b8fa82b7187,No finding,Normal
+f3e804892343e3b12e2542939d9101a6,"Cardiomegaly, Pleural effusion, Pneumothorax",Abnormal
+8f0d77c5c2faa59b360bf71cc07f4d4e,"Aortic enlargement, Cardiomegaly, Pleural thickening, Pulmonary fibrosis",Abnormal
+8073cdb1628427aac2ad0bf4483907c6,No finding,Normal
+fe7c4ce8bceb5534d33c180f01be650c,No finding,Normal
+9b389242ffe5059b705ee8f5aac00bd5,"Aortic enlargement, Cardiomegaly, Infiltration, Lung Opacity",Abnormal
+5b05df19287bc68ead3011b06492d5e9,"Cardiomegaly, Other lesion",Abnormal
+f21b875faf5d86d8433c8590348e92e3,No finding,Normal
+023a8b8557d1fd59f272c63be6f3d4c0,"Calcification, Lung Opacity, Nodule/Mass, Pleural thickening",Abnormal
+7245fcab6a98659146972d983aa01c6d,"Aortic enlargement, Consolidation, Lung Opacity, Other lesion, Pulmonary fibrosis",Abnormal
+28896771fc2f06e7fe9444b125644731,"Aortic enlargement, Cardiomegaly, Pleural effusion, Pleural thickening",Abnormal
+e8c4d0d60caaf2c1b34460f3ef9c7330,No finding,Normal
+b809bc79ed36a280bbf206bb26b0017b,No finding,Normal
+e444d07c618bc40a493c83919ef11df8,No finding,Normal
+f8c4ffc718ece871a52ab5f63b04b41c,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+7540b357c67f2049cc0b8808fa2b91fc,Cardiomegaly,Abnormal
+a77bfe2433adc567669ac27ed874b0ed,"Aortic enlargement, Cardiomegaly, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+9d839a52c0fc61167a2f95ae6f7ee5ad,"Aortic enlargement, Cardiomegaly",Abnormal
+e2370088b9f49af09a0bb24190a5a721,No finding,Normal
+40e919b188ff9c41cf2e3f9c37a4b808,Nodule/Mass,Abnormal
+8c6cbbc156f7eb5d6132c937d089f014,No finding,Normal
+5ca166e3c183eed19a435a0db42d9939,"Aortic enlargement, Cardiomegaly, Lung Opacity, Pleural thickening, Pulmonary fibrosis",Abnormal
+4aaebe588ff727b6fd09d0a82cfd51a2,No finding,Normal
+c454d24257f2d8ddd5701b4ea492141d,No finding,Normal
+b1263abc5d0d2374b02d524192319200,No finding,Normal
+752836009ec557fe1f845720bc2914f4,No finding,Normal
+c4573e9b9289b4c369d26d0d484b6cb4,No finding,Normal
+9b962decc3b730467e74a8fbfaa0d953,"Calcification, Other lesion, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+0577720478795501b0c510ddeb729ecd,No finding,Normal
+3ff22a602b26d804863daaf6b7230d47,"Aortic enlargement, Calcification, Pleural effusion, Pleural thickening",Abnormal
+cc9a84f1f3942ceb845c5f174e5b70cd,"Aortic enlargement, Atelectasis, Cardiomegaly, Lung Opacity, Nodule/Mass, Other lesion, Pleural effusion",Abnormal
+f833690b5491c387aa490bba3321c98b,No finding,Normal
+c9ab0417e432df9f26a815c5bb45a5be,No finding,Normal
+53fd81f25545667511f292625f390087,No finding,Normal
+f8dee4ee7a507e4e1f6a2b951e63f3d0,"Aortic enlargement, Cardiomegaly",Abnormal
+413a167473cba4db44ee7be8359d1546,No finding,Normal
+a5b4a4f3010769a3601c845983ee0826,"Aortic enlargement, Cardiomegaly, ILD, Lung Opacity, Other lesion",Abnormal
+bf9bba0703ec2a74740fbb891b9f6322,"Consolidation, Lung Opacity, Nodule/Mass, Pleural effusion, Pulmonary fibrosis",Abnormal
+3c533d9961c9f23cbc39f2e50db572dd,No finding,Normal
+0e6af94d17007c94d858b3bb7adb7dac,"Consolidation, Infiltration, Lung Opacity, Pleural effusion, Pleural thickening",Abnormal
+d382f7b5c1608ed890527962c60eda05,"Aortic enlargement, Cardiomegaly",Abnormal
+825f962cc7bbbaeb7acb2a9120e6113d,No finding,Normal
+898aa25e4ce627843fa8ea0607a0cfc8,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+c3a7cdd9fb36706cfd3a4fdb86b65061,"Pleural effusion, Pleural thickening",Abnormal
+15430f5f4c60bb403faa3cc96a4a83a8,No finding,Normal
+6097e21640f344e315fe9d99d2cbe307,No finding,Normal
+373135eb64bc78017d32d5a80807100d,No finding,Normal
+569f16cfa1a0c9536565c78b092d098b,"Pleural thickening, Pulmonary fibrosis",Abnormal
+32f3c9fbf92f51b0eee20090e07bf596,No finding,Normal
+b1ddff6a5d303b88dd13ee25430d03a9,No finding,Normal
+7e038329e627ea69d841e973c82763ba,Aortic enlargement,Abnormal
+6f6b8ad537cd551d21769745d7b00c03,No finding,Normal
+ae3382840414ce4de46c3827674b9709,"Aortic enlargement, Cardiomegaly, Consolidation, Infiltration, Lung Opacity, Other lesion, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+d42d27467595a3a181d3b5c1e67746fa,No finding,Normal
+bdd1406eb621095fc6357f351b12be89,No finding,Normal
+daa9fa42d787183c91519315f5927cce,No finding,Normal
+1a4b73e47f99ce15af33427cc16ecc74,"Lung Opacity, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+f08b2100e00b9754597dd5170ee877ab,No finding,Normal
+ecab6e4508ae3d260d77c125c1636e75,No finding,Normal
+0a7aec5bd4485a6f5b67e53a8636305c,No finding,Normal
+c818320ffaaa28c866549769e23a3b1d,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+9852b93d2e984a4c427f7d14be534717,"Aortic enlargement, Calcification, Cardiomegaly, ILD",Abnormal
+850efce317c8306a07d00f274e8cd8eb,"Aortic enlargement, Pleural thickening",Abnormal
+ba0f97b49906ccf1bf205dd7ca108c06,"Aortic enlargement, Cardiomegaly, Lung Opacity, Pleural thickening, Pulmonary fibrosis",Abnormal
+f9ba2d912ef79893510ff58bafa70558,"Cardiomegaly, Nodule/Mass, Other lesion, Pleural effusion, Pleural thickening",Abnormal
+4b91d54f3170a9c8a757e6acd6c25588,"Atelectasis, Cardiomegaly, Consolidation, ILD, Infiltration, Lung Opacity, Nodule/Mass, Pulmonary fibrosis",Abnormal
+fce53f0b032b635037ce25b081fbfb98,No finding,Normal
+f6fc6f200924da874ae95664661e67aa,"Aortic enlargement, Cardiomegaly, Lung Opacity, Nodule/Mass, Pleural effusion, Pleural thickening",Abnormal
+c2c54eed2dd73e20ef0e5af5a4aa1feb,"Aortic enlargement, Pleural thickening, Pulmonary fibrosis",Abnormal
+8b1beee6ae2a00d5a98483e50c7ac0f2,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+659e8fa4b3d038c98fbfc0ab4cfcd411,"Atelectasis, Calcification, Lung Opacity, Nodule/Mass, Pleural thickening, Pulmonary fibrosis",Abnormal
+212863572a589065a200069a59d5223c,No finding,Normal
+4c7ad3fca0d9c09fb5c649ac91cbad14,No finding,Normal
+d552f9d13cfb671793ac74e81b7cb20d,No finding,Normal
+5576d293dfccbc926d92d3ec0d20b9af,No finding,Normal
+7d4366c30f7f7ff4b4a892e3ce5c69f2,No finding,Normal
+6c3d0d8d3c023b4daf01065b94824245,No finding,Normal
+862f0aaa5644a8a01e86ff585005a259,"Aortic enlargement, Cardiomegaly",Abnormal
+a7eaf74178c4aca851e331b2c8503ff1,"Aortic enlargement, Calcification, Cardiomegaly, Pleural thickening",Abnormal
+5e86b52242e527ea2eaca51fdb1d9012,No finding,Normal
+517f3939a9628db4475c2c0ae39b2d1b,"Aortic enlargement, Calcification, Cardiomegaly, Other lesion, Pleural thickening, Pulmonary fibrosis",Abnormal
+591d5da8e2fc8d1c18934e0a69cd640f,No finding,Normal
+a1058b4368a7e3d945757f218393baf9,"Aortic enlargement, Lung Opacity, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+d617b24dad98aa3b1f2d645828095355,"Aortic enlargement, Consolidation, ILD, Nodule/Mass, Other lesion, Pulmonary fibrosis",Abnormal
+872fcda56bcda425012eef3cbf6ebf95,"Aortic enlargement, Cardiomegaly, Lung Opacity, Nodule/Mass, Other lesion, Pleural effusion, Pleural thickening",Abnormal
+4321f8749a8a6b70c225c91b72f2b869,No finding,Normal
+8072c8f70ffb83e6a82b01aafb25263d,"Cardiomegaly, Infiltration, Lung Opacity, Other lesion, Pulmonary fibrosis",Abnormal
+ae2ee40dc4a0a53a87e85f1b3f9e159a,"Aortic enlargement, Cardiomegaly, Lung Opacity, Pleural thickening",Abnormal
+4185bd6cbe3a03ead0d7063da4e270e0,No finding,Normal
+2ad9cb1610c318b89b42912ae007040e,No finding,Normal
+82caf25a0d29f7c46d8161801a07e179,No finding,Normal
+619ff64bf5975183bdd2c0d46940a483,No finding,Normal
+60bd2b079a603356e49416f32b75ded7,No finding,Normal
+f10143e3eb341eac01909c339a5cf01f,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+ffdd027d6aa68286ea30c61ab6f58454,No finding,Normal
+1dd24b51bb2c4e67bf02641925881174,"Aortic enlargement, Cardiomegaly",Abnormal
+b8a4efb22a3f25a87742858c360daf96,No finding,Normal
+05ba77b1cf87cd4597d988581f269b44,No finding,Normal
+a76703a9a5a6459ca0c4ba8407403bc0,"Aortic enlargement, Other lesion, Pleural thickening, Pulmonary fibrosis",Abnormal
+3d7546922f726d53928110e84f037fba,No finding,Normal
+d707b9edbd1d4522d30a173cbfebebb6,No finding,Normal
+aac7be2bd0b4a2eeea474ffeac78ad13,"Atelectasis, Consolidation, Infiltration, Lung Opacity, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+9c3e095779134703dfd7b263d71b44f4,"Aortic enlargement, Cardiomegaly, Pulmonary fibrosis",Abnormal
+7911c117c6bd2b7f488aee14a3ae346c,No finding,Normal
+743601b5826b3d21eab4b1b90ed73bc3,Aortic enlargement,Abnormal
+eabdcf4a79311551266984e5c41c1fed,No finding,Normal
+d15e6278a65dfc72e8a437c5836ba4a6,"Aortic enlargement, Cardiomegaly",Abnormal
+f50d5b9d7f65680d066371d14fcda875,Aortic enlargement,Abnormal
+91c5f8decf441bfaf7c89e7c3dd06fd9,"Aortic enlargement, Cardiomegaly, Lung Opacity, Pulmonary fibrosis",Abnormal
+8c7eb3d731e34da4e41619dd80a1a429,No finding,Normal
+7379b320791eb6f9d422fdd89c805dd9,No finding,Normal
+bffe24bfd56e64deb65bf639805df7cc,No finding,Normal
+7cf206f4cfa9f72eb70cd9d5d9200185,"Aortic enlargement, ILD, Pleural effusion, Pleural thickening",Abnormal
+128c74577cb8aa5fb9efe7cb4c520322,No finding,Normal
+bd3c6e73c2be5a01044c2c181c58482a,No finding,Normal
+3f05fe9d273e90ebb3d7f47b3b9be9f0,No finding,Normal
+834f395ef75cdefe26c9d2cb3cf809b4,"Aortic enlargement, Other lesion",Abnormal
+bbe274a006eb25afe1432d1dd393f6fa,No finding,Normal
+142058e5b10acf90aa89d9779daf03e9,No finding,Normal
+63fead24d55337696caa133747885422,No finding,Normal
+45e7f82d0650a40199fe36ac6fb5d809,No finding,Normal
+faf2eeb7b3818ff5941115c3f9b6070e,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+2cd3110bd8730f5db82c3efb9cd0c84e,No finding,Normal
+cc57b8e71bed57a6454b46135882911d,No finding,Normal
+2d482e5e1ad068673e4f6cb8a36a6077,No finding,Normal
+4bbfa8505b7fbc0685c14d1003763f9e,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+e3a37326d6d7c5c35e6f84cfbb8187ca,"Lung Opacity, Pneumothorax, Pulmonary fibrosis",Abnormal
+2677400563046fc3f3687dd984d0b835,No finding,Normal
+206f64789c8237b16ef4da5a38d74cdc,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+46ddca654164928e6c422e3e2eb24f9e,"Aortic enlargement, Cardiomegaly, Pleural effusion, Pleural thickening",Abnormal
+28013e33c4791e3046b3bc78b6cc7338,No finding,Normal
+9385f1142a0999cae18ceb73dc804bc7,"Lung Opacity, Pleural effusion, Pulmonary fibrosis",Abnormal
+82624b37dc4d0169f3fe6fd87dcb5208,"Aortic enlargement, Cardiomegaly, Consolidation, Lung Opacity, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+5170326726acc5b2f50c4426417f3b23,"Aortic enlargement, Calcification, Cardiomegaly, Other lesion, Pulmonary fibrosis",Abnormal
+a9ab4843564feecfc052a300af02cf71,"Aortic enlargement, Cardiomegaly",Abnormal
+f1d5d21120f5370c55efc2ab3d2db8bc,No finding,Normal
+7262c4f032da053dfb8b6b39b1bd01df,No finding,Normal
+cdeda235172891a9886537799cd57d76,"Aortic enlargement, Cardiomegaly, Nodule/Mass, Pleural thickening",Abnormal
+21e705b10515b420d9b17a5183ee4830,No finding,Normal
+7e6c0dc72fa1db4a501f7ac5f6aac040,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+87545bddfd34ccf9d27c19a482f5a409,"Aortic enlargement, Cardiomegaly, Lung Opacity, Other lesion",Abnormal
+ae0166b5aa0bd2b27ef90feb99fb86e5,No finding,Normal
+61eda4cf19454682248154196d27cf07,"Calcification, Other lesion, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+525931a90ab60b843f96ba79db234039,No finding,Normal
+34e4159d3c32e17bd1e43c42c8537f2b,No finding,Normal
+23e394924a3ae06f914635a7c3dfdeb4,No finding,Normal
+4b074c4182d4d43ff94d2378aad17a7e,No finding,Normal
+7841614f51ed3dfd1c3177a52493c56b,"Aortic enlargement, Cardiomegaly, Other lesion, Pleural thickening, Pulmonary fibrosis",Abnormal
+e295e1f2ce1695b80db68a73c6042d99,"Aortic enlargement, Pleural effusion, Pleural thickening, Pneumothorax",Abnormal
+5b737f3ebfbfb5c4b517fd0efdb63ae0,No finding,Normal
+64e2df42cb29bb37d08aeb0ca22b3f62,No finding,Normal
+15acee7728e6530dfa2bd01521c7148d,"Aortic enlargement, Atelectasis, Cardiomegaly, Other lesion, Pleural effusion",Abnormal
+6e2c5ac0b017ee374840d5ad3aba3629,"Aortic enlargement, Lung Opacity, Pulmonary fibrosis",Abnormal
+9da65d59721d58bd125a4fc94b6ffec6,"Aortic enlargement, Cardiomegaly, Pleural effusion, Pleural thickening",Abnormal
+4adeb5e5837fa7187535346c27d1afa6,Nodule/Mass,Abnormal
+8a87a85a22182720d845212dfb44daef,"Aortic enlargement, Cardiomegaly",Abnormal
+a68dc259352540652c16a30b4ad4c99f,"Aortic enlargement, Cardiomegaly, Infiltration, Lung Opacity, Pulmonary fibrosis",Abnormal
+b2a52a18d74c641353762a0c1569a695,"Aortic enlargement, Cardiomegaly, Lung Opacity",Abnormal
+f04b3db35749d0bb959a9dbb8e5858c9,"Aortic enlargement, Cardiomegaly",Abnormal
+12735a3e6ae44fe59babe2a618dbc450,No finding,Normal
+c996a67b615c29ae24418c918bd44c69,"Aortic enlargement, Cardiomegaly, Lung Opacity, Nodule/Mass, Pleural thickening, Pulmonary fibrosis",Abnormal
+a12acdff4dde1fe41e33dccabe32ac09,No finding,Normal
+40dcb513437e7adde4414b51b273ade8,No finding,Normal
+7a7b30a642d5f305ccf5f7a6f2e901e8,"ILD, Lung Opacity, Pleural thickening",Abnormal
+5d8aad3fbe2a422089ebf41678bda3ce,"Lung Opacity, Pleural effusion, Pneumothorax",Abnormal
+f5f0ce7c7c2a1958797bf900ede184fa,No finding,Normal
+703637c0369923222e87e31bb7477b4f,"Aortic enlargement, Cardiomegaly, Lung Opacity, Nodule/Mass, Pleural thickening, Pulmonary fibrosis",Abnormal
+607867449f9bc95be2e163509e254752,Aortic enlargement,Abnormal
+5e9cff920c50f683f16c3788bdcf2b8c,No finding,Normal
+05721adb43ab7c061733568b274c006b,"Nodule/Mass, Pleural thickening, Pulmonary fibrosis",Abnormal
+1b10ae5a7c9530537364360383fa6667,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+0c450f19114239e20978f5eeea14774d,No finding,Normal
+06ba60d8ce256b3edecbb31323e37576,No finding,Normal
+fa1d691e369b258e948303634d83b2f6,"Aortic enlargement, Lung Opacity, Pleural effusion, Pleural thickening",Abnormal
+b15a93f329d08e18247d266fc89dc05a,No finding,Normal
+b4db27f83c152fb40adc9bd6a4e742d8,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+95b55a69ed71d956594f754e8071f64c,No finding,Normal
+ad692ac2d79af2c93b21a9260ab32f6c,No finding,Normal
+762f339322e42d419878a7b9c887553c,"Aortic enlargement, Calcification, Cardiomegaly, Lung Opacity, Nodule/Mass, Pleural thickening",Abnormal
+c5c36ce7f8adbd045bfe59a325eeae47,"Aortic enlargement, Cardiomegaly",Abnormal
+ef8abdca805f7af833aecafaddbf818e,"Aortic enlargement, Cardiomegaly",Abnormal
+a3d083370bb61d52f037257dc9411973,No finding,Normal
+707c385d9f2bd692e1b9e3d9d4da8a9e,No finding,Normal
+0ffa24230f7064bcdb313507dce02ae3,"Aortic enlargement, Cardiomegaly, ILD, Other lesion",Abnormal
+417016c92681374ec6f8738ad072f09b,No finding,Normal
+0f03e1f69371e5c554e2cbd56d52fa23,No finding,Normal
+fb8e11c6b2886b2d41b379e0598669b9,"Aortic enlargement, Consolidation, Infiltration, Lung Opacity, Nodule/Mass, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+7a4bbf44262ba36208dbb20153f4569d,"Infiltration, Lung Opacity, Pleural effusion, Pleural thickening",Abnormal
+a7bba955cdf410ec6da045191a8c056c,No finding,Normal
+4376c4766028d6873001b6653c5b6a13,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+028fcc44d3104099480e897541a1ecc3,"Aortic enlargement, Infiltration, Other lesion, Pleural effusion, Pleural thickening",Abnormal
+424ad76d9a27d9430ced5f6f6f81bfbc,No finding,Normal
+eaaa04823e2280d1cb8cb5b52952d7ad,"Aortic enlargement, Cardiomegaly, Infiltration",Abnormal
+357f8f4587f096c180f701f450fffcfa,"Calcification, Cardiomegaly, Lung Opacity, Nodule/Mass, Other lesion, Pleural thickening, Pulmonary fibrosis",Abnormal
+51d1cf3040cca32ccbfdb70b95168fbb,"Aortic enlargement, Cardiomegaly",Abnormal
+d51149e2a32bb891c514dfb14ad66d4a,No finding,Normal
+d8b99a1111eba17e7f14ba4d998283ff,No finding,Normal
+5afe1c706ce0834326699356041a7884,No finding,Normal
+f7793fee61ea241a3fc07b927e4914f6,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+55c72813e6377006064deb619bef8cfa,No finding,Normal
+9d06afcc249491a4b681dac8d70dbb8d,No finding,Normal
+9e4888894ce1958ed9367866eaa9cb79,"Aortic enlargement, Other lesion",Abnormal
+e169b248a5d93da7d32034f654a4ce2d,No finding,Normal
+fac75d8df144493c44c741ccb0efba3d,No finding,Normal
+4d9409821f7ebd9771f2706d9123b0b5,No finding,Normal
+4462595f31d1a2c5aac2b3a8a49536d4,Nodule/Mass,Abnormal
+4fe8fedee3a990958113337559dcfbfb,No finding,Normal
+7cfb2e7c9cee1792c6537e00128c286f,No finding,Normal
+613fd7f3a8b48248d4027c90a414ff9a,"Calcification, Cardiomegaly, Infiltration, Lung Opacity, Other lesion",Abnormal
+69101d3d5cb778cfce804292b1a3f514,No finding,Normal
+a93d6d3861a432fd2d85d8b41448daf4,"Aortic enlargement, Cardiomegaly",Abnormal
+f55460fccf2d3c591f57f9c0de2c37c2,No finding,Normal
+1e95048676890a524ef7bd9e8d50d8c4,No finding,Normal
+8084ff8921c2bee97026a1de3186f80d,No finding,Normal
+6c9fef83c93ce0f7b31f377f9499cf77,No finding,Normal
+4479526132132b138e3d08dbc2f44ce9,No finding,Normal
+151893dad65d5077f5a377fc9d0e6881,"Cardiomegaly, Consolidation, Infiltration, Lung Opacity, Nodule/Mass, Pleural effusion",Abnormal
+a5c5bca04df42e9949aa48cee3ad67c7,"Aortic enlargement, Calcification, Lung Opacity, Nodule/Mass, Pleural thickening, Pulmonary fibrosis",Abnormal
+d8af05d89a0e8a3a839a645d99c4bf6a,No finding,Normal
+b0d240b51e6f6bd1c138e62aebb14b07,No finding,Normal
+1d378b37e94c96925d6e96d281825519,"Cardiomegaly, Pleural effusion, Pleural thickening",Abnormal
+c113ff68c59ef8d40cd4c0bd6e021a6e,No finding,Normal
+2b729047edae55396dd5a9940b858137,No finding,Normal
+0e87195ff59d4294d61b8bffddb3c03c,"Aortic enlargement, Cardiomegaly, Lung Opacity",Abnormal
+e9b5834cbf08d0e6df1ac3c6f3ddc6b9,No finding,Normal
+32557c0fb41d37a9e3c8485d3dcdb8cc,No finding,Normal
+9f79612cb768f8fa50a6cb22e4e38a2a,"Atelectasis, Other lesion, Pulmonary fibrosis",Abnormal
+f1a45afaee0efd07fef17057f3942464,"Aortic enlargement, Cardiomegaly",Abnormal
+9a51be5f7bf1078ac8972a14de31c515,Other lesion,Abnormal
+c41d4f698ccccbf7068c44c8c14f4e16,"Aortic enlargement, Calcification, ILD, Lung Opacity, Nodule/Mass, Other lesion, Pleural effusion, Pleural thickening",Abnormal
+117c218c2534e3d40a6ca0b3d724eb24,"Aortic enlargement, Lung Opacity, Pleural thickening",Abnormal
+b9ba9f91ebc313c417fba4573d5b46d4,No finding,Normal
+37233691ba64ed88b4e05882d7e41d61,"Aortic enlargement, Pleural thickening, Pulmonary fibrosis",Abnormal
+2f9feeb12755df88831107dc343f93f5,No finding,Normal
+a62197f08a9d755712d126c4c8c93541,Pleural thickening,Abnormal
+dda69713de55bffce87aba0af2014f7e,No finding,Normal
+01815f05a4a4e424181a6d3be101dcd0,No finding,Normal
+2ceaa4c6e93b4496df1831cccc3e433a,"Aortic enlargement, Cardiomegaly, Nodule/Mass, Pleural effusion, Pleural thickening",Abnormal
+6b6f79dad019a4dee92fa35456f75a48,"Aortic enlargement, Calcification, ILD, Infiltration, Other lesion, Pleural effusion, Pleural thickening",Abnormal
+46f3ff375571079569284a232627d27c,"Lung Opacity, Nodule/Mass, Other lesion",Abnormal
+c48286c8df6f70869101a493d1e84c39,No finding,Normal
+50937a47ccac712f2dd7e750207c16ba,"Pleural thickening, Pulmonary fibrosis",Abnormal
+66982a5ce84caf7641c6baf9156693c5,No finding,Normal
+f4b8c5c84f200ee9e9faba45bb2b0baa,"Cardiomegaly, Lung Opacity",Abnormal
+986a142a1300b3401bdeda43822ceba6,"Aortic enlargement, Cardiomegaly",Abnormal
+cbd3795d8dca2bad59a3dd16dca46695,No finding,Normal
+a1e2ef3ddab1424e24479cb95501e667,No finding,Normal
+03a6078c0c12fb076b50ae017e590e19,"Aortic enlargement, Cardiomegaly, Lung Opacity, Other lesion, Pulmonary fibrosis",Abnormal
+54402d9750c85f0e06e3d9464f6c2363,"Pleural thickening, Pulmonary fibrosis",Abnormal
+8015e5edbf16541fef78e6f8859764e4,"ILD, Other lesion, Pleural thickening, Pulmonary fibrosis",Abnormal
+12399d5b08e5342ade37a56b9c9e5ac5,"Aortic enlargement, Cardiomegaly",Abnormal
+81d537713a7c5d23c29accaf7133dbd4,No finding,Normal
+10ddfd44af9ff919ef88218b88211151,No finding,Normal
+b8e264216ade48723aff628067080b04,"Aortic enlargement, Pleural thickening",Abnormal
+3018e6640df6a1e3f9978cf55c8d0fd3,No finding,Normal
+47d1e25eede8a23cc44fda5c031127d6,"Aortic enlargement, Nodule/Mass, Pulmonary fibrosis",Abnormal
+01014f8d2c30a1fabc30f28e7de53467,No finding,Normal
+c7afdce95181c731e79f72d4ad6d4447,"Calcification, Lung Opacity, Nodule/Mass",Abnormal
+c6c266db9a9de1549b7534b15a7782a8,No finding,Normal
+d6d7ff0c547ddc2d5654ced995a664ba,No finding,Normal
+b4d7b232aa6ab1651da11bfae84c76e8,No finding,Normal
+f5eb3e7e9ee9c4d08377de30251a94e2,"Aortic enlargement, Lung Opacity, Other lesion, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+b3e6214da2e8cacfcf26f03089644dcf,No finding,Normal
+b4c00291b57d489dbe6665c789c6d360,"Aortic enlargement, Cardiomegaly",Abnormal
+268ed28c6d57f5d5383cd5cf8e62e457,"Aortic enlargement, Cardiomegaly",Abnormal
+4c029c4f3deed9414b157053867709b0,"Aortic enlargement, ILD",Abnormal
+204b14c0d284a2aa0c75e2e6adf616c3,No finding,Normal
+ab51ed37f90ea78c93f1e92aa8a9d749,"Aortic enlargement, Lung Opacity, Nodule/Mass, Other lesion, Pulmonary fibrosis",Abnormal
+7aa8a21311a7a63bad27d97e6f25a793,No finding,Normal
+78076acd1cd80e71ff62d4fb58f047bc,"Aortic enlargement, Cardiomegaly, Lung Opacity, Other lesion",Abnormal
+a463c0f3cc9f4945ce7f70d7b3f94819,No finding,Normal
+1b0adf573618b9d4c94b1890852179a0,"Aortic enlargement, ILD, Infiltration, Lung Opacity, Pulmonary fibrosis",Abnormal
+656747d5f4e900f1811358f9c97b3d0f,No finding,Normal
+f78a44efd6e19fe5e6f71247a4d97126,"Aortic enlargement, Cardiomegaly, Lung Opacity",Abnormal
+b35adb2752cf554f19822d62a592e143,No finding,Normal
+434ecbadfd73fb207ae9c51230367530,No finding,Normal
+efe8999d5d809ee1cef74cb0c5d5e51e,No finding,Normal
+c27309d9a3da6749da0e6bd6dff5369c,No finding,Normal
+97bf1159c3d5a11144527bd31d2ee628,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+b186fcb786b8272c0153458c2ffa4391,No finding,Normal
+1f1abf0df154e4d455bd3f93fa8ef1f0,"Aortic enlargement, Cardiomegaly",Abnormal
+8bb45148873379b118cca29a71c28f4e,"Aortic enlargement, Calcification, Cardiomegaly, Pleural effusion, Pleural thickening",Abnormal
+dd736e1b1729796f6212e55b7fef44b7,"Aortic enlargement, Cardiomegaly, Lung Opacity, Pleural effusion",Abnormal
+7c76f17be369b75874a62917c8daa626,"Aortic enlargement, Cardiomegaly",Abnormal
+e3d67e87b9ad31a5795719d97990f3a3,"Cardiomegaly, Infiltration, Lung Opacity, Pleural effusion, Pleural thickening",Abnormal
+a0d944e7bc5598c15fa5dc9bb4053bf7,No finding,Normal
+abb0d80ca4f6e06c658d6796088040c5,No finding,Normal
+643ca80f9a8d1612984ca6ceb7fd9f6a,No finding,Normal
+a2ca9713ed2b4fb5632aa8647769c1a6,"Lung Opacity, Pleural effusion, Pleural thickening",Abnormal
+d24f6cd1af8b44256ed82ed8ebab1771,No finding,Normal
+07bedc010fd13a8e5903473ebcf39cd1,"Aortic enlargement, ILD",Abnormal
+4cdb45e6b70df67e833f2112abc8b399,No finding,Normal
+b552fb1120a4211fd165a73ddb91e6e7,"Aortic enlargement, Cardiomegaly",Abnormal
+894bb7bbd83af84c0a80c31ce1e6abbf,No finding,Normal
+abef2c15f19cc4822c9aac666cafe144,Pulmonary fibrosis,Abnormal
+045cf248fcf9ac153e3c9586d1c70229,No finding,Normal
+13d2e16acfb96ff96e434d269e64a097,No finding,Normal
+2e10c234965bb40e56dcdc89a360db5e,No finding,Normal
+cc98d7fef25d526a411629ad598eca3c,No finding,Normal
+61a153c76cdd06fc381288fe5ef546eb,No finding,Normal
+7664d4a022c8ca9a94c0bb8adb48209c,"Aortic enlargement, Cardiomegaly, Pleural effusion, Pleural thickening",Abnormal
+005d70155f949c7785671800f2c8e1ca,No finding,Normal
+1915f70378cedb6947df0126db6e8aad,"Aortic enlargement, Cardiomegaly",Abnormal
+cad8e7e5f5034a50d4b1ebb30db533c5,"Pleural thickening, Pneumothorax, Pulmonary fibrosis",Abnormal
+c74cf15c3542d4dfc0dce06102279914,No finding,Normal
+b58f3853512c47b9d88eca193031b650,"Infiltration, Lung Opacity, Pulmonary fibrosis",Abnormal
+f6359d3a4aa4dc0a68446cec5ed45f89,No finding,Normal
+6ff3cb95475fcb55f114ba9dff8256c1,No finding,Normal
+c9380a132776f6d999ed5a72a1212bcf,"Aortic enlargement, Cardiomegaly, Lung Opacity, Nodule/Mass, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+66ec544d84f928c3fa8326f0be253346,No finding,Normal
+47a6275032367faf2eb887a974077bde,No finding,Normal
+518c26b70e40c67f016a3da260e5cf92,No finding,Normal
+e13dd07552354a7fd87cd1bbde299d58,No finding,Normal
+93fd007dcf0c7f49ee26a492b16905a1,No finding,Normal
+0213efd0f5bcee6b4daafc171ed3a902,No finding,Normal
+e25d75e8e6b0327356d1566d324ecfcb,"Aortic enlargement, Lung Opacity",Abnormal
+74eb8e74c7dee9e2342a43703a868387,"Aortic enlargement, Cardiomegaly",Abnormal
+346f133d43357f58d6a810474ffdeec8,No finding,Normal
+35666a43bb8105a07d1020d9a4839f2f,"Aortic enlargement, Cardiomegaly, Other lesion, Pulmonary fibrosis",Abnormal
+33e5b39e10a9320f227e10abf1c74ab1,No finding,Normal
+9833a8301a8aa0832ef6ed89a728d77f,No finding,Normal
+2b27150473ff6934b8f074872586973f,No finding,Normal
+eb9b834aa6ef13e715d55dac9beb0bb7,"Pleural thickening, Pulmonary fibrosis",Abnormal
+c6ad29cb15e0476259fdf56305b286d4,"Aortic enlargement, Other lesion",Abnormal
+4a8703807226b1b4771b560dbfb42b9c,No finding,Normal
+a3203e3b4fc2eb46b52f8b7e5868e3aa,No finding,Normal
+35de6aea3a75c405b780f3c1d2db38e0,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+ebcab549c5d07527233f9e25cbd9efd4,No finding,Normal
+d46fcfc88827c952da48421ecdac7e30,"Aortic enlargement, Cardiomegaly, ILD, Infiltration",Abnormal
+b311f38e300e7f4caac52f5a7e5c8f57,No finding,Normal
+4c8452a2c235923536dc3d778e6593ab,No finding,Normal
+82877be2465c084b0b9bc186fc7f158f,"Infiltration, Other lesion",Abnormal
+e257b3d290a5033b6a6e8a4414fb6e68,No finding,Normal
+48689c774903b4e601615f4dcf83380e,No finding,Normal
+5e1039f00f64d53d316c66fccb16ddd0,No finding,Normal
+a2511b7d5a4657b9b161d7c3e69587ae,"Aortic enlargement, Cardiomegaly, Lung Opacity, Nodule/Mass, Other lesion",Abnormal
+7e27268a3207b3c92b29380778076742,"Calcification, Lung Opacity, Nodule/Mass, Pulmonary fibrosis",Abnormal
+306d35d649f4fe90bec5b21eb3d8c42f,"Aortic enlargement, Cardiomegaly",Abnormal
+6b7f82e8b5ca56e2d20538cb3ad40cba,No finding,Normal
+52dd595e371586a059f0f6d247b6e35f,No finding,Normal
+31b94fc39e55c2494665e6a7ffde03b1,"Aortic enlargement, Pleural thickening",Abnormal
+67fbc13add44ab3cafafb5be3ce3cafc,No finding,Normal
+7079fb8735ede4e6209dd4a108f9349d,No finding,Normal
+e4719fcf15f96a974cfe8c02a83d7636,No finding,Normal
+be53fe5a49231f1c1be020b0bdd8561f,"Infiltration, Lung Opacity, Nodule/Mass",Abnormal
+5ea84b103e1046041d21c48a61e3fcd2,"Aortic enlargement, Cardiomegaly",Abnormal
+5e02cde47ed2fd338141e3dcff3139b9,"Aortic enlargement, Cardiomegaly, Other lesion, Pleural thickening",Abnormal
+b5c2646fec9333b8bc96d66e40e18e8f,No finding,Normal
+a90509f35d907cb42a35534f7be76b3c,No finding,Normal
+a386c477e7330e967b23747cecc77973,No finding,Normal
+17285d4b3bcac950397f548d1d715043,"Aortic enlargement, Cardiomegaly",Abnormal
+fc24ad13f52fb8b4135f5a18a982a1cf,"Aortic enlargement, Cardiomegaly, Other lesion, Pulmonary fibrosis",Abnormal
+e312a8c1788a0b47d0ce8c1321a912f9,"ILD, Other lesion, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+61306376f68f499c2d6e52b56225012b,"Aortic enlargement, Calcification, Lung Opacity",Abnormal
+92b94e816f1d41a200c00dcd38751212,No finding,Normal
+27f2f42991e439d26e96a9910db66efe,No finding,Normal
+95b32ce2a10f57629eb63830376237ca,"Aortic enlargement, Calcification, Nodule/Mass, Other lesion, Pleural thickening",Abnormal
+d424e0d9251c41b8c8bbf3cc2c445f6f,No finding,Normal
+cfe3e67ca5f8235d64e51416a26e70cc,"ILD, Pleural effusion, Pleural thickening",Abnormal
+806c20c1d5b38e2ca7941854ec66659f,Calcification,Abnormal
+5b6f8c860f1ced753af1ba0f047a99ef,"Aortic enlargement, Cardiomegaly",Abnormal
+cc89ca7071e25eb72633ec8f0c542e5c,No finding,Normal
+6772119ecff6fdfd3d04adbce8c8bd49,No finding,Normal
+3daa0e551477dbb5c10280fd744c4087,"Aortic enlargement, Lung Opacity, Pleural effusion",Abnormal
+73657926e9a287c7647b0be6314b9416,No finding,Normal
+a65b19420087f574983a8adec9906c16,No finding,Normal
+6427115ce48b05c57243f29d6943d208,No finding,Normal
+2f5a677d35532e18388a9993ca166a80,"Aortic enlargement, Pulmonary fibrosis",Abnormal
+fb4b441d1f1d39a0cf27f41980b178b2,No finding,Normal
+5ce51b1ea387faab9ecc60c1b35f9666,No finding,Normal
+862a7784c0c283c84f570d01bc151667,"Aortic enlargement, Calcification, Cardiomegaly, Pleural thickening",Abnormal
+764eeaca1e91f7410e68f3daf40de6ab,"Infiltration, Lung Opacity",Abnormal
+9a6377016b455cd0f2b6e64bf1af6cc7,"Infiltration, Pulmonary fibrosis",Abnormal
+16565752b931dfbec4b042b26786401a,"Aortic enlargement, Pleural thickening",Abnormal
+501971435df7def25d5956402ec9589f,No finding,Normal
+3df3f28df05bf2d1abaa7ff039c87597,No finding,Normal
+8aac03244d431b932ee34b4cda0f5325,No finding,Normal
+d59d5dcc1601a29509f91dab5f8550bc,"Aortic enlargement, Consolidation, Infiltration, Lung Opacity, Nodule/Mass, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+38d59aef0ecbc73f365767bc09692283,"Aortic enlargement, Lung Opacity, Nodule/Mass, Pleural thickening, Pulmonary fibrosis",Abnormal
+dd73d7cf00dea954470641d84279693f,No finding,Normal
+fe712042bd989a581a931a300fee1203,"Aortic enlargement, Pleural thickening",Abnormal
+09b85abab0d2b7f151815538100717b2,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+4fe372fd2be9654d8fdf98d8101cfc21,No finding,Normal
+5ba3c5d4c87aeca558d9f2d452854085,"Aortic enlargement, Cardiomegaly, Lung Opacity, Nodule/Mass, Other lesion, Pleural thickening",Abnormal
+20b3714dd6c53ce0f439e05ca97b60e8,No finding,Normal
+b948592be9abd5dcf1a570c72887c033,"Aortic enlargement, Cardiomegaly",Abnormal
+a6df9baa059b2fd400ee2e0149ae5b87,"Aortic enlargement, Cardiomegaly",Abnormal
+3d6cf58cefc8217b102d47280f927a9f,No finding,Normal
+66a1a5d0239bd22d299a1e1333ed5d0b,"Aortic enlargement, ILD, Pleural thickening, Pulmonary fibrosis",Abnormal
+2e9cb16d1950ad82347cade9cacedc8b,"Pleural thickening, Pulmonary fibrosis",Abnormal
+007a5b30bc5eadb13017059543e0b6be,No finding,Normal
+ceae25112f71e514cb5772484f9434f7,"Aortic enlargement, Cardiomegaly",Abnormal
+ae127045cca13da6dbfee11df1f08c7e,"Aortic enlargement, Cardiomegaly, Consolidation, ILD, Lung Opacity, Pleural effusion, Pleural thickening",Abnormal
+c20ca4cd7589fa3a77578769bf82ea1b,"Aortic enlargement, Cardiomegaly, Other lesion",Abnormal
+b4d9fcbd83e33396cf8178e6b755acd8,No finding,Normal
+f4abb99c297395af12190538ce353566,No finding,Normal
+f19678311f4268518fb1f3869537023a,No finding,Normal
+330423a5c20c1fab3ba43d966bd6e2e5,"Aortic enlargement, Lung Opacity, Other lesion, Pleural thickening",Abnormal
+3e6dc1696e378ed55ea60091c620af4d,Aortic enlargement,Abnormal
+b9374768fadad510f514c5b81b048881,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+4e8ff7aae833d90a392038e0469a580b,"Aortic enlargement, Cardiomegaly",Abnormal
+366c964d0b246205ffdc97b09df98df7,No finding,Normal
+e5bb131acdbdaa4d269b0e7b9160998b,No finding,Normal
+1b635e668c3c61431b918f1ab457eac9,No finding,Normal
+4b070a47be8f61230a040e122b281c66,No finding,Normal
+d513454347dd168afa0b6bb6c328a2ee,"Aortic enlargement, Cardiomegaly",Abnormal
+6137da0107d18f2bc35b6814c0f00ac8,"Aortic enlargement, Calcification, Lung Opacity, Other lesion",Abnormal
+6f95a9001875b9dd105324cac339e4f0,No finding,Normal
+a84777df727ba6ea0d556e914e83e530,"Aortic enlargement, Pleural thickening, Pulmonary fibrosis",Abnormal
+4068af795c7cb80fec0883dab82f4fbf,"Consolidation, ILD, Infiltration, Lung Opacity, Nodule/Mass, Pleural thickening",Abnormal
+ef7b88627a8c60a076165fb62ac17a87,No finding,Normal
+d6f481aca86583398fe54c7bcbd6d836,No finding,Normal
+bfe87fc8b571cb6fe0a3096d879c5994,No finding,Normal
+3abdf429daeb55e510e29a698977c217,No finding,Normal
+87570b3c82a465a8da9836e5a1e8c7a5,No finding,Normal
+14600a97b1c302343b1b5850ed53ae13,"Atelectasis, Lung Opacity, Other lesion, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+0a4d6ab40e013041bc8a6d2ed5426316,No finding,Normal
+4849b3d33dee7a3644c2e5d8b69ebf47,"Aortic enlargement, Cardiomegaly",Abnormal
+906a43ceed5a95c81a94cc7c6ea41027,"Aortic enlargement, Atelectasis, Calcification, Pleural thickening",Abnormal
+aad2e740715e926cee0a56a56efa26db,"Other lesion, Pleural thickening",Abnormal
+0fd981034f74251d4a5d72891940d585,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+8f4a6323f8001cb8628229ad71fc6988,No finding,Normal
+91c6fc1df5829cdaff5705203a351e1e,"Aortic enlargement, Cardiomegaly, Lung Opacity, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+77a86229631c04f92af02336b28db006,"Aortic enlargement, Cardiomegaly, Other lesion, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+d433568de3111a8536c18e27eff73a47,"Aortic enlargement, Cardiomegaly, Lung Opacity, Nodule/Mass, Other lesion, Pleural effusion, Pleural thickening",Abnormal
+8d483805b3489befc1afdd2c8c2aa352,No finding,Normal
+640b5d7fd7a2f0d14a2a0aaccfad2b89,No finding,Normal
+d1840dda98dafc76f201fa30bda3ef94,"Calcification, Pleural thickening, Pulmonary fibrosis",Abnormal
+16ef2fde299931d4c9f60f1ee8471bc3,No finding,Normal
+47442e93ccecce0cdb697009fa54414d,No finding,Normal
+da1f25221a05f7b1852b8191f89aca1f,"ILD, Infiltration, Pulmonary fibrosis",Abnormal
+113f39bcbaf112a7d29c192340bb88ea,No finding,Normal
+7037f2cc04e70b2e52c93ab38d10e19a,No finding,Normal
+f9dba298e6b5f764019c97a7636f184e,No finding,Normal
+80c9acacf163bc16010749b2b946e528,"Aortic enlargement, Cardiomegaly",Abnormal
+8434de3377a80db9a650dbbd29b96ba9,No finding,Normal
+7ee89ae8abd9f4ebe6447e05a1b4f744,"Aortic enlargement, Lung Opacity, Pleural effusion",Abnormal
+6a81576a220d65cbde7df55c3a3de1b6,No finding,Normal
+768db39e794f0d37d296c418e50d8126,"Consolidation, Lung Opacity, Other lesion",Abnormal
+55e5dd662042639488ebb9fbd6a02864,No finding,Normal
+d75471409759c988b3380b9a675fd12c,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+9c6749b3ef7e2726c71c7ba5035b3c07,No finding,Normal
+5d915a93afa7a4d47aeb206eefba2465,"Calcification, Pleural thickening, Pulmonary fibrosis",Abnormal
+82c1b7407eafb2bcc73fb0dbe9d94272,"Aortic enlargement, Cardiomegaly",Abnormal
+64bb0c2fe03598b5b9c90ddc2f68eaeb,"Aortic enlargement, Cardiomegaly",Abnormal
+19b1cd4c282515de8cc36d61c45e096d,Aortic enlargement,Abnormal
+1edd41fbc11831eeb7b70e45bc91214d,No finding,Normal
+b366c0801a5f5e8f59fa76b30e67f4ae,"Aortic enlargement, Pleural thickening",Abnormal
+2f760e182476304e8bf212aca132ddf0,No finding,Normal
+51cc7892a363b3d3479c7b801f7ca53e,"Aortic enlargement, Cardiomegaly",Abnormal
+3608ef3f56a53aca17d09af8e709195e,No finding,Normal
+a6b6e002c7d2d78f98fe443c1f9af2b4,"Aortic enlargement, Lung Opacity, Pleural effusion, Pleural thickening",Abnormal
+3190c4c94c3bb08564c4632041686c96,No finding,Normal
+e8daa2e3fdc66a7c3359235762d14744,No finding,Normal
+388fb2f980ea6f063c9e05a6614af82d,No finding,Normal
+be01f8ea4bf3a231d39378be5a167bc4,"Aortic enlargement, Cardiomegaly",Abnormal
+f2d7c63da0b42c0b234cfae5f56c95e9,No finding,Normal
+2f4bc0f22545fa58a89bfa13cc083191,"ILD, Pleural thickening",Abnormal
+b293d02e9eb0ddf6f13ae424f3aec2b1,"Calcification, Cardiomegaly, ILD",Abnormal
+4bdaa2947c7003aff2cd158ae9e186dc,"Lung Opacity, Pleural effusion",Abnormal
+1c572f5c1b3f2d9dfb23b48f25a7ace0,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+cf366e444f5c256d8275e348c17b59a9,No finding,Normal
+38c56e0fcaf903b7987356b2e21e6210,No finding,Normal
+ecf474d5d4f65d7a3e23370a68b8c6a0,"Aortic enlargement, Cardiomegaly, Nodule/Mass, Pleural thickening, Pulmonary fibrosis",Abnormal
+b910d1cb5197d5fdb25c7477548766a9,No finding,Normal
+21042debbedcf41f16302df107a594a2,"Cardiomegaly, Pulmonary fibrosis",Abnormal
+354bad318bdc4946fbb261867157901f,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+41c14d3879236a7c6f4dc5c2edcc8a0b,No finding,Normal
+6bd56b4aa9ff512573b799ddb4c7deac,Aortic enlargement,Abnormal
+233f57606de7ccc838a608e40af9978d,No finding,Normal
+a32b7dda1d8213b13a45d891997cfd9d,No finding,Normal
+68eb45dbf790f2f829d8c6a8690b0d25,"Aortic enlargement, Atelectasis, Infiltration, Nodule/Mass, Pleural thickening, Pulmonary fibrosis",Abnormal
+1cec183870c936178be89a81da2cc7fc,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+215ebc513445e8e809addf6029df970c,"Aortic enlargement, Other lesion, Pulmonary fibrosis",Abnormal
+213f1932f2f8b002bc2237a93bc82c96,No finding,Normal
+34fa4687fe0cb1a46f70f407ef9c134b,"Aortic enlargement, Pleural thickening",Abnormal
+1394611583c5d8795faf68d0175f7cdb,No finding,Normal
+259850d5c19d87c209ac8b77be633e65,No finding,Normal
+14a097373f1e4e57878c3929fd2f3b4e,"Lung Opacity, Nodule/Mass, Other lesion, Pleural effusion, Pleural thickening",Abnormal
+7e1dfef82f07c334200f6bc1564fdb3a,No finding,Normal
+368befaff55745e30b3f200b298b2fd6,"Aortic enlargement, Cardiomegaly, Other lesion",Abnormal
+b3fd73ef7025fa34391fffa6b437e369,No finding,Normal
+f41ccbeeaa2f48cbb13110e15c20a538,"Infiltration, Lung Opacity, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+28439c0a4f24e1319b22dd12b8a56a14,"Aortic enlargement, Cardiomegaly, Nodule/Mass, Other lesion, Pleural thickening",Abnormal
+d0aaeb5ff5cce6172bcc58fa56a566b9,No finding,Normal
+1a2d61ed3ccdc6c3a230ef73ae6adc4a,"Aortic enlargement, Cardiomegaly",Abnormal
+c1d3a1d5a55792e48fa4bceb9a017c89,No finding,Normal
+de6e41835b9455151e4e6bed43e31244,"Aortic enlargement, Cardiomegaly",Abnormal
+699168263676809f088d9c7b9769b283,No finding,Normal
+de7c0acddd7ed5fb90f5f5e12458235b,"Atelectasis, Consolidation, Lung Opacity",Abnormal
+3e991ac302c6748f951dfb9f8e522e1b,No finding,Normal
+435022b91de4977291bd7eaa1efd0740,No finding,Normal
+a2480b9f63cc65e052dc0b9ad19c866e,"Calcification, Lung Opacity, Nodule/Mass, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+e5d2febcf32b0027066fe75e16e65030,No finding,Normal
+f6aa0e6d5328c6d50d39231e17a84a86,No finding,Normal
+92e79511cf61feac9fb92f92325c0a19,"Lung Opacity, Other lesion, Pleural thickening, Pulmonary fibrosis",Abnormal
+d7049d549349da79c6fce9744a52e470,"Aortic enlargement, Cardiomegaly, Lung Opacity, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+44ff83f86f81c54ed2540ccddcc68263,"Aortic enlargement, Cardiomegaly, ILD, Nodule/Mass, Other lesion, Pulmonary fibrosis",Abnormal
+8c8b3e6d0a5fc8f790a7ff33ef15e4cb,No finding,Normal
+c0909ff791d753ce9d2f926d5af08eab,No finding,Normal
+0be2bdac4e84982ad1b24830d2cce470,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+0b805259394307f01adc87b57b704602,No finding,Normal
+25d4801df81d8416a6cd9676027eb6cf,No finding,Normal
+8dc9c4a2edfac5c6ed1b0246e435aff9,"Aortic enlargement, Cardiomegaly",Abnormal
+380d07a94cc4b012812119370de47192,Aortic enlargement,Abnormal
+27e6e4b244731bc028e40b85e188c533,No finding,Normal
+8ce7f50a6ecc0cba5bc5714f5bb467a2,No finding,Normal
+9589df954de68262bc380d648b0184c3,Aortic enlargement,Abnormal
+32a367a5baa263fa8c3d6f47cf5efc3e,No finding,Normal
+10498c5c45827c22489639065f90d70b,No finding,Normal
+7f10b1a852f4d149665359a3eba23642,No finding,Normal
+7736d86868e78aeb6cf52f6263fe6598,"Aortic enlargement, Cardiomegaly",Abnormal
+76b94abea3d34cdea83ca5011ccab53a,"Aortic enlargement, Cardiomegaly",Abnormal
+1c2621f624311e2ab55fb909b3b53d19,"Aortic enlargement, Cardiomegaly, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+86f9f938addac3eab4d16685bfe393e3,No finding,Normal
+533153b97c1c0a352251ff6407252c1b,No finding,Normal
+151a8ce59aa6e414ee8a9c9d711cee61,"Aortic enlargement, Cardiomegaly, Lung Opacity, Nodule/Mass, Pleural effusion, Pleural thickening",Abnormal
+b6c5be2e2facca99c47e133769a065ce,"Aortic enlargement, Cardiomegaly, Lung Opacity",Abnormal
+3623eea22ab15bd3cc7901e3c00695de,"Aortic enlargement, Cardiomegaly, Lung Opacity, Pleural thickening, Pulmonary fibrosis",Abnormal
+b4c6f7fd99fa215a9634736b8a0cd5d1,"Aortic enlargement, Cardiomegaly",Abnormal
+787750f2173c375dca5682231720095f,No finding,Normal
+b4a7269d3fcbed43638a44892088ac4a,"Other lesion, Pleural effusion, Pleural thickening",Abnormal
+996cf9196ebda9f2b449e2ec38ac17c4,Calcification,Abnormal
+924f9b4d5fe1d28b46d93ff6c9431b35,No finding,Normal
+9a5511c7c9eb35568a36d8e4944dc039,No finding,Normal
+e2ec7fc4c6f718c7da540ee96d64b724,"Aortic enlargement, Calcification, Cardiomegaly, Lung Opacity, Nodule/Mass, Other lesion, Pulmonary fibrosis",Abnormal
+ce124e4ecf1e643ca350bbc75e7f8658,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+f7f461c0aaa21762f7e9e7e1e7b24dc9,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+8a0f681da75ca7a69658c793951d9c37,No finding,Normal
+8a04adf0c99895fd4a0ca9c67d5aaa53,No finding,Normal
+253760c0117371987f0cbc8b20e684de,"Aortic enlargement, Cardiomegaly, ILD",Abnormal
+08ce56202e44175674fc5f5517e74db4,"Aortic enlargement, Cardiomegaly, Infiltration, Nodule/Mass, Other lesion, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+71f08a2dd41ba4c93fed4a4f9e33ce0b,No finding,Normal
+4316993a5e64b1c02061b43988acd3f7,No finding,Normal
+d47bdbcba4b30efdc224e8d6ab79f647,"Aortic enlargement, Cardiomegaly, Other lesion, Pleural thickening",Abnormal
+41df0823424a361e4ad64fc5af350278,No finding,Normal
+18ca65f3991cd9e0339abe5d0dcdfc71,No finding,Normal
+2f22babff7182a12931cf5e40626201c,No finding,Normal
+c732bac2d377365788676148636994f4,No finding,Normal
+8c94145439c09911792a55a0094361a8,No finding,Normal
+7109c0466922f6ce2dda7055c44c7d3a,No finding,Normal
+f42000d2ffb02c74c696fba7678c51a6,"Cardiomegaly, Lung Opacity, Nodule/Mass, Other lesion",Abnormal
+fbbc76c4db97f2f7caa7926655f13d32,"Aortic enlargement, Cardiomegaly, Lung Opacity, Pleural thickening, Pulmonary fibrosis",Abnormal
+6fa721dbeeea8b191be3336226a2d3e8,"Aortic enlargement, ILD, Pleural thickening",Abnormal
+8a67f8e2673ceb7004824904b6e72055,"Aortic enlargement, Cardiomegaly, ILD, Other lesion",Abnormal
+480a26ee89ee25d5bd88a3bd598ebd82,No finding,Normal
+e919de94f21a893445b9c2414871256e,No finding,Normal
+b42962e103033ae66afb049d00cb477c,"Aortic enlargement, ILD, Infiltration, Nodule/Mass, Other lesion, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+f57a452f52edaaaf43d41c78f1f73181,"Other lesion, Pleural thickening",Abnormal
+f499a3f9610865b8be4ff7c7ac5214cf,"Aortic enlargement, Cardiomegaly, Pleural thickening, Pulmonary fibrosis",Abnormal
+cc6fc3c91c3d9061b11b65f8257a2ad0,"Calcification, Lung Opacity, Pleural effusion, Pleural thickening",Abnormal
+1406af2d31790c267b8b17d301ff1ab3,No finding,Normal
+a3fc0d1857da6835ac10a5149e1d02f7,No finding,Normal
+694719c20ef91af3f7a7e6b00ba98b64,No finding,Normal
+fe427237f1d67a70e50ead16abdec79f,No finding,Normal
+b7f4de6bfb8556aed14a15d7c8b38603,No finding,Normal
+77a01f5a6710d451996cc9075fe22eb7,No finding,Normal
+744e15916f10eaa5f20594e302fa4906,No finding,Normal
+41d642577ada2969ece3637f6c800139,"Aortic enlargement, Pulmonary fibrosis",Abnormal
+c3abe21f7e07452e6760cdc2cab95296,"Aortic enlargement, Consolidation, Lung Opacity, Nodule/Mass, Other lesion, Pulmonary fibrosis",Abnormal
+0e117be65f091eef126fe3e5c68a187a,No finding,Normal
+ff00fd8abeb1fb6646fc3943f802cb8d,Cardiomegaly,Abnormal
+9fccf640c41b789bef11c3437045436d,Cardiomegaly,Abnormal
+942d83991819c4e1c9f10261e7e740cf,"Aortic enlargement, Cardiomegaly",Abnormal
+16fbd1b86994c47ddd120cf5d410033e,"Aortic enlargement, Cardiomegaly",Abnormal
+2d063af5457785f5c76ae1e6c06c0037,"Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+033e1637bed9b9f3dccac9c6c419adc2,"Lung Opacity, Nodule/Mass, Pleural thickening, Pulmonary fibrosis",Abnormal
+10d147dc17cedd31c86cc0a33815a1b7,No finding,Normal
+6752a5fa1636da5835c2cfde3bc71f7e,No finding,Normal
+2728492d9333328da0ccd73d76d6c00d,"Aortic enlargement, Cardiomegaly",Abnormal
+d2bc282e9057cf4d17e2ff126a3e5d90,No finding,Normal
+75a789a84afa7e36adc385a84f8b8c0f,No finding,Normal
+c2dcd74ff2f30738c70ec6f371826e6e,No finding,Normal
+45398cfbf0d0f364c24b5d4458df4c8e,"Nodule/Mass, Other lesion, Pleural thickening",Abnormal
+65fcad08b16eaf43f2f14bcabd9e8e7d,No finding,Normal
+a18d88dbf60435ac196dbcdc512115c7,"Aortic enlargement, Cardiomegaly, Pulmonary fibrosis",Abnormal
+75ec0ee63192335d1ec00e6b9ccab4fd,No finding,Normal
+84135f855700efff9cca0f8c3dbb6856,No finding,Normal
+4ea43f30fdd925340ad598bb10028c97,"Lung Opacity, Other lesion, Pleural effusion, Pleural thickening, Pneumothorax",Abnormal
+b8d0602c3d243b1f833bc0e5885a0b0c,"Aortic enlargement, Calcification, Lung Opacity, Nodule/Mass, Pleural effusion, Pleural thickening",Abnormal
+f9b6143fdadf3e46bc016548719a4371,"Atelectasis, Other lesion, Pleural thickening, Pulmonary fibrosis",Abnormal
+24556c4e8ebf8686649f92dce503b564,No finding,Normal
+01c2b9fcb0384c84648ed76c736552a8,"Aortic enlargement, Cardiomegaly, Other lesion",Abnormal
+62ba124e1b481c08b8988ceca83dcc77,No finding,Normal
+532f68f48607d8b0d7db35b3f1913ddc,No finding,Normal
+adf6a41e1be96d361810dd2b0caf8206,No finding,Normal
+c738b869da1f73f9e5d89832e6b4f5bd,No finding,Normal
+c8aa0e18d7a53024d44efc9f45863514,No finding,Normal
+3cdcd43f230d185be9a3ea2463f348dc,"Aortic enlargement, Cardiomegaly, Other lesion",Abnormal
+12b20fddaf2036f581e0ae1b2a45ac68,No finding,Normal
+c413baf55bfb894ee5af02d991b452ce,"Consolidation, Lung Opacity, Nodule/Mass, Pleural effusion",Abnormal
+b1e63a68c95bda1c50667decd3989ca0,"Aortic enlargement, Calcification, Nodule/Mass",Abnormal
+719182f814fc1a742e0fbc1a751f6af7,"Aortic enlargement, Cardiomegaly, Nodule/Mass, Other lesion",Abnormal
+73e60a5aed6cd588c9d28f74739bc902,No finding,Normal
+04994993c9e416f32ce24c7e7501d3be,"Aortic enlargement, Pulmonary fibrosis",Abnormal
+7f9173ea39216cdba17e1cb20e9b9f2c,No finding,Normal
+e6a9b0eb532d8aab0ce29b787d81614b,"Aortic enlargement, Cardiomegaly, Consolidation, Lung Opacity, Other lesion, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+372dfcb677a2d0799d2f6e14d2177f1a,No finding,Normal
+66c570971c7df4782e3dfb9e74f0dd1e,"Atelectasis, Other lesion, Pleural effusion",Abnormal
+ddee6f3f4d3dc44f3fdb6b4cf771ba95,No finding,Normal
+f77169bed7bd86515d0f93e9eccdc4f9,No finding,Normal
+511e8b50c9a7ecee4e1a8621f262e9ad,"Aortic enlargement, Cardiomegaly, Pleural thickening, Pulmonary fibrosis",Abnormal
+ecd11f0b7b55d7d0515fb569cbcc39d8,"Aortic enlargement, Calcification, Cardiomegaly, Other lesion, Pleural thickening, Pulmonary fibrosis",Abnormal
+cffda620e23645a084953c3314511fae,No finding,Normal
+ed12402a2b76cda47517d5073b35eb9a,"Aortic enlargement, Nodule/Mass",Abnormal
+a72b8929f7addab87c9d2583e66191f0,No finding,Normal
+0d96a4bffbd85c60c4eec095f4c6d34b,"Aortic enlargement, Cardiomegaly",Abnormal
+b3b0959ef58eb104a23fd57cab42ebde,No finding,Normal
+1de139dfa74b3fc974164433c076ff17,No finding,Normal
+6c08a98e48ba72aee1b7b62e1f28e6da,"Infiltration, Lung Opacity, Nodule/Mass, Pleural effusion, Pleural thickening",Abnormal
+b3c7d38fa039c4550491cf77cb52bea8,"Atelectasis, Infiltration, Lung Opacity, Other lesion, Pleural thickening, Pulmonary fibrosis",Abnormal
+d0043062cebce85f2487407bc033d405,"Aortic enlargement, Atelectasis, Cardiomegaly, Consolidation, Lung Opacity, Other lesion, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+adf4d0d9291b870882f18d7a32db0e67,No finding,Normal
+ab2f860cddd3f85410d8cbc3280dbdd6,"Aortic enlargement, Cardiomegaly, Pulmonary fibrosis",Abnormal
+0760a14308badcbd370c6866c9db3a0a,"ILD, Lung Opacity, Nodule/Mass",Abnormal
+9dc06dc651df290e2f3cd30ac1513c7e,No finding,Normal
+0b80aaae33916b6c56b4308584cd67c0,No finding,Normal
+663ad0607f11d47207efad55a52ff010,No finding,Normal
+92cc2be1500427075fed66385ea7dc97,No finding,Normal
+6a21c27cbd42e68576a134fca3c0266e,Calcification,Abnormal
+31ab750de5cb0c76b49d45ab1d2186a6,"Aortic enlargement, Calcification, Lung Opacity",Abnormal
+53d4fbf11ca8be107a343df37ca9eddc,"Aortic enlargement, Nodule/Mass",Abnormal
+488aa5c559a5a021ffac4a152d09a0c3,No finding,Normal
+33f7e603fc05c5149f2abae0cc287c06,No finding,Normal
+0d758802aeeebb56a0632f26285c3d29,No finding,Normal
+4318100e0bc2513dc4972f6186555070,No finding,Normal
+5fd698415fe157a7bc7fa75a52ecabc6,"Aortic enlargement, Cardiomegaly",Abnormal
+c0504fa54e796f7aa58560dd98dad1e9,No finding,Normal
+b94aacb47e639df00707eae5332dc629,No finding,Normal
+bd94013e719d3bf243bdf5771490bb0a,"Cardiomegaly, Pleural effusion, Pleural thickening",Abnormal
+3fd9727ab2ea76dac5770130661a738d,Pleural thickening,Abnormal
+76a8a1a491e23dc44e0c33654f10c632,"Cardiomegaly, Pleural effusion, Pleural thickening",Abnormal
+5f6d317d6ef78eb1f66b9cf0f0bd8555,"Aortic enlargement, Pleural effusion, Pleural thickening",Abnormal
+bd152be0a921cfee79bffbdbf53e84d6,"Aortic enlargement, Calcification, Pulmonary fibrosis",Abnormal
+014cca776c9bd5da35715042cdd002a0,No finding,Normal
+80bc61a643d289b3c2afc3a1ad297e48,"Infiltration, Lung Opacity, Pulmonary fibrosis",Abnormal
+87b100f01516cfb6df61ef263ac818d1,No finding,Normal
+8626cbfd0205ec64b6fb89650aacabf0,No finding,Normal
+39b8128e771183af5eed6694af53787a,No finding,Normal
+6f8e0af5fff2c4c45f6eb841a4221235,"Aortic enlargement, Cardiomegaly, Lung Opacity, Nodule/Mass, Pleural effusion, Pleural thickening",Abnormal
+c855e2fc7a8fea601a568f546e466d4b,No finding,Normal
+ed450b56e48ad8bae2aa760765786181,No finding,Normal
+761156f763bd414dfd2037ae413d5fe8,"Atelectasis, Consolidation, Infiltration, Lung Opacity, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+6818b9a73dbaf129b63a2848ac1e576f,"Consolidation, Lung Opacity, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+b72e2e8714232b44cab432ed8530fd83,No finding,Normal
+b5822471fa3aef526081f6a64d7bec2f,"Aortic enlargement, Pulmonary fibrosis",Abnormal
+7379ef3f7d2f47ad02a272c056215448,"Aortic enlargement, Cardiomegaly",Abnormal
+018ef9c5d5b20c5161a5c48703171c3b,"Aortic enlargement, Pleural thickening",Abnormal
+e685922feb4f7e397cd47ac418342071,Aortic enlargement,Abnormal
+08c182c884fec1fad1b1e4a19d482acf,No finding,Normal
+21d0e0bb639ebec0b2a2ce0c5c805344,"Calcification, Lung Opacity, Nodule/Mass, Other lesion, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+37111bde86ae8d81aa66f2f46f89c03b,"Aortic enlargement, Calcification, Nodule/Mass",Abnormal
+21d5465ffc737f2c94f66cc5b740614e,"ILD, Nodule/Mass",Abnormal
+719962d2d347b4d5a6641074d75b78ad,"Aortic enlargement, Cardiomegaly",Abnormal
+6b25a45c66c5be155c87586695336095,No finding,Normal
+afea04a48a160dbd7418423e6bc4f243,"Lung Opacity, Pleural effusion, Pleural thickening",Abnormal
+e58d508f7915d3ada6edb4d88dc1f5f7,"Aortic enlargement, Cardiomegaly",Abnormal
+f9fea79e8c324d21c93ca0271b84e24e,"Aortic enlargement, Cardiomegaly",Abnormal
+4cccd244506af875fc9d2a32ad2b4b96,"Consolidation, Lung Opacity, Nodule/Mass, Pleural effusion, Pulmonary fibrosis",Abnormal
+2d56555f99586d0c8c6e31ab33297c25,"Aortic enlargement, Cardiomegaly",Abnormal
+d469bfee3721c94c801396d0a592ce9f,No finding,Normal
+5bac140ce817cf691563067d70952e95,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+951f37f1a2b9eeda8687588d6c1395f0,No finding,Normal
+0e88612bd294e249382b9e64d222cdf4,"ILD, Lung Opacity, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+575c1973c2d617658508d18d94bc2ffa,No finding,Normal
+770959dcc1087ec6ed7c307e6496aa65,No finding,Normal
+6359437f875d6b26535d627e1c2cf31f,"Aortic enlargement, Cardiomegaly",Abnormal
+dbd95448052d2fd61f31da0c52f05845,No finding,Normal
+12c57b0679d77f63009d79239f5cb1ba,No finding,Normal
+ec884724f0b98bbbde4b4bbeaf98f0e1,No finding,Normal
+e068ceeedf4d528d08dc33ce1d4eaa87,No finding,Normal
+765760a9e2d3b82da72ca1ab86229b79,"Aortic enlargement, Cardiomegaly, Consolidation, Infiltration, Lung Opacity, Pleural thickening, Pulmonary fibrosis",Abnormal
+84ba0b4f7173bcd81edb868806d46e86,No finding,Normal
+6dc197d0503400617170a11ab7812d73,"Aortic enlargement, Lung Opacity, Nodule/Mass, Pleural thickening, Pulmonary fibrosis",Abnormal
+d6d2896d8c4e3cf8b74fc981e7218678,"Aortic enlargement, Nodule/Mass, Other lesion",Abnormal
+71dc79a8d7a6d7c60e1199810f708213,No finding,Normal
+fd0810860fc2b3cf1ea3fea8a27371a2,No finding,Normal
+b5c56a5624857bd608eeadd16a7f566b,"Aortic enlargement, Consolidation, Lung Opacity, Other lesion, Pleural effusion, Pleural thickening, Pneumothorax",Abnormal
+8649d84b0796e9deccdd4f6bd8d4e998,"Aortic enlargement, Atelectasis, ILD, Infiltration, Lung Opacity, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+053700069ddf3c4f1f6c477a48337836,Pulmonary fibrosis,Abnormal
+e9af0316eb1e082f0b2fac36ecf9a6c6,"Lung Opacity, Other lesion, Pleural effusion, Pleural thickening",Abnormal
+41a95ec8dafbc08bf62528825bff13c5,No finding,Normal
+b2d8c14b3a4efc8017572c6c228ee2b6,No finding,Normal
+cdfb27f0268e0803530e4511ed89b0c1,"Aortic enlargement, Cardiomegaly",Abnormal
+35587a8b8b325a6f2179d33bd26aa0fe,No finding,Normal
+c43e5cf3cc8497dd25fa7bcdf88b3e73,No finding,Normal
+7f3bc37df76505eeb37bec4a0bc3b945,No finding,Normal
+60e3fadcad73e6ae8a59f3a6a726f4e6,No finding,Normal
+50297e864bd40ca2a8102013e0a899cd,"Aortic enlargement, Cardiomegaly, Other lesion, Pulmonary fibrosis",Abnormal
+84b3b3b5c73b0798b732b4f34f84ca05,"Aortic enlargement, Cardiomegaly, Nodule/Mass, Other lesion",Abnormal
+9957e7e58690f10dcdb02b0048a3a1df,No finding,Normal
+b7531cbe38186e2d9aeb1b5de83984b3,"Aortic enlargement, Other lesion, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+bcac275c6e0bb33856f785e31374e30a,No finding,Normal
+3bf462b3f48c0a1c35912a77a84f318d,"Aortic enlargement, Calcification, Nodule/Mass, Pleural thickening",Abnormal
+cdac49b4f02a2c0a7bc8c10761de0f01,No finding,Normal
+bd7a9b6d834cfea362de14239e126dbd,No finding,Normal
+3c7949b75bb527c91a6518e4f40fc87a,"Aortic enlargement, Cardiomegaly",Abnormal
+d10befbaf9fa291ed319f7118515a20c,"Aortic enlargement, Pleural effusion, Pleural thickening",Abnormal
+512a2d752e167ea768cf32a32193f894,No finding,Normal
+4345be313f4d62bb6b2a56feefe891e7,No finding,Normal
+df5159425dcde64a05197d569fb36907,No finding,Normal
+bad4e3988bfcf1aa7ba7203ac56a2883,No finding,Normal
+040c69444ceb71b8a9f714090f1175db,No finding,Normal
+03dd99aa091caee7b0ce8efdf7f274d5,"Aortic enlargement, Cardiomegaly",Abnormal
+d07557904cbe57fc1bdebac1e8aeefa1,"Aortic enlargement, Calcification, Nodule/Mass, Other lesion",Abnormal
+5485fe2a8773b0c4cbcaa636586f61ce,No finding,Normal
+e9c0a723726efbed9a1d43d4db015ff3,"Aortic enlargement, Calcification, Cardiomegaly, ILD, Other lesion",Abnormal
+2ff9a75c852526ba45eb78e55d11783b,No finding,Normal
+9bb56fa80a00fbb3e04564b733f0ea7b,No finding,Normal
+38e8d0a7c6e90bb221619d0d8836b3a8,"Aortic enlargement, Pleural thickening",Abnormal
+e4fdb253b4d97d3b4420e060f1df5feb,No finding,Normal
+fcb8064b44fc9ed89e8d275e459708d1,No finding,Normal
+630a0f2f00ad7b543d2e4f55f1f90324,No finding,Normal
+d79e29f792f1225d45994d75d624f8d1,"Aortic enlargement, Cardiomegaly",Abnormal
+59f163522f9e49ab143f88d3febb8a33,No finding,Normal
+ed427a3b0eb541083e0d2d6c2ae2ac31,Cardiomegaly,Abnormal
+2016c404039deb1d04073250fa84a328,"Aortic enlargement, Cardiomegaly",Abnormal
+955c561b6301bc98d02990faa70a5ec6,"Cardiomegaly, Other lesion",Abnormal
+7f673e54a83f0451fe127c96e853ea03,No finding,Normal
+23f267e42a7e9f496aa143fe11f241ff,"Lung Opacity, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+e07b7ec90f64033074d9996d1c8b310a,No finding,Normal
+0512ed00fe622b41f1959d354138f192,No finding,Normal
+2895bda9f0eb57fee9af64ed333a94a8,No finding,Normal
+f35decf057aaad0c7c4c0405bc2514eb,No finding,Normal
+36cf5300d146ed2c232acd54b45f317e,"Cardiomegaly, Pleural thickening",Abnormal
+e559048794d171b368b3570107840037,"Aortic enlargement, Cardiomegaly, Infiltration, Lung Opacity, Pleural thickening, Pulmonary fibrosis",Abnormal
+0c684171749ce2c0c601b9d69b882edb,"Cardiomegaly, Other lesion, Pleural thickening",Abnormal
+a61be8051f02ec494ed40696e988f6d1,"Aortic enlargement, Cardiomegaly, Nodule/Mass",Abnormal
+f5b2547ee619395f63368aab8996f2fb,"Infiltration, Lung Opacity, Other lesion",Abnormal
+78c1b61cfb348be14a529e557ff63cf1,No finding,Normal
+d60fdd6237c71b741d10c85895723d16,"Aortic enlargement, Cardiomegaly, Lung Opacity, Pleural thickening",Abnormal
+79e7c75ba7fa306f9b3445ccad034fb1,No finding,Normal
+deffec9fbce51979a23bc9932988c78f,"Lung Opacity, Pulmonary fibrosis",Abnormal
+dd419454c39f108f8da8a4ecb26686e4,No finding,Normal
+3607a4db624454ddc7be55ab40e00456,No finding,Normal
+090b30ca55ab2a592cd3b24c9407a2bf,"Aortic enlargement, Lung Opacity, Pleural thickening",Abnormal
+02cd1d17763c869ff3d4af5e28539456,"Aortic enlargement, Cardiomegaly, Pleural effusion, Pleural thickening",Abnormal
+1627d29da4760776632c69d73237b6e2,No finding,Normal
+ad0ca7c65ff59150b9317bac429a1f4e,No finding,Normal
+98f00bae3d65ebcebd046c12e5b27f7c,"Atelectasis, Lung Opacity, Pleural effusion, Pleural thickening, Pneumothorax",Abnormal
+5879d22d9f6aec0ba5d682bcc6131e22,"Aortic enlargement, Cardiomegaly, Infiltration, Nodule/Mass, Pleural effusion, Pleural thickening",Abnormal
+6e3dce43de58cedd6cca477f98b6c94f,"Cardiomegaly, Lung Opacity, Nodule/Mass, Other lesion",Abnormal
+e6d737cf8600e9b07168c04ca7541980,No finding,Normal
+5719bc77c9b616aab2202280f293699a,"Aortic enlargement, Cardiomegaly",Abnormal
+a29b4315c292de2875aa7d5c4a01bc5d,No finding,Normal
+3db920cfa1955efefa82e2f46d2c7519,"Aortic enlargement, Cardiomegaly, Infiltration, Lung Opacity, Other lesion, Pleural effusion, Pleural thickening",Abnormal
+2b73e82661e82f7c15c3ddaa15926d35,No finding,Normal
+53b1a490cd7e3a30e94014bdfd314d14,"Nodule/Mass, Other lesion, Pleural thickening",Abnormal
+5fbe80c51a1b3fb43bb5143803482282,Aortic enlargement,Abnormal
+6bbec77cf331835d3758fbabfa8821da,No finding,Normal
+a7edba318fa3305ec4118eb7e0091140,"Calcification, Nodule/Mass",Abnormal
+839b2311ffad9bdd9aa98c74aad6e251,No finding,Normal
+60d769f30bc9d356998abeeba51fa6ff,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+b3588a07ee672507c31f69109089b805,"Aortic enlargement, Infiltration, Lung Opacity, Pulmonary fibrosis",Abnormal
+8b09d4ec88d8372bded8547543dbbf24,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+b502b41aafb37e54ddb1ffa035c190a2,No finding,Normal
+6da10923313fcb96f204ceae77a5b1a6,No finding,Normal
+ee47fd39217a0d25550cb6b9badd3ee2,"Cardiomegaly, Lung Opacity, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+bea723c657a3ec2192189a59b1b8582b,No finding,Normal
+f33741a2c2ffaa247cea27ba87e6f4d9,"Pleural effusion, Pleural thickening",Abnormal
+f4c12a07224893104dec25b926db33a1,"Infiltration, Lung Opacity, Other lesion, Pleural thickening",Abnormal
+e86cde1dbe7a082d03b9c38b400e4c67,"Aortic enlargement, Lung Opacity, Other lesion",Abnormal
+458dac26200d54d8be49a43e001dc7da,"Cardiomegaly, Pleural thickening",Abnormal
+01892129d76aaa1f59d4b22df8a14c0b,No finding,Normal
+1ecc10ca44af4ff9638ab9723ba974cb,No finding,Normal
+f36cb2ce4ae7b6e960550542a99a9bff,"Aortic enlargement, Cardiomegaly",Abnormal
+8845010681f45c2c6f2271ac8bebdfbc,"Aortic enlargement, ILD, Lung Opacity, Nodule/Mass, Pulmonary fibrosis",Abnormal
+cee92cbc41867428da8409c724096ec3,No finding,Normal
+95bbadf9fca1ad13b442ab060935e06c,"Aortic enlargement, Cardiomegaly, Lung Opacity, Pleural thickening, Pulmonary fibrosis",Abnormal
+d1ae8f8c681cf7e9ad6fc1f8ab02dc3a,"ILD, Infiltration, Lung Opacity, Pleural thickening, Pulmonary fibrosis",Abnormal
+da6434d2962b74259909abfdf93d4e6c,"Aortic enlargement, Cardiomegaly",Abnormal
+02bf4c408e34c31bdb2297c3a04c7c21,No finding,Normal
+2569c94df89d92fbf1ece003b48549d1,No finding,Normal
+ea99ac7087780248ca58449abd57f377,"Aortic enlargement, Cardiomegaly, Other lesion",Abnormal
+5933a74d7c042ba8801e604b79c64933,Cardiomegaly,Abnormal
+42d2ad470aec5b121fb71822abcecd69,"Aortic enlargement, Cardiomegaly",Abnormal
+817d6851a8922386cee7904de94f2bf5,No finding,Normal
+6d80520d7518642b92a089b028407104,"Aortic enlargement, Calcification, Cardiomegaly",Abnormal
+477177a132f537ffc141429c64d1078e,No finding,Normal
+3dcd69d586c76d7ccee18e292742ff85,No finding,Normal
+3633b8a8cffa248a55bab4084f4ff5e9,"Aortic enlargement, Cardiomegaly, Pulmonary fibrosis",Abnormal
+cc5ca13d504354fc7c1e75bf2ca9857b,"Aortic enlargement, Cardiomegaly",Abnormal
+682b61023d547b7b92f47dfdea263775,"Aortic enlargement, Infiltration, Pleural thickening, Pulmonary fibrosis",Abnormal
+73d406f3aaebf4b2d07e73a87ebff608,"Aortic enlargement, Cardiomegaly",Abnormal
+32001794ae2e10aa0da075ca133664b2,No finding,Normal
+de15082e96e1eaf1bda9d3f54cbc8947,No finding,Normal
+b325d5dcf507c8cce2c5de3e9afb2847,"Aortic enlargement, Infiltration, Lung Opacity",Abnormal
+a7e934cb433dc7724548f996f5cccbce,No finding,Normal
+f77548b76082f9b45c05764493005039,"Aortic enlargement, Pleural effusion, Pleural thickening",Abnormal
+a0976cdb9ce0b949a46c47015232bf5f,No finding,Normal
+71f52612d8897d2550303d1fb320f3d7,No finding,Normal
+4cedc7409a0eb3421e200e78ea5325ad,No finding,Normal
+0eff8de4b1964a09bc67fc2dcdd233d5,No finding,Normal
+0dd8ef01229d7509562e1ef1dc92953b,No finding,Normal
+52bda701f8278c3eab00dbdfadf06a37,No finding,Normal
+37969967243726a9e231291224502076,"Lung Opacity, Other lesion, Pleural effusion",Abnormal
+09790cae0f405ce0fe4b003dadfc18c7,"Aortic enlargement, Cardiomegaly",Abnormal
+f2e5eb5de5ca28f05adcc8c37973e85f,No finding,Normal
+b87b691b9ceeaf0c9539b2844be6e1e1,"Nodule/Mass, Other lesion, Pulmonary fibrosis",Abnormal
+23ed5844d016867059889d56e64df1b9,No finding,Normal
+ad9493c5e8ca4b015ccab28229cb2caf,No finding,Normal
+ad3cf469b0efd1dba77eded4ee1d12c9,No finding,Normal
+ed6f20cff422347c954f41eac82fac8b,"Lung Opacity, Nodule/Mass, Pleural effusion, Pleural thickening",Abnormal
+4500dc880a0978a7a1f91a0be2756806,"Aortic enlargement, Cardiomegaly",Abnormal
+73461c12a3a579574df0723071c9d3b9,No finding,Normal
+6467b5c2d8ebcde331524d7d322931a7,No finding,Normal
+5acc12cb8658cfed7d03bfa6e57e7d5a,No finding,Normal
+41c40fd3bd0719e48290cd6f3485ca77,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+7b3c95aed302fd5d3f25bff1108f3e44,No finding,Normal
+ed6b8aafbebda034d02fb57cbe7a2439,"Aortic enlargement, Cardiomegaly",Abnormal
+be505971cc0f51f3cf4a5717767b42da,Aortic enlargement,Abnormal
+0a114862f10f4021fa7fd916b93aea94,"Aortic enlargement, Cardiomegaly",Abnormal
+393da5a82f26af5f578461a2ff8c62e8,No finding,Normal
+04d1f1f8f52b15520f5895be87884fbd,"Aortic enlargement, Cardiomegaly",Abnormal
+4a4b4c829cb8ca8ae24318d9163ec734,No finding,Normal
+1c32170b4af4ce1a3030eb8167753b06,"Pleural thickening, Pulmonary fibrosis",Abnormal
+690becc033b4b41fc20572d5f7f13359,No finding,Normal
+464c4f4d94d999777e09aca18e381926,"Aortic enlargement, Cardiomegaly",Abnormal
+b67097ef52cee62bf9a0b2ff35d5a72e,No finding,Normal
+3349c0d8861ff59db82c4e6f1d10705a,"Aortic enlargement, Cardiomegaly, Other lesion, Pleural effusion, Pleural thickening",Abnormal
+9f006d9ef6436bb178b81edfbcc43679,No finding,Normal
+e690dec63fc0ce9e73eaf32e679b6ceb,No finding,Normal
+1d8f4d5daf11f2b01695b71a862aa813,"Cardiomegaly, Nodule/Mass",Abnormal
+d5554e2e3b5f60f8635a23416a47e6e1,No finding,Normal
+82603b0dce20d3f1495c3d02caf391cd,"Aortic enlargement, Cardiomegaly, Lung Opacity, Pleural effusion, Pleural thickening",Abnormal
+6c07e9a9fc06aa20e54a83cded97aa7a,"Aortic enlargement, Calcification, Lung Opacity, Pleural thickening",Abnormal
+f5090fd5d374072ec820e693abf53e25,No finding,Normal
+16041095041e6b5afb13e8da17bf45b4,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+54c0150631b47cb729930541e54f3deb,"Aortic enlargement, Cardiomegaly",Abnormal
+0f4fd2b86df83111f83444ee90edbea1,"Aortic enlargement, Nodule/Mass",Abnormal
+4193b70ebecde523e99a9f29ca31538a,No finding,Normal
+5b87af36fba9c0c55f76237a7cdca9a1,No finding,Normal
+5a58e4e711cccb78407ae86820d643d0,"Aortic enlargement, Infiltration, Lung Opacity, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+50742e2516c5af7abede56edbd3bb6bb,No finding,Normal
+035480fbf46e946e21e7dce78637c329,"Consolidation, Lung Opacity, Nodule/Mass, Pleural effusion, Pleural thickening",Abnormal
+385f2129e57dc69626fb3a2bda8ecfa5,No finding,Normal
+309ca3d3a6991e2a001d75f734d88099,Pulmonary fibrosis,Abnormal
+cc9b6ee01a01702434ad789eef9432fb,No finding,Normal
+ef0b10e9d207fa0ff2f4e2f59a590970,"Cardiomegaly, Lung Opacity, Pulmonary fibrosis",Abnormal
+62c3e25845cd6097c6337faa28eab97e,No finding,Normal
+ea970ed46ada798de375a4be51f701c9,No finding,Normal
+b3c87c973fa2f929ad454b04cdaa949b,No finding,Normal
+1d8b142c4c168ce0317f32f1ba6bf55d,No finding,Normal
+45f754b6c657050c4f462c772b5d2b1c,No finding,Normal
+ab77771bd9ac7881c2f19fe8015eb1d3,No finding,Normal
+52c85584532b1c23d447ab91ac1787ef,"Aortic enlargement, Cardiomegaly, Pulmonary fibrosis",Abnormal
+77c0b7ebeae94c2c4f61fdaa170522b0,No finding,Normal
+3095cc822fe5a15e277499c62b74d58e,No finding,Normal
+e307273033fdd5b7e870836a890d1b56,Pleural thickening,Abnormal
+e67e91b27935a01b738eaa01ede863fd,"Aortic enlargement, Atelectasis, Consolidation, Nodule/Mass, Other lesion, Pleural thickening, Pneumothorax, Pulmonary fibrosis",Abnormal
+0d94045f9e16f077bc6bbdea9f6c561b,"Cardiomegaly, Nodule/Mass",Abnormal
+9917e9ddd333c0758c69031407538feb,No finding,Normal
+9259faeeda26a934fb32c74b8682e15f,"Other lesion, Pleural thickening, Pulmonary fibrosis",Abnormal
+33d11e9c98ade6b3937407364fd07103,"Aortic enlargement, Lung Opacity, Nodule/Mass, Pleural thickening, Pulmonary fibrosis",Abnormal
+5467a3e2ca866b4295b2e73089fec5fe,"Aortic enlargement, Cardiomegaly",Abnormal
+e26f159ab768f4bce7cec269c4f7d31b,No finding,Normal
+43e11813c6d7bcef779a1a287edc02c4,"Nodule/Mass, Pneumothorax",Abnormal
+f7a56f47ad3ca3e1a06fd41bba7a3b03,"Aortic enlargement, Calcification, Cardiomegaly, Pleural effusion, Pleural thickening",Abnormal
+f90b90dfd11066369f7f1f938e2f4969,No finding,Normal
+c4d68aad9fdec87b76853d26744026bb,"Lung Opacity, Nodule/Mass, Other lesion, Pleural thickening",Abnormal
+bdf9b658a14af92ba69ea594103c2e13,No finding,Normal
+6c45f970e82a55ffca6f7259d82197e7,"Aortic enlargement, Cardiomegaly, Pleural effusion, Pleural thickening",Abnormal
+a995b7251057480098c9c9d34b615b2a,"Lung Opacity, Pleural effusion, Pleural thickening, Pneumothorax",Abnormal
+50967fd2c8a4b64dee2f8e7762fe14da,No finding,Normal
+4253c52d3888bd58b138a6db3bcd8f43,No finding,Normal
+a3ca60861641146c038d959a92fe3c70,No finding,Normal
+aaef6f8db63b90e24660b8d788103ff6,"Aortic enlargement, Calcification, Cardiomegaly, Nodule/Mass, Other lesion, Pulmonary fibrosis",Abnormal
+46d721eeb4251bb82e32f44e9176f21f,No finding,Normal
+696214f9b38c455d2b867484da3570d8,"Lung Opacity, Pleural thickening",Abnormal
+a8db71e482a4dc2e83a1f5eecd9568cc,"Lung Opacity, Other lesion, Pulmonary fibrosis",Abnormal
+fd82f322cd3d32ba2f34959530b8a2df,No finding,Normal
+ba5e3409250a85483d6e39be759bc102,"Consolidation, Lung Opacity, Other lesion, Pleural effusion, Pleural thickening, Pneumothorax, Pulmonary fibrosis",Abnormal
+20b70e16705cf1e99116b00a056d439e,No finding,Normal
+b4872c4ae2b5733b5d0c025949d077da,"Aortic enlargement, Cardiomegaly, Pleural thickening",Abnormal
+a88602ac2574484933194329e86b8ca0,No finding,Normal
+da7ba2750699edc297c106c314963f15,"Aortic enlargement, Cardiomegaly",Abnormal
+d6d95f11e158dafc5fe2955b81192f51,"Aortic enlargement, Other lesion, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+c1e293e3a2a29987a50008a48a51486f,No finding,Normal
+c703d14204953de254f131ee437b1b84,No finding,Normal
+0046f681f078851293c4e710c4466058,"Aortic enlargement, Infiltration, Pleural thickening, Pulmonary fibrosis",Abnormal
+87b2d8a5c90b757b528f9f84421e024a,No finding,Normal
+b14ae4deac87240d4a179741a8779a3f,No finding,Normal
+3126f384167edfe4650413888feb60f1,"Pleural effusion, Pleural thickening",Abnormal
+aae8f5574784d4343ab50b4f0cef671d,"Aortic enlargement, Cardiomegaly",Abnormal
+7d3e79d32d233140b7e30880739a42c4,"Aortic enlargement, Cardiomegaly, Lung Opacity, Nodule/Mass, Pleural effusion, Pleural thickening",Abnormal
+23d1c67775a1f20404642b6086b74cc8,"Aortic enlargement, Calcification, Pleural effusion, Pleural thickening",Abnormal
+13088cbf40717bace59ef0961554c08f,"Other lesion, Pleural effusion, Pleural thickening, Pulmonary fibrosis",Abnormal
+96c522f25fae304c496697b220be49a6,Pulmonary fibrosis,Abnormal
