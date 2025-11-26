@@ -13,7 +13,7 @@ def train_model():
 
     train_csv = "/home/jupyter-nafisha/X-ray/CSVs/train.csv"
     val_csv = "/home/jupyter-nafisha/X-ray/CSVs/validation.csv"
-    img_dir = "/home/jupyter-nafisha/X-ray/Data"
+    img_dir = '/home/common/Xray-Data'
 
     # Datasets
     train_dataset = XRayDataset(train_csv, img_dir, transform=get_train_transform())
@@ -28,14 +28,15 @@ def train_model():
     model.to(device)
 
     # Loss & Optimizer
-    criterion = nn.CrossEntropyLoss()
+    criterion = nn.BCEWithLogitsLoss()
     optimizer = optim.Adam(model.parameters(), lr=1e-4)
 
     # Training
-    EPOCHS = 15
+    EPOCHS = 100
     best_val_acc = 0.0  # to store best accuracy
 
     for epoch in range(EPOCHS):
+        
         train_loss, train_acc = train_one_epoch(model, train_loader, optimizer, criterion, device)
         val_loss, val_acc = validate(model, val_loader, criterion, device)
 
@@ -49,6 +50,7 @@ def train_model():
             best_val_acc = val_acc
             torch.save(model.state_dict(), "best_model.pth")
             print(f"Best model updated with val_acc = {best_val_acc:.4f}")
+        # break
 
     # ---- SAVE LAST MODEL ----
     torch.save(model.state_dict(), "last_model.pth")
