@@ -19,8 +19,8 @@ class XRayDataset(Dataset):
         row = self.df.iloc[idx]
 
         image_id = row["image_id"]
-        if not image_id.endswith(".png"):
-            image_id += ".png"
+        # if not image_id.endswith(".png"):
+        #     image_id += ".png"
 
         img_path = os.path.join(self.img_dir, image_id)
         image = Image.open(img_path).convert("RGB")

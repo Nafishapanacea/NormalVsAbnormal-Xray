@@ -18,10 +18,14 @@ def load_model(checkpoint_path, device):
 
 def predict():
 
-    test_csv = "/home/jupyter-nafisha/X-ray/CSVs/test.csv"
-    img_dir = "/home/common/Xray-Data"
+    # test_csv = "/home/jupyter-nafisha/X-ray/CSVs/test.csv"
+    # img_dir = "/home/common/Xray-Data"
 
+    test_csv = '/home/jupyter-nafisha/X-ray/CSVs/NIH_test.csv'
+    img_dir = '/home/jupyter-nafisha/X-ray/Inference_data/NIH-test-dataset'
+    
     device = "cuda" if torch.cuda.is_available() else "cpu"
+    # device= "cpu"
 
     # Load trained model
     model = load_model("best_model.pth", device)
@@ -64,11 +68,16 @@ def predict():
     f1 = f1_score(true_labels, predictions)
     cm = confusion_matrix(true_labels, predictions)
 
+    tn, fp, fn, tp = cm.ravel()
+    # Specificity
+    specificity = tn / (tn + fp)
+
     print("\n==== Evaluation Metrics ====")
-    print(f"Accuracy :  {acc:.4f}")
-    print(f"Precision:  {precision:.4f}")
-    print(f"Recall:     {recall:.4f}")
-    print(f"F1 Score:   {f1:.4f}")
+    print(f"Accuracy     :  {acc:.4f}")
+    print(f"Precision    :  {precision:.4f}")
+    print(f"Recall       :  {recall:.4f}")
+    print(f"Specificity  :  {specificity:.4f}")
+    print(f"F1 Score     :  {f1:.4f}")
     print("\nConfusion Matrix:")
     print(cm)
 

@@ -11,9 +11,9 @@ from utils import train_one_epoch, validate
 
 def train_model():
 
-    train_csv = "/home/jupyter-nafisha/X-ray/CSVs/train.csv"
-    val_csv = "/home/jupyter-nafisha/X-ray/CSVs/validation.csv"
-    img_dir = '/home/common/Xray-Data'
+    train_csv = "/home/jupyter-nafisha/X-ray/CSVs/train_combined.csv"
+    val_csv = "/home/jupyter-nafisha/X-ray/CSVs/valid_combined.csv"
+    img_dir = '/home/common'
 
     # Datasets
     train_dataset = XRayDataset(train_csv, img_dir, transform=get_train_transform())
