@@ -1,0 +1,442 @@
+,image_id,class_name,label
+0,CXR100_IM-0002-1001.png,normal,Normal
+1,CXR1001_IM-0004-1001.png,"Markings/lung/bilateral/interstitial/diffuse/prominent, Fibrosis/diffuse, diffuse fibrosis, Fibrosis, Pulmonary Fibrosis",Abnormal
+2,CXR1005_IM-0006-1001.png,normal,Normal
+3,CXR1007_IM-0008-1001.png,"Thoracic Vertebrae/degenerative/mild, degenerative change, Spine",Abnormal
+4,CXR1007_IM-0008-3001.png,"Thoracic Vertebrae/degenerative/mild, degenerative change, Spine",Abnormal
+5,CXR1010_IM-0012-1001.png,normal,Normal
+6,CXR1011_IM-0013-1001.png,normal,Normal
+7,CXR1012_IM-0013-1001.png,"Lung/hypoinflation, Consolidation/lung/base/bilateral, Costophrenic Angle/bilateral/blunted, Surgical Instruments, Airspace Disease/lung/base/bilateral, Pleural Effusion/bilateral, pleural fluid, Pleural Effusion",Abnormal
+8,CXR1017_IM-0013-1001.png,"Pulmonary Atelectasis/lingula/focal, Calcinosis/lung/hilum/right, focal atelectasis, Pulmonary Atelectasis",Abnormal
+9,CXR1020_IM-0017-1001.png,Lung/hypoinflation,Abnormal
+10,CXR1021_IM-0017-1001-0001.png,"Pneumothorax/right, Pulmonary Atelectasis/right, Shift/mediastinum, collapse, pneumothorax, Pneumothorax",Abnormal
+11,CXR1022_IM-0017-2001.png,"Nodule/lung/upper lobe/right/small, Calcinosis/lung/upper lobe/right/small, nodule",Abnormal
+12,CXR1024_IM-0019-1001.png,normal,Normal
+13,CXR1028_IM-0022-1001.png,normal,Normal
+14,CXR1034_IM-0028-1001.png,"Calcified Granuloma/lung/middle lobe/right, Hernia, Hiatal, calcified granuloma, hiatus hernia, Hernia, Hiatus",Abnormal
+15,CXR1056_IM-0040-1001.png,"Aorta/tortuous, Scoliosis/lumbar vertebrae/left, Scoliosis/thoracic vertebrae/left, Lung/hyperdistention, Diaphragm/flattened, Pulmonary Emphysema, Granulomatous Disease, granulomatous disease, tortuous aorta, Aortic Diseases",Abnormal
+16,CXR1056_IM-0040-1002.png,"Aorta/tortuous, Scoliosis/lumbar vertebrae/left, Scoliosis/thoracic vertebrae/left, Lung/hyperdistention, Diaphragm/flattened, Pulmonary Emphysema, Granulomatous Disease, granulomatous disease, tortuous aorta, Aortic Diseases",Abnormal
+17,CXR1059_IM-0041-1001.png,"Aorta/tortuous, Granulomatous Disease, Opacity/retrocardiac, granulomatous disease, opacity, tortuous aorta",Abnormal
+18,CXR1077_IM-0054-1001.png,No Indexing,Abnormal
+19,CXR1079_IM-0056-1001.png,"Lung/hypoinflation, Pulmonary Atelectasis/base/right/mild, atelectases, Atelectasis",Abnormal
+20,CXR108_IM-0056-1001.png,"Lung/hypoinflation, Markings/lung/hilum, bronchitis, Bronchitis",Abnormal
+21,CXR1084_IM-0058-1001.png,normal,Normal
+22,CXR1091_IM-0062-1001.png,normal,Normal
+23,CXR110_IM-0067-1001.png,normal,Normal
+24,CXR1100_IM-0068-1001.png,"Cardiomegaly, Infiltrate/lung/base/bilateral/interstitial, Costophrenic Angle/bilateral/blunted, Heart Failure, Pulmonary Edema/base/interstitial, Pleural Effusion/bilateral, Pulmonary Congestion, congestive heart failure, edemas, infiltrates, pleural fluid, Congestive Heart Failure, Edema, Pleural Effusion",Abnormal
+25,CXR1104_IM-0071-1001.png,"Spondylosis/thoracic vertebrae, Lung/hilum/prominent, Thoracic Spondylosis",Abnormal
+26,CXR1114_IM-0079-1001.png,normal,Normal
+27,CXR1133_IM-0090-1001.png,"Lung/hyperdistention, Diaphragmatic Eventration/left, Pulmonary Disease, Chronic Obstructive, copd, eventration, Diaphragm, Pulmonary Disease, Chronic Obstructive",Abnormal
+28,CXR1146_IM-0098-1001.png,"Calcified Granuloma/lung/lingula, pulmonary granuloma",Abnormal
+29,CXR1150_IM-0102-1003.png,No Indexing,Abnormal
+30,CXR1158_IM-0107-1001.png,"Cardiomegaly/mild, Aorta/tortuous, Cardiomegaly",Abnormal
+31,CXR1160_IM-0107-1001.png,"Pulmonary Atelectasis/upper lobe/left, Cysts/lung/upper lobe/left, Thickening/pleura/apex/left, Cicatrix/lung/upper lobe/left, Tuberculosis/lung/healed, collapse, pleural thickening, pneumatocele, scarring, Pleural Diseases, Scarring",Abnormal
+32,CXR1168_IM-0112-1001.png,normal,Normal
+33,CXR1175_IM-0119-1001.png,normal,Normal
+34,CXR1188_IM-0127-1001.png,normal,Normal
+35,CXR1199_IM-0133-1001.png,normal,Normal
+36,CXR1202_IM-0136-1001.png,"Cardiomegaly, Hypertension, Pulmonary, Pulmonary Congestion, venous hypertension, Cardiomegaly, Pulmonary Hypertension",Abnormal
+37,CXR1222_IM-0150-1001.png,No Indexing,Abnormal
+38,CXR1224_IM-0150-1001.png,No Indexing,Abnormal
+39,CXR1235_IM-0158-1001.png,"Opacity, Lung/hypoinflation, Pulmonary Atelectasis/lingula/focal, focal atelectasis, opacity, Pulmonary Atelectasis",Abnormal
+40,CXR1242_IM-0164-1001.png,"Aorta/tortuous, Sarcoidosis, Cicatrix/lung/apex/bilateral, sarcoidoses, tortuous aorta, Aortic Diseases, Sarcoidosis",Abnormal
+41,CXR1243_IM-0165-4004.png,"Cardiac Shadow/enlarged, Catheters, Indwelling/left, Opacity/lung/base/bilateral, Pleural Effusion/bilateral, Pulmonary Atelectasis/left, Cardiomegaly, atelectases, opacity, pleural effusions, Atelectasis, Cardiomegaly, Pleural Effusion",Abnormal
+42,CXR1258_IM-0175-1001.png,No Indexing,Abnormal
+43,CXR1259_IM-0175-1001.png,normal,Normal
+44,CXR1263_IM-0179-1001.png,normal,Normal
+45,CXR1278_IM-0185-1001.png,normal,Normal
+46,CXR1289_IM-0189-1001.png,"Costophrenic Angle/bilateral/blunted, Pleural Effusion/bilateral/large, pancreatitis, pleural effusions, pleuritis, Pancreatitis, Pleural Effusion, Pleuritis",Abnormal
+47,CXR1290_IM-0189-1001.png,"Calcified Granuloma/lung/lower lobe/left, Calcinosis/lung/lower lobe/left, Nodule/lung/lower lobe/left, Hernia, Hiatal/moderate, Calcinosis/mediastinum/lymph nodes/left, hiatus hernia, nodule, Hernia, Hiatus, Lymph, Lymph Nodes",Abnormal
+48,CXR1291_IM-0190-1001.png,Lung/hilum/left/prominent/mild,Abnormal
+49,CXR1303_IM-0199-1001-0001.png,"Mass/lung/upper lobe/right/posterior, Opacity/heart/left, Hernia, Hiatal, hiatal hernia, neoplasm, opacity, Neoplasm",Abnormal
+50,CXR1303_IM-0199-1001-0002.png,"Mass/lung/upper lobe/right/posterior, Opacity/heart/left, Hernia, Hiatal, hiatal hernia, neoplasm, opacity, Neoplasm",Abnormal
+51,CXR1303_IM-0199-2001-0001.png,"Mass/lung/upper lobe/right/posterior, Opacity/heart/left, Hernia, Hiatal, hiatal hernia, neoplasm, opacity, Neoplasm",Abnormal
+52,CXR1303_IM-0199-2001-0003.png,"Mass/lung/upper lobe/right/posterior, Opacity/heart/left, Hernia, Hiatal, hiatal hernia, neoplasm, opacity, Neoplasm",Abnormal
+53,CXR1310_IM-0202-1001.png,normal,Normal
+54,CXR1315_IM-0204-1001.png,normal,Normal
+55,CXR134_IM-0219-1001.png,"Calcified Granuloma/lung/middle lobe/right, Calcified Granuloma/lung/upper lobe/right, calcified granuloma",Abnormal
+56,CXR1362_IM-0235-1001.png,"Diaphragm/left/elevated, Pulmonary Atelectasis/base/left, Pulmonary Atelectasis/base/right/mild, Cardiomegaly, Atherosclerosis/aorta, Heart/left/obscured, Kyphosis/thoracic vertebrae, Bone Diseases, Metabolic/thoracic vertebrae, Deformity/thoracic vertebrae/multiple, Thoracic Vertebrae/degenerative, atelectases, deformity, osteopenia, Aorta, Atelectasis, Cardiomegaly, Osteopenia",Abnormal
+57,CXR138_IM-0244-1001.png,normal,Normal
+58,CXR1386_IM-0246-1001.png,Pulmonary Artery/bilateral/prominent,Abnormal
+59,CXR1400_IM-0256-1001.png,normal,Normal
+60,CXR1403_IM-0258-1001.png,"Pulmonary Atelectasis/base/bilateral/mild, atelectases, Atelectasis",Abnormal
+61,CXR1407_IM-0260-1001.png,"Granuloma/lung/base/right, Spondylosis/thoracic vertebrae, granuloma",Abnormal
+62,CXR1426_IM-0272-1001.png,normal,Normal
+63,CXR1433_IM-0278-1001.png,"Atherosclerosis/mild, Spondylosis/thoracic vertebrae, atheroscleroses, Atherosclerosis",Abnormal
+64,CXR1434_IM-0279-1001.png,normal,Normal
+65,CXR1439_IM-0282-1001.png,"Opacity/lung/base/left, Pulmonary Disease, Chronic Obstructive, Pulmonary Atelectasis/base/left/focal, copd, focal atelectasis, opacity, Pulmonary Atelectasis, Pulmonary Disease, Chronic Obstructive",Abnormal
+66,CXR1440_IM-0284-1001.png,normal,Normal
+67,CXR145_IM-0290-1001.png,"Costophrenic Angle/right/blunted, Pleural Effusion/right/large, Infiltrate/lung/lower lobe/left/patchy, infiltrates, pleural effusions, Pleural Effusion",Abnormal
+68,CXR1454_IM-0293-1001.png,normal,Normal
+69,CXR1460_IM-0298-1001.png,normal,Normal
+70,CXR151_IM-0331-1001.png,No Indexing,Abnormal
+71,CXR1516_IM-0334-1001.png,normal,Normal
+72,CXR1522_IM-0338-0001-0002.png,normal,Normal
+73,CXR1527_IM-0341-1001-0002.png,"Pulmonary Emphysema, Atherosclerosis/aorta, Lung/hyperdistention, Diaphragm/flattened, Spine/degenerative, degenerative change, Calcinosis, Diaphragms",Abnormal
+74,CXR1528_IM-0341-1001.png,Implanted Medical Device,Abnormal
+75,CXR153_IM-0343-1001.png,"Catheters, Indwelling, Pleural Effusion/right/small, pleural effusions, central venous catheters, Central Venous Catheter, Pleural Effusion",Abnormal
+76,CXR154_IM-0350-1001.png,normal,Normal
+77,CXR1541_IM-0352-1001.png,"Cardiomegaly/borderline, Pulmonary Congestion, Pulmonary Atelectasis/base, Pleural Effusion/posterior, atelectases, congestion, pleural effusions, volume overload, Atelectasis, Cardiomegaly, Pleural Effusion",Abnormal
+78,CXR1542_IM-0352-1001.png,"Atherosclerosis/aorta, Opacity/lung/base/bilateral, Cicatrix/lung/base/bilateral, Pulmonary Atelectasis/base/bilateral, atelectases, opacity, scarring, Atelectasis",Abnormal
+79,CXR1546_IM-0356-3001.png,No Indexing,Abnormal
+80,CXR1554_IM-0361-1001.png,"Thoracic Vertebrae/degenerative/multiple, degenerative change",Abnormal
+81,CXR1567_IM-0370-1001.png,"Opacity/lung/lingula, opacity",Abnormal
+82,CXR157_IM-0372-1001.png,normal,Normal
+83,CXR1576_IM-0375-1001.png,"Hernia, Hiatal/large, Fractures, Bone/thoracic vertebrae, Scoliosis/thoracic vertebrae, Scoliosis/lumbar vertebrae, fracture, large hiatal hernia, scolioses, Lumbar Vertebrae, Scoliosis, Thoracic Vertebrae",Abnormal
+84,CXR1582_IM-0378-1001.png,normal,Normal
+85,CXR159_IM-0382-1001.png,"Osteophyte/shoulder/bilateral/multiple, degenerative joint disease, osteophytes, Osteoarthritis, Osteophytes",Abnormal
+86,CXR1595_IM-0386-2001.png,"Cardiomegaly, Opacity/lung/middle lobe/right, Cicatrix/lung/middle lobe/right, opacity, scar, Cardiomegaly, Scar",Abnormal
+87,CXR1599_IM-0389-1001.png,"Atherosclerosis/aorta, Osteophyte/thoracic vertebrae/multiple, osteophytes",Abnormal
+88,CXR160_IM-0390-1001.png,"Opacity/retrocardiac/mild, Infiltrate/lung/lower lobe/right/patchy, Infiltrate/lung/base/left, atelectases, infiltrates, opacity, Atelectasis",Abnormal
+89,CXR1600_IM-0390-1001.png,"Fractures, Bone/clavicle/right/healed, Aorta, Thoracic/tortuous/mild, clavicular fracture, Thoracic Aorta",Abnormal
+90,CXR1605_IM-0393-3001.png,normal,Normal
+91,CXR1612_IM-0397-1001.png,"Cardiomegaly/mild, Aorta, Thoracic/tortuous, Atherosclerosis/aorta, thoracic, Thoracic Vertebrae/degenerative, atheroscleroses, degenerative change, Cardiomegaly, Thoracic Aorta",Abnormal
+92,CXR1616_IM-0399-1001.png,normal,Normal
+93,CXR1625_IM-0406-1002.png,"Atherosclerosis/aorta, Calcinosis",Abnormal
+94,CXR1640_IM-0420-1001.png,"Nodule/lung/upper lobe/right/small, nodule, Lung Neoplasms",Abnormal
+95,CXR167_IM-0441-1001.png,"Calcified Granuloma/lung/upper lobe/left, calcified granuloma",Abnormal
+96,CXR1670_IM-0441-1001.png,"Catheters, Indwelling, Heart Atria",Abnormal
+97,CXR1673_IM-0444-1001.png,Lung/hyperdistention,Abnormal
+98,CXR1675_IM-0445-1001.png,Lung/hypoinflation,Abnormal
+99,CXR1681_IM-0448-1001.png,normal,Normal
+100,CXR1686_IM-0450-1001.png,"Calcinosis/aorta/lymph nodes, Calcinosis/pulmonary artery/lymph nodes, Lymph Nodes",Abnormal
+101,CXR1688_IM-0450-1001.png,normal,Normal
+102,CXR1701_IM-0462-1001.png,normal,Normal
+103,CXR1726_IM-0479-1001.png,normal,Normal
+104,CXR1728_IM-0479-1001.png,"Opacity/lung/upper lobe/right/focal, Pneumonia/upper lobe/right, opacity, pneumonia, Pneumonia",Abnormal
+105,CXR1730_IM-0481-1001.png,"Thoracic Vertebrae/degenerative/mild, degenerative change",Abnormal
+106,CXR1735_IM-0484-1001.png,"Surgical Instruments/mediastinum, Costophrenic Angle/right/blunted, Lung/hyperdistention, pleural thickening, scarring, sternotomy",Abnormal
+107,CXR1739_IM-0487-1001.png,"Deformity/sternum/anterior, Aorta, Thoracic/tortuous, Opacity/lung/base/left/streaky, Pulmonary Atelectasis/base/left, Kyphosis/thoracic vertebrae, Lung/hyperdistention, atelectases, callus, hyperinflation, non-displaced fracture, opacity, Atelectasis, Callus, Fractures, Bone, Sternum, Thoracic Aorta",Abnormal
+108,CXR1752_IM-0494-1001.png,"Opacity/lung/hilum/right, Nodule/lung/upper lobe/hilum/right, nodule, opacity",Abnormal
+109,CXR1758_IM-0495-1001.png,"Mediastinum/prominent/mild, Lucency/mediastinum/mild, Lung/hypoinflation, Adipose Tissue/mediastinum, Adipose Tissue",Abnormal
+110,CXR1759_IM-0495-1001.png,"Lung/hyperdistention, Density/ribs/right/round/multiple, Emphysema, Ribs, emphysemas, hyperexpansion, Emphysema, Pulmonary Emphysema",Abnormal
+111,CXR1769_IM-0503-1001.png,"Consolidation/lung/lower lobe/left, Pulmonary Atelectasis/lower lobe/left, Infiltrate/lung/lower lobe/right/interstitial/patchy, Costophrenic Angle/bilateral/blunted, Airspace Disease/lung/base/bilateral, Pleural Effusion/bilateral, atelectases, infiltrates, pleural fluid, Atelectasis",Abnormal
+112,CXR1771_IM-0505-1001.png,No Indexing,Abnormal
+113,CXR1782_IM-0510-1001.png,"Granulomatous Disease, Diaphragm/right/elevated, Spondylosis/degenerative, Fractures, Bone/clavicle/right/mild, displaced fractures, granulomatous disease, spondylosis, Clavicle, Fractures, Bone",Abnormal
+114,CXR1787_IM-0513-1001.png,Granulomatous Disease/mild,Abnormal
+115,CXR1807_IM-0524-1001.png,"Cardiomegaly/mild, Pulmonary Congestion/mild, Markings/lung/interstitial/mild, Pulmonary Edema, congestion, edemas, Cardiomegaly, Edema, Pulmonary Edema",Abnormal
+116,CXR1824_IM-0535-1001.png,normal,Normal
+117,CXR1841_IM-0545-1001.png,No Indexing,Abnormal
+118,CXR1848_IM-0550-1001.png,"Granulomatous Disease, Nodule/lung/bilateral/round/multiple/small, Density/lung/bilateral/round/multiple/small, Calcinosis/lung/bilateral/round/multiple/small, granulomatous disease",Abnormal
+119,CXR1866_IM-0559-1001.png,No Indexing,Abnormal
+120,CXR187_IM-0563-1001.png,"Aorta/tortuous, Granulomatous Disease, granulomatous disease, tortuous aorta",Abnormal
+121,CXR1891_IM-0580-1001.png,No Indexing,Abnormal
+122,CXR1894_IM-0581-1001.png,"Opacity/thorax/right, opacity",Abnormal
+123,CXR1903_IM-0586-1001.png,normal,Normal
+124,CXR1905_IM-0587-1001.png,"Cardiac Shadow/enlarged, Calcinosis/blood vessels, Granulomatous Disease, Spondylosis/thoracic vertebrae/mild, granulomatous disease, Thoracic Spondylosis",Abnormal
+125,CXR1909_IM-0590-1001.png,"Infiltrate/lung/middle lobe/right/patchy, Cardiomegaly/mild, Aorta/tortuous, Airspace Disease/lung/middle lobe/right, infiltrates",Abnormal
+126,CXR1912_IM-0594-1001.png,normal,Normal
+127,CXR1926_IM-0600-1001.png,No Indexing,Abnormal
+128,CXR1927_IM-0600-1001.png,"Granulomatous Disease, granulomatous disease",Abnormal
+129,CXR1931_IM-0602-1001.png,normal,Normal
+130,CXR1959_IM-0625-1001.png,"Granulomatous Disease, granulomatous disease",Abnormal
+131,CXR1960_IM-0627-1002001.png,normal,Normal
+132,CXR1966_IM-0629-1001.png,normal,Normal
+133,CXR197_IM-0631-1001.png,"Lung/hyperdistention, Calcified Granuloma/lung/lower lobe/right/small, calcified granuloma",Abnormal
+134,CXR1975_IM-0634-1001.png,normal,Normal
+135,CXR1975_IM-0634-3001.png,normal,Normal
+136,CXR1978_IM-0636-1001.png,"Surgical Instruments/abdomen, cholecystectomies",Abnormal
+137,CXR1991_IM-0648-1001.png,"Lung/hypoinflation, Opacity/lung/base/left/streaky, Pulmonary Atelectasis/base/left, Cicatrix/lung/base/left, Pulmonary Congestion/mild, Markings/bronchovascular, atelectases, congestion, infiltrates, opacity, scarring, Atelectasis, Scarring",Abnormal
+138,CXR1992_IM-0649-4004.png,"Cardiomegaly/borderline, Lung/hyperdistention, Lung, Hyperlucent, Pulmonary Disease, Chronic Obstructive, Calcinosis/aorta, Bone Diseases, Metabolic, bone demineralization, chronic obstructive pulmonary disease, vascular calcification, Pulmonary Disease, Chronic Obstructive",Abnormal
+139,CXR2_IM-0652-1001.png,"Cardiomegaly/borderline, Pulmonary Artery/enlarged, sternotomy",Abnormal
+140,CXR203_IM-0675-1001.png,normal,Normal
+141,CXR2089_IM-0720-1001.png,normal,Normal
+142,CXR2091_IM-0722-1001.png,"Spondylosis/thoracic vertebrae, Thoracic Vertebrae",Abnormal
+143,CXR2097_IM-0727-1001-0001.png,normal,Normal
+144,CXR2120_IM-0747-1001.png,normal,Normal
+145,CXR2123_IM-0748-1001.png,"Cardiomegaly, Pulmonary Congestion, Aorta/tortuous, Thoracic Vertebrae/degenerative, Hypertension, Pulmonary, degenerative disc diseases, venous hypertension, Cardiomegaly, Hypertension, Pulmonary Hypertension",Abnormal
+146,CXR2135_IM-0757-1001.png,"Costophrenic Angle/posterior/blunted/mild, Pleural Effusion/small, Cardiomegaly/moderate, effusion, pleural effusions, Cardiomegaly, Pleural Effusions",Abnormal
+147,CXR2138_IM-0760-1001.png,"Aorta, Thoracic/tortuous, Granulomatous Disease, Fractures, Bone/ribs/healed, Opacity/lung/lingula/focal, rib fracture, Rib, Rib Fractures, callus, granulomatous disease, opacity, Thoracic Aorta",Abnormal
+148,CXR2147_IM-0767-1001.png,"Spondylosis/mild, spondylosis, Spondylosis",Abnormal
+149,CXR2152_IM-0772-1001.png,normal,Normal
+150,CXR2171_IM-0786-1001.png,"Calcified Granuloma/lung/upper lobe/right/small, calcified granuloma",Abnormal
+151,CXR220_IM-0811-1001.png,"Catheters, Indwelling, Nodule/lung/bilateral/multiple, Nodule/lung/lingula/prominent, metastatic disease, nodule, Lung Neoplasms",Abnormal
+152,CXR2204_IM-0813-1001.png,No Indexing,Abnormal
+153,CXR2209_IM-0816-1001.png,"Emphysema, emphysemas, Emphysema, Pulmonary Emphysema",Abnormal
+154,CXR221_IM-0817-1001.png,"Atherosclerosis/aorta, Costophrenic Angle/left/blunted/mild, Spondylosis/thoracic vertebrae, atelectases, scarring, Atelectasis, Scarring",Abnormal
+155,CXR2235_IM-0833-1001.png,Lung/hypoinflation,Abnormal
+156,CXR2238_IM-0835-1001.png,normal,Normal
+157,CXR2240_IM-0838-1001.png,normal,Normal
+158,CXR2242_IM-0840-1001.png,"Diaphragm/bilateral/elevated, Pulmonary Atelectasis/base/bilateral, Spondylosis/mild, atelectases, elevated diaphragm, spondylosis, Atelectasis, Diaphragm, Spondylosis",Abnormal
+159,CXR2248_IM-0844-1001.png,normal,Normal
+160,CXR2251_IM-0844-1001.png,normal,Normal
+161,CXR2255_IM-0847-3001.png,"Density/lung/right/round/multiple, Calcinosis/lung/right/round, Granulomatous Disease, granulomatous disease",Abnormal
+162,CXR2274_IM-0861-1001.png,"Lung/hilum/lymph nodes/bilateral/enlarged, bilateral hilar adenopathy, Lymphatic Diseases",Abnormal
+163,CXR2297_IM-0877-1001.png,"Spondylosis/thoracic vertebrae, Scoliosis/thoracic vertebrae/mild, Scoliosis/lumbar vertebrae/mild",Abnormal
+164,CXR2305_IM-0882-1001.png,"Scoliosis/lumbar vertebrae/mild, Scoliosis/thoracic vertebrae/mild",Abnormal
+165,CXR2312_IM-0887-1001.png,normal,Normal
+166,CXR2314_IM-0889-1001.png,"Opacity/costophrenic angle/right/multiple, Pulmonary Disease, Chronic Obstructive, Pulmonary Atelectasis/costophrenic angle/right/focal, copd, focal atelectasis, opacity, Pulmonary Atelectasis, Pulmonary Disease, Chronic Obstructive",Abnormal
+167,CXR2317_IM-0890-1001.png,"Calcified Granuloma/costophrenic angle/right, calcified granuloma, Granuloma",Abnormal
+168,CXR2318_IM-0891-1001.png,"Lucency/thorax/left, Pneumothorax/left/large, Pulmonary Atelectasis/left/severe, pneumothorax, Pneumothorax",Abnormal
+169,CXR2321_IM-0894-1001.png,normal,Normal
+170,CXR2321_IM-0894-3001.png,normal,Normal
+171,CXR2322_IM-0894-1001.png,"Opacity/lung/middle lobe/right, Lung/hypoinflation, Pulmonary Atelectasis/middle lobe/right/focal, focal atelectasis, opacity, Middle Lobe Syndrome, Pulmonary Atelectasis",Abnormal
+172,CXR2328_IM-0898-1001.png,"Aorta, Thoracic/tortuous, Calcinosis/aorta, Bone Diseases, Metabolic, bone demineralization, vascular calcification, Thoracic Aorta",Abnormal
+173,CXR2335_IM-0902-2001.png,"Osteophyte/thoracic vertebrae/anterior/multiple, osteophytes, Osteophyte, Spinal Osteophytosis, Thoracic Vertebrae",Abnormal
+174,CXR2341_IM-0907-1001.png,Spondylosis/thoracic vertebrae,Abnormal
+175,CXR2370_IM-0931-1001.png,"Consolidation/lung/lower lobe/right, Pulmonary Atelectasis/lower lobe/right, Costophrenic Angle/right/blunted, Airspace Disease/lung/lower lobe/left, Pneumonia/lower lobe/left, Pleural Effusion/right, atelectases, pleural effusions, pneumonia, Atelectasis, Pleural Effusion, Pneumonia",Abnormal
+176,CXR2371_IM-0932-1001.png,"Osteophyte/thoracic vertebrae/multiple, Lung/hypoinflation, Opacity/lung/base/left/streaky, Pulmonary Atelectasis/base/left, atelectases, opacity, osteophytes, Atelectasis",Abnormal
+177,CXR2375_IM-0936-1001.png,"Granulomatous Disease/thorax/right/healed, granulomatous disease",Abnormal
+178,CXR2390_IM-0944-1001.png,"Cardiomegaly/borderline, Atherosclerosis/aorta, Volume Loss/thorax/left/mild, Diaphragm/left/elevated, Deformity/thorax/left, bypass grafts, sternotomy, thoracotomies, Coronary Artery Bypass, Sternotomy, Thoracotomy",Abnormal
+179,CXR2406_IM-0954-1001.png,"Hernia, Hiatal/large, hiatus hernia, Hernia, Hiatus",Abnormal
+180,CXR241_IM-0955-1001.png,normal,Normal
+181,CXR2415_IM-0961-1001.png,"Cardiomegaly/mild, Lung/hypoinflation, Diaphragm/left/elevated/mild, Opacity/lung/base/left/patchy, Markings/prominent, Technical Quality of Image Unsatisfactory, Emphysema, atelectases, infiltrates, opacity, Atelectasis, Diaphragm",Abnormal
+182,CXR2422_IM-0965-1001.png,"Consolidation/lung/lower lobe/left, Infiltrate/lung/lower lobe/right/patchy, Pneumonia/base/bilateral, infiltrates, pneumonia, Pneumonia",Abnormal
+183,CXR2423_IM-0965-1001.png,normal,Normal
+184,CXR2425_IM-0967-1001.png,Lung/hypoinflation,Abnormal
+185,CXR2425_IM-0967-3001.png,Lung/hypoinflation,Abnormal
+186,CXR2427_IM-0969-4001.png,"Hernia, Hiatal, hiatal hernia, Hiatal Hernia",Abnormal
+187,CXR2434_IM-0976-1001.png,"Cicatrix/lung/apex/bilateral, scarring, Scarring",Abnormal
+188,CXR2435_IM-0976-1001.png,normal,Normal
+189,CXR2440_IM-0978-2001.png,"Atherosclerosis/aorta, Emphysema, emphysemas, Emphysema, Pulmonary Emphysema",Abnormal
+190,CXR2460_IM-0993-1001.png,normal,Normal
+191,CXR2467_IM-0997-1001.png,"Opacity/lung/upper lobe/right/round/multiple/small, Lucency/lung/upper lobe/right/round/multiple/small, opacity",Abnormal
+192,CXR2471_IM-1002-1001.png,normal,Normal
+193,CXR2475_IM-1004-1001.png,"Cardiomegaly/mild, Aorta/tortuous, aorta tortuous, Aorta",Abnormal
+194,CXR2501_IM-1027-1001.png,"Lung/hyperdistention, Diaphragm/bilateral/flattened, Pulmonary Emphysema, Spine/degenerative/multiple, degenerative change, Pulmonary Emphysema",Abnormal
+195,CXR251_IM-1032-1001.png,"Lung/hyperdistention/mild, Granulomatous Disease, hyperinflation",Abnormal
+196,CXR251_IM-1032-3001.png,"Lung/hyperdistention/mild, Granulomatous Disease, hyperinflation",Abnormal
+197,CXR2515_IM-1036-1001.png,normal,Normal
+198,CXR2524_IM-1042-1001.png,"Granulomatous Disease, Spondylosis/thoracic vertebrae, granulomatous disease, Thoracic Spondylosis",Abnormal
+199,CXR256_IM-1064-1001.png,"Sutures/lung/upper lobe/left, Cicatrix/ribs/left, Postoperative Period",Abnormal
+200,CXR2565_IM-1068-1002.png,"Aorta/tortuous, Lung/hypoinflation, Fractures, Bone/ribs/right/healed, ectasia, rib fracture, Ectasia",Abnormal
+201,CXR2568_IM-1070-1001.png,"Surgical Instruments/abdomen/right, sternotomy",Abnormal
+202,CXR2576_IM-1076-1001.png,"Pneumonectomy/lung/upper lobe/left, Cicatrix/lung/hilum/left, scar, lobectomy, Pneumonectomy",Abnormal
+203,CXR2583_IM-1081-1001.png,normal,Normal
+204,CXR2597_IM-1087-1001.png,"Lung/hilum/lymph nodes/bilateral/enlarged, Mediastinum/lymph nodes/bilateral/enlarged, bilateral hilar adenopathy",Abnormal
+205,CXR26_IM-1090-1001.png,"Spondylosis/thoracic vertebrae, Spinal Osteophytosis",Abnormal
+206,CXR2600_IM-1091-1001.png,"Implanted Medical Device/cervical vertebrae, Cervical Vertebrae",Abnormal
+207,CXR2604_IM-1094-1001.png,normal,Normal
+208,CXR2608_IM-1098-2001.png,"Consolidation/lung/lower lobe/bilateral, Costophrenic Angle/lower lobe/bilateral/blunted, Airspace Disease/lung/base/bilateral, Pleural Effusion/bilateral, pleural fluid, Pleural Effusion",Abnormal
+209,CXR2609_IM-1099-3001.png,normal,Normal
+210,CXR2620_IM-1109-1001.png,normal,Normal
+211,CXR2621_IM-1109-1001.png,normal,Normal
+212,CXR2626_IM-1113-2001.png,normal,Normal
+213,CXR2633_IM-1120-2002.png,"Granulomatous Disease, Density/costophrenic angle/anterior/round, Thoracic Vertebrae/degenerative, Lumbar Vertebrae/degenerative, Scoliosis/mild, degenerative change, granulomatous disease, nodule, scolioses",Abnormal
+214,CXR2654_IM-1137-1001.png,No Indexing,Abnormal
+215,CXR2668_IM-1147-3001.png,normal,Normal
+216,CXR268_IM-1153-1001.png,"Opacity/lung/upper lobe/right, Pneumonia/upper lobe/right, opacity, right upper lobe pneumonia, Pneumonia",Abnormal
+217,CXR2685_IM-1158-1001.png,"Diaphragmatic Eventration/right/mild, eventration, Diaphragm",Abnormal
+218,CXR2695_IM-1166-1001.png,"Lung/hyperdistention, Diaphragm/bilateral/flattened, Spondylosis/thoracic vertebrae",Abnormal
+219,CXR2700_IM-1169-1001.png,"Calcified Granuloma/mediastinum/multiple, Calcinosis",Abnormal
+220,CXR2701_IM-1169-1001.png,No Indexing,Abnormal
+221,CXR2718_IM-1182-1001.png,"Thoracic Vertebrae/degenerative/mild, degenerative change",Abnormal
+222,CXR2725_IM-1186-1001.png,"Emphysema, Deformity/ribs/right/multiple, Spondylosis/thoracic vertebrae",Abnormal
+223,CXR2726_IM-1186-2001.png,normal,Normal
+224,CXR2729_IM-1187-1001.png,"Diaphragm/left/elevated, Cicatrix/costophrenic angle/left, Foreign Bodies/thoracic vertebrae, Foreign Bodies/lung/lower lobe/left, Foreign Bodies/lung/upper lobe/left, Thoracic Vertebrae/degenerative/mild, degenerative change, gunshot wounds, scarring, Foreign Bodies, Thoracic Vertebrae, Wounds, Gunshot",Abnormal
+225,CXR2749_IM-1199-1001.png,"Deformity/ribs/right/multiple/healed, deformity",Abnormal
+226,CXR2779_IM-1218-1001.png,"Scoliosis/lumbar vertebrae, Scoliosis/thoracic vertebrae, thoracolumbar scoliosis, Scoliosis, Thoracic Vertebrae",Abnormal
+227,CXR2780_IM-1218-1002.png,No Indexing,Abnormal
+228,CXR2794_IM-1226-1001.png,"Lung/hyperdistention, Pulmonary Disease, Chronic Obstructive, copd, Lung Diseases, Obstructive, Pulmonary Disease, Chronic Obstructive",Abnormal
+229,CXR280_IM-1232-1001.png,No Indexing,Abnormal
+230,CXR2803_IM-1234-1001.png,Lung/hypoinflation,Abnormal
+231,CXR2812_IM-1239-2001.png,"Lung/hypoinflation, Infiltrate/lung/lower lobe/right/patchy, Pneumonia/lower lobe/right, infiltrates, pneumonia, Pneumonia",Abnormal
+232,CXR2815_IM-1240-1001.png,Granulomatous Disease,Abnormal
+233,CXR2818_IM-1242-1001.png,"Cavitation/lung/apex/right, Tuberculosis, Opacity/lung/upper lobe/left, Lung/hyperdistention, Opacity/lung/upper lobe/right, hyperexpansion, opacity",Abnormal
+234,CXR2820_IM-1244-1001.png,normal,Normal
+235,CXR2826_IM-1246-1001.png,"Markings/lung/interstitial/prominent, Lung Diseases, Interstitial/chronic/mild, Cicatrix/lung, chronic interstitial lung disease, scar, Lung Diseases, Interstitial, Scars",Abnormal
+236,CXR287_IM-1276-4004.png,normal,Normal
+237,CXR2879_IM-1284-1001.png,"Cardiomegaly/borderline, Calcinosis/aorta, Aorta/tortuous, Spondylosis/mild, spondylosis, Spondylosis",Abnormal
+238,CXR2887_IM-1289-4001.png,"Opacity/lung/base/bilateral/multiple, Fractures, Bone/clavicle/right, Airspace Disease/lung/base/bilateral/mild, Pulmonary Atelectasis/base/bilateral/mild, atelectases, displaced fractures, opacity, Atelectasis",Abnormal
+239,CXR2897_IM-1299-1001.png,No Indexing,Abnormal
+240,CXR29_IM-1302-1001.png,"Cardiomegaly/borderline, Diaphragm/left/elevated, Tube, Inserted/trachea, carina, Airspace Disease/lung/base/left/severe, tracheostomies, Diaphragm, surgery, Trachea, Tracheostomy",Abnormal
+241,CXR2902_IM-1306-4001.png,normal,Normal
+242,CXR2908_IM-1312-4004.png,"Markings/lung/interstitial/chronic, Spine/degenerative, degenerative change",Abnormal
+243,CXR2909_IM-1313-1001.png,"Airspace Disease/lung/lingula/patchy, Calcified Granuloma/mediastinum/multiple, Catheters, Indwelling/right, pneumonia, Pneumonia",Abnormal
+244,CXR2917_IM-1319-1001.png,"Lung/hyperdistention, Blister/lung/upper lobe/bilateral/multiple, Pulmonary Disease, Chronic Obstructive, bulla, copd",Abnormal
+245,CXR2918_IM-1320-1001.png,normal,Normal
+246,CXR2926_IM-1328-1001.png,normal,Normal
+247,CXR2929_IM-1331-2001.png,"Lung/hypoinflation, degenerative change",Abnormal
+248,CXR2932_IM-1335-1001.png,normal,Normal
+249,CXR2934_IM-1337-1001.png,"Lung, Hyperlucent/bilateral/mild, Scoliosis/lumbar vertebrae, scolioses, Lumbar Vertebrae, Scoliosis",Abnormal
+250,CXR294_IM-1340-3001.png,"Emphysema, emphysemas, Emphysema, Pulmonary Emphysema",Abnormal
+251,CXR2951_IM-1349-1001.png,"Lucency/ribs/left/posterior, non-displaced fracture, Rib Fractures",Abnormal
+252,CXR2957_IM-1354-1003.png,"Cardiomegaly/mild, Pulmonary Congestion, Diaphragm/right/elevated/mild, Airspace Disease/lung/base/right, Pulmonary Atelectasis/base/right, Opacity/lung/base/left/streaky, Costophrenic Angle/bilateral/blunted, Diaphragmatic Eventration/right, atelectases, congestion, eventration, opacity, Atelectasis, Cardiomegaly, Diaphragm",Abnormal
+253,CXR2968_IM-1360-1001.png,"Mass/right/paratracheal, paratracheal mass, Lymphadenopathy, Trachea",Abnormal
+254,CXR2972_IM-1363-1001.png,"Lung/hypoinflation, Costophrenic Angle/bilateral/blunted, Pleural Effusion/bilateral/small, bilateral pleural effusion, Pleural Effusion",Abnormal
+255,CXR299_IM-1377-1001.png,"Hernia, Hiatal/small, hiatal hernia, Hiatal Hernia",Abnormal
+256,CXR3005_IM-1388-1001.png,"Aorta/tortuous, Calcinosis/lymph nodes, Mediastinum/right/paratracheal/prominent/mild, Bone Diseases, Metabolic, Deformity/thoracic vertebrae, Emphysema, deformity, degenerative change, emphysemas, osteopenia, Aorta, Emphysema, Pulmonary Emphysema, Thoracic Vertebrae",Abnormal
+257,CXR3016_IM-1392-1001.png,"Granulomatous Disease, Spondylosis/thoracic vertebrae, granulomatous disease",Abnormal
+258,CXR3026_IM-1401-1001.png,normal,Normal
+259,CXR3026_IM-1401-3001.png,normal,Normal
+260,CXR303_IM-1404-1001.png,"Lung/hypoinflation/mild, Diaphragmatic Eventration, Thickening/pleura/bilateral, Opacity/lung/base/bilateral/streaky/mild, Pulmonary Atelectasis/chronic, atelectases, bochdalek hernia, chronic atelectasis, eventration, opacity, pleural thickening, Atelectasis, Pleural Diseases",Abnormal
+261,CXR3060_IM-1426-1003.png,normal,Normal
+262,CXR3071_IM-1433-1001.png,normal,Normal
+263,CXR3093_IM-1446-1001.png,"Lung/hyperdistention, Blister/lung/upper lobe/bilateral/multiple, Pulmonary Disease, Chronic Obstructive, bulla, copd, Bullae",Abnormal
+264,CXR3110_IM-1460-1001.png,"Diaphragm/right/elevated, Spine/degenerative/mild, degenerative change",Abnormal
+265,CXR3123_IM-1468-1001.png,"Cardiomegaly/mild, Thickening/pleura/right, Pleural Effusion/right, Granulomatous Disease/mild, pleural effusions, pleural thickening, bypass grafts, sternotomy, Cardiomegaly, Pleural Effusion",Abnormal
+266,CXR3137_IM-1476-1001.png,"Calcinosis/lung/lingula, Density/lung/lingula, Calcified Granuloma/lung/lingula, calcified granuloma",Abnormal
+267,CXR3138_IM-1476-1001.png,normal,Normal
+268,CXR3142_IM-1477-2001.png,"Cardiomegaly/mild, Aorta/tortuous, Cardiomegaly",Abnormal
+269,CXR3150_IM-1482-3001.png,"Opacity/lung/lower lobe/left, Pulmonary Atelectasis/base/left/focal, atelectases, focal atelectasis, opacity, Atelectasis, Tuberculosis",Abnormal
+270,CXR3163_IM-1488-1001.png,normal,Normal
+271,CXR317_IM-1493-1001.png,normal,Normal
+272,CXR3170_IM-1494-1001.png,"Aorta/tortuous, Sclerosis/thoracic vertebrae, sclerotic",Abnormal
+273,CXR3171_IM-1494-1001.png,No Indexing,Abnormal
+274,CXR3172_IM-1494-1001.png,Scoliosis/thoracic vertebrae/right,Abnormal
+275,CXR3176_IM-1497-1001.png,normal,Normal
+276,CXR3181_IM-1500-1001.png,normal,Normal
+277,CXR3182_IM-1501-0001-0001.png,"Nodule/lung/hilum/right, Mass/lung/hilum/right, Contrast Media/esophagus, nodule, Esophagus",Abnormal
+278,CXR3189_IM-1505-1001.png,Lung/hypoinflation,Abnormal
+279,CXR3191_IM-1505-1001.png,"Cardiomegaly/borderline, Calcinosis/aorta, thoracic, Aorta, Thoracic/enlarged, Emphysema, Spondylosis/mild, emphysemas, spondylosis, Cardiomegaly, Emphysema, Pulmonary Emphysema",Abnormal
+280,CXR3196_IM-1507-1001.png,normal,Normal
+281,CXR3197_IM-1508-1001.png,"Calcified Granuloma/bilateral/multiple, Cicatrix/lung/base/left, calcified granuloma, scarring, Granuloma, Scarring",Abnormal
+282,CXR3201_IM-1513-1001.png,Lung/hypoinflation,Abnormal
+283,CXR322_IM-1521-1001.png,"Markings/lung/interstitial/chronic, Spine/degenerative, degenerative change",Abnormal
+284,CXR3223_IM-1523-1001.png,normal,Normal
+285,CXR3225_IM-1525-1001.png,normal,Normal
+286,CXR323_IM-1526-1001.png,"Calcinosis/lung/right, Granulomatous Disease, Thoracic Vertebrae/degenerative/mild, Density/lung/right, degenerative change, granulomatous disease, Spine",Abnormal
+287,CXR3240_IM-1534-1001.png,"Lung/hyperdistention, Diaphragm/bilateral/flattened, Lung/blood vessels/blunted, Spondylosis/thoracic vertebrae, Emphysema, emphysemas, Diaphragms, Emphysema, Pulmonary Emphysema, Thoracic Spondylosis",Abnormal
+288,CXR3246_IM-1538-1001.png,"Pulmonary Artery/prominent, Spondylosis/thoracic vertebrae, Pulmonary Arteries",Abnormal
+289,CXR3269_IM-1552-1001.png,normal,Normal
+290,CXR3275_IM-1556-1002001.png,"Spine/degenerative/mild, degenerative change",Abnormal
+291,CXR3275_IM-1556-1003002.png,"Spine/degenerative/mild, degenerative change",Abnormal
+292,CXR3279_IM-1560-1001.png,normal,Normal
+293,CXR3281_IM-1562-1001.png,"Nodule/lung/upper lobe/right, Granuloma/lung/upper lobe/right, granuloma, nodule, Granuloma",Abnormal
+294,CXR3281_IM-1562-3001.png,"Nodule/lung/upper lobe/right, Granuloma/lung/upper lobe/right, granuloma, nodule, Granuloma",Abnormal
+295,CXR3286_IM-1567-1001.png,"Lung/hypoinflation, Cardiomegaly, Opacity/lung/lingula, Hypertension, Pulmonary, Pulmonary Atelectasis/lingula/focal, Pulmonary Congestion, focal atelectasis, venous hypertension, Cardiomegaly, Hypertension, Pulmonary Atelectasis, Pulmonary Hypertension",Abnormal
+296,CXR329_IM-1571-1004003.png,"Cardiac Shadow/enlarged/borderline, Calcinosis/mediastinum/lymph nodes, Markings/right/paratracheal/prominent, Emphysema, Spondylosis/mild, emphysemas, spondylosis, Cardiomegaly, Pulmonary Emphysema, Trachea",Abnormal
+297,CXR3297_IM-1575-1001.png,"Emphysema/mild, Pulmonary Emphysema",Abnormal
+298,CXR3299_IM-1575-1001.png,"Lung/hypoinflation, Markings/bronchovascular",Abnormal
+299,CXR3302_IM-1579-1001.png,Lung/hypoinflation/mild,Abnormal
+300,CXR3309_IM-1583-1001.png,normal,Normal
+301,CXR3312_IM-1586-1001.png,"Infiltrate/lung/middle lobe/right/patchy, Pneumonia/middle lobe/right, Aorta/tortuous, aorta tortuous, infiltrates, pneumonia, Pneumonia",Abnormal
+302,CXR3322_IM-1588-1001.png,"Calcified Granuloma/lung/apex/right/small, apical granuloma",Abnormal
+303,CXR3325_IM-1591-1001.png,normal,Normal
+304,CXR3337_IM-1598-1001.png,"Calcinosis/pleura/base/right, pleural plaque",Abnormal
+305,CXR3338_IM-1599-2001.png,normal,Normal
+306,CXR3342_IM-1603-1001.png,"Infiltrate/lung/lower lobe/bilateral/interstitial/patchy, Cardiomegaly, Tube, Inserted/trachea, Catheters, Indwelling/right, Lung Diseases, Interstitial/base/bilateral/patchy, infiltrates, interstitial disease, tracheostomies, Cardiomegaly, Intubation, Intratracheal, Trachea, Tracheostomy",Abnormal
+307,CXR3357_IM-1610-1001.png,No Indexing,Abnormal
+308,CXR3358_IM-1611-1001.png,normal,Normal
+309,CXR3363_IM-1616-1001.png,"Opacity/lung/base/bilateral/multiple, Foreign Bodies/thorax/left/posterior, Foreign Bodies/neck/right, Foreign Bodies/costophrenic angle/left, opacity",Abnormal
+310,CXR3364_IM-1617-2001.png,"Cardiomegaly/borderline, Aorta/tortuous, Calcinosis/aorta, Diaphragm/right/elevated, Lung/hilum/bilateral/prominent, Aorta, Diaphragm",Abnormal
+311,CXR3366_IM-1618-1001.png,No Indexing,Abnormal
+312,CXR3369_IM-1621-1001.png,"Pneumothorax/right/large, Shift/mediastinum/left, Opacity/lung/lower lobe/right/severe, Pulmonary Atelectasis/lower lobe/right/severe, collapse, pneumothorax, Pneumothorax, Pulmonary Atelectasis",Abnormal
+313,CXR3374_IM-1624-1001.png,"Nodule/lung/lower lobe/left, nodule",Abnormal
+314,CXR3384_IM-1631-1001.png,normal,Normal
+315,CXR3385_IM-1632-1001.png,normal,Normal
+316,CXR3386_IM-1633-1001.png,normal,Normal
+317,CXR3389_IM-1634-1001.png,No Indexing,Abnormal
+318,CXR341_IM-1648-1001.png,normal,Normal
+319,CXR3428_IM-1657-1001.png,"Calcinosis/ribs/right/anterior/prominent, Aorta/tortuous, Osteophyte/thoracic vertebrae/multiple, osteophytes, Ribs",Abnormal
+320,CXR3443_IM-1667-1001.png,normal,Normal
+321,CXR3464_IM-1683-1001.png,No Indexing,Abnormal
+322,CXR3477_IM-1690-3001.png,normal,Normal
+323,CXR3480_IM-1691-1001.png,"Surgical Instruments/abdomen, cholecystectomies",Abnormal
+324,CXR3481_IM-1692-1001.png,"Lung/hyperdistention, Spine/degenerative",Abnormal
+325,CXR349_IM-1697-1001.png,"Cardiomegaly, Aorta/tortuous, pleural effusions, Cardiomegaly",Abnormal
+326,CXR3493_IM-1698-1001.png,Lung/hypoinflation/mild,Abnormal
+327,CXR3506_IM-1708-1001.png,No Indexing,Abnormal
+328,CXR3515_IM-1715-1001.png,"Calcified Granuloma/lung/lower lobe/left/small, granuloma",Abnormal
+329,CXR3523_IM-1721-1001.png,"Surgical Instruments/right, Deformity/breast, lumpectomy, Lumpectomy",Abnormal
+330,CXR3527_IM-1724-1001.png,normal,Normal
+331,CXR3532_IM-1726-2001.png,No Indexing,Abnormal
+332,CXR3532_IM-1726-3001.png,No Indexing,Abnormal
+333,CXR355_IM-1739-1001.png,"Lung/hypoinflation, Markings/lung/bilateral/interstitial/prominent, Blister/lung/upper lobe/bilateral, Lung Diseases, Interstitial/chronic, bulla, Bullae",Abnormal
+334,CXR3560_IM-1745-1001.png,normal,Normal
+335,CXR3562_IM-1747-2001.png,"Granulomatous Disease, Lung/hypoinflation, Markings/bronchovascular, Pulmonary Atelectasis/base/bilateral/patchy, Spine/degenerative, degenerative change, granulomatous disease, Pulmonary Atelectasis",Abnormal
+336,CXR3585_IM-1763-1001.png,normal,Normal
+337,CXR3606_IM-1781-1001.png,normal,Normal
+338,CXR3612_IM-1785-1001.png,"Calcinosis/lymph nodes/right/paratracheal, Atherosclerosis/aorta, Lung/hypoinflation/mild",Abnormal
+339,CXR3621_IM-1792-3001.png,Lung/hypoinflation,Abnormal
+340,CXR3629_IM-1797-1001.png,normal,Normal
+341,CXR3651_IM-1813-1001.png,"Costophrenic Angle/bilateral/blunted, Cicatrix/costophrenic angle, scarring, Scarring",Abnormal
+342,CXR366_IM-1820-1001.png,normal,Normal
+343,CXR3663_IM-1822-1001.png,normal,Normal
+344,CXR3671_IM-1827-3001.png,"Opacity/lung/upper lobe/right/patchy/mild, Infiltrate/lung/upper lobe/right/mild, infiltrates, opacity",Abnormal
+345,CXR3673_IM-1828-1001.png,"Calcinosis/aorta, Calcinosis/lymph nodes/small, Emphysema, Opacity/lung/upper lobe/hilum/left, Opacity/lung/lingula, aortic calcifications, emphysemas, infiltrates, mass lesion, opacity",Abnormal
+346,CXR3677_IM-1830-2001.png,Aorta/tortuous,Abnormal
+347,CXR3690_IM-1841-1001.png,"Cardiomegaly, Aorta/tortuous, Lung/hypoinflation, Cardiomegaly",Abnormal
+348,CXR3701_IM-1848-1001.png,normal,Normal
+349,CXR3719_IM-1857-1001.png,normal,Normal
+350,CXR373_IM-1864-1001.png,normal,Normal
+351,CXR3733_IM-1866-1001.png,"Cardiomegaly, Costophrenic Angle/right/blunted, Cicatrix/pleura/right, Granuloma/lung/upper lobe/left, Kyphosis/thoracic vertebrae, Osteophyte/thoracic vertebrae/anterior/multiple, Aorta/tortuous, Aorta, Cardiomegaly",Abnormal
+352,CXR3735_IM-1866-1001.png,"Atherosclerosis/aorta, Spondylosis/thoracic vertebrae, Aorta",Abnormal
+353,CXR3743_IM-1870-1001.png,No Indexing,Abnormal
+354,CXR3753_IM-1877-1001.png,"Pulmonary Atelectasis/base/left/mild, Nodule/lung/middle lobe/right/multiple/small, Nodule/lung/upper lobe/left/multiple/small, atelectases, infection, neoplastic processes, Atelectasis",Abnormal
+355,CXR3754_IM-1878-2001.png,normal,Normal
+356,CXR3761_IM-1883-1001.png,"Cardiomegaly/mild, Aorta/tortuous, Thoracic Vertebrae/degenerative/mild, degenerative change, tortuous aorta",Abnormal
+357,CXR3763_IM-1883-1001.png,normal,Normal
+358,CXR3784_IM-1898-2001.png,"Lung/hypoinflation, Technical Quality of Image Unsatisfactory",Abnormal
+359,CXR3794_IM-1908-1001.png,"Opacity/ribs/left/anterior/round, opacity",Abnormal
+360,CXR3809_IM-1919-1002001.png,normal,Normal
+361,CXR385_IM-1948-1001.png,normal,Normal
+362,CXR3855_IM-1950-1001.png,"Nodule/lung/upper lobe/bilateral/multiple, Nodule/lung/lower lobe/bilateral/multiple, Diaphragm/left/elevated/mild, metastases, multiple pulmonary nodules, nodule, Lung Neoplasms, Multiple Pulmonary Nodules",Abnormal
+363,CXR3865_IM-1958-1001.png,"Deformity/ribs/bilateral/multiple, deformity, fracture",Abnormal
+364,CXR3878_IM-1968-1001.png,"Cardiomegaly/mild, Infiltrate/lung/lower lobe/right, Spondylosis/thoracic vertebrae, infiltrates, pneumonia, cabg, Pneumonia",Abnormal
+365,CXR3893_IM-1975-3001.png,Lung/hypoinflation/mild,Abnormal
+366,CXR3894_IM-1976-1001.png,normal,Normal
+367,CXR3897_IM-1978-1001.png,normal,Normal
+368,CXR39_IM-1978-1001.png,No Indexing,Abnormal
+369,CXR3902_IM-1981-1001.png,No Indexing,Abnormal
+370,CXR3909_IM-1986-1001.png,"Catheters, Indwelling/right, Granulomatous Disease/right, granulomatous disease, Catheterization, Central Venous",Abnormal
+371,CXR3915_IM-1990-1001.png,"Catheters, Indwelling/thorax/left, Cardiac Shadow/enlarged/mild, Pulmonary Congestion/mild, Lung Diseases, Interstitial/mild, Cardiomegaly, chronic edema, congestion, fibroses, Cardiomegaly, Lung Diseases, Pulmonary Edema",Abnormal
+372,CXR3954_IM-2021-1001.png,normal,Normal
+373,CXR3956_IM-2021-1001.png,Lung/hypoinflation,Abnormal
+374,CXR3965_IM-2028-1001-0001.png,No Indexing,Abnormal
+375,CXR3965_IM-2028-1001-0002.png,No Indexing,Abnormal
+376,CXR3965_IM-2028-3001.png,No Indexing,Abnormal
+377,CXR3986_IM-2041-1001.png,normal,Normal
+378,CXR3986_IM-2041-3001.png,normal,Normal
+379,CXR3993_IM-2044-1001.png,"Cardiomegaly/mild, Diaphragm/left/elevated, Cardiomegaly",Abnormal
+380,CXR402_IM-2051-1001.png,No Indexing,Abnormal
+381,CXR419_IM-2062-1001.png,normal,Normal
+382,CXR428_IM-2070-1001.png,normal,Normal
+383,CXR43_IM-2070-1001.png,No Indexing,Abnormal
+384,CXR431_IM-2072-1001.png,"Osteophyte/thoracic vertebrae/multiple, Technical Quality of Image Unsatisfactory, Cardiomegaly/borderline, osteophytes",Abnormal
+385,CXR442_IM-2078-1001.png,"Lung/hyperdistention, Pulmonary Disease, Chronic Obstructive, copd, Lung Diseases, Obstructive, Pulmonary Disease, Chronic Obstructive",Abnormal
+386,CXR446_IM-2080-1001.png,"Spondylosis/thoracic vertebrae, Thoracic Spondylosis",Abnormal
+387,CXR466_IM-2094-2002.png,"Aorta/tortuous/mild, Scoliosis/lumbar vertebrae/left/mild",Abnormal
+388,CXR485_IM-2109-1001.png,No Indexing,Abnormal
+389,CXR51_IM-2125-1001.png,"Calcified Granuloma/lung/bilateral/scattered, calcified granuloma",Abnormal
+390,CXR534_IM-2141-1001.png,"Cicatrix/lung/upper lobe/hilum/left, Opacity/retrocardiac/streaky, Pulmonary Atelectasis/left/mild, atelectases, opacity, scarring, Atelectasis, Scarring",Abnormal
+391,CXR544_IM-2148-1001.png,normal,Normal
+392,CXR545_IM-2149-1001.png,"Opacity/lung/base/bilateral, Hernia, Hiatal, Lung/hypoinflation, Pulmonary Atelectasis/base/bilateral/focal, focal atelectasis, hiatal hernia, opacity, Hiatal Hernia, Pulmonary Atelectasis",Abnormal
+393,CXR55_IM-2154-1001.png,Lung/hypoinflation,Abnormal
+394,CXR567_IM-2167-1001.png,"Pulmonary Atelectasis/middle lobe/right/mild, Spine/degenerative, atelectases, Atelectasis",Abnormal
+395,CXR58_IM-2177-1001.png,"Thoracic Vertebrae/degenerative, Scoliosis/thoracic vertebrae/mild, degenerative change, scolioses, Scoliosis, Thoracic Vertebrae",Abnormal
+396,CXR585_IM-2181-1001.png,"Epicardial Fat/prominent, Atherosclerosis/aorta, Opacity/costophrenic angle/sulcus/bilateral/streaky, Cicatrix/costophrenic angle/sulcus/bilateral/chronic, Pulmonary Atelectasis/costophrenic angle/bilateral, atelectases, atheroscleroses, opacity, scarring, Atelectasis",Abnormal
+397,CXR605_IM-2194-1001.png,"Opacity/lung/upper lobe/left/small, Nodule/lung/upper lobe/left/small, infiltrates, opacity",Abnormal
+398,CXR624_IM-2206-1001.png,"Lung/hyperdistention, Diaphragm/flattened, Spondylosis/thoracic vertebrae, Scoliosis/right/mild, Spinal Fusion/cervical vertebrae/anterior, Emphysema, emphysemas, cervical fusion, Cervical Vertebrae, Emphysema, Pulmonary Emphysema, Scoliosis, Spinal Fusion, Thoracic Spondylosis",Abnormal
+399,CXR637_IM-2216-4001.png,No Indexing,Abnormal
+400,CXR666_IM-2241-1001.png,"Cardiomegaly/borderline, Atherosclerosis/aorta, Aorta/tortuous, Cicatrix/lung/base/right/mild, Pulmonary Atelectasis/base/right, Costophrenic Angle/blunted, atelectases, scarring, Atelectasis, Cardiomegaly",Abnormal
+401,CXR685_IM-2254-1001.png,"Stents/coronary vessels, Calcinosis/lung/bilateral/round/small, Granulomatous Disease, Thoracic Vertebrae/degenerative, Density/lung/bilateral/round/small, degenerative change, granulomatous disease",Abnormal
+402,CXR689_IM-2257-1001.png,"Nodule/lung/lower lobe/left/multiple, Nodule/lung/hilum/right, Nodule/lung/right/multiple, neoplasm, nodule, Lung Neoplasms",Abnormal
+403,CXR711_IM-2273-1001.png,"Calcified Granuloma/lung/base/bilateral, Dislocations/thoracic vertebrae, calcified granuloma",Abnormal
+404,CXR717_IM-2279-1001.png,normal,Normal
+405,CXR728_IM-2287-1001.png,"Nodule/lung/lower lobe/left/posterior, nodule, pneumonia, Pneumonia",Abnormal
+406,CXR738_IM-2296-1001.png,No Indexing,Abnormal
+407,CXR757_IM-2308-1001.png,normal,Normal
+408,CXR761_IM-2310-1001.png,Lung/hypoinflation,Abnormal
+409,CXR790_IM-2329-1001.png,Surgical Instruments/abdomen,Abnormal
+410,CXR798_IM-2332-1001.png,normal,Normal
+411,CXR801_IM-2335-1001.png,normal,Normal
+412,CXR810_IM-2343-1001.png,"Calcified Granuloma/scattered, Spine/degenerative, calcified granuloma, degenerative change",Abnormal
+413,CXR819_IM-2349-1001.png,"Breast Implants/bilateral, bilateral breast implants, Mammaplasty, surgery",Abnormal
+414,CXR825_IM-2355-1001.png,"Airspace Disease/lung/bilateral/patchy, Pulmonary Atelectasis/bilateral, Consolidation/lung/bilateral, Cardiomegaly/borderline, Tube, Inserted/trachea, carina, atelectases, tracheostomies, Atelectasis, surgery, Trachea, Tracheostomy",Abnormal
+415,CXR827_IM-2356-1001.png,"Cicatrix, Emphysema, scarring, Pulmonary Emphysema",Abnormal
+416,CXR847_IM-2369-1001.png,"Cardiomegaly/mild, Lung/hypoinflation, Markings/bronchovascular",Abnormal
+417,CXR855_IM-2376-1001.png,"Lung/hyperdistention, Pulmonary Emphysema/mild, Density/lung/upper lobe/right/round",Abnormal
+418,CXR856_IM-2377-1001.png,"Technical Quality of Image Unsatisfactory, Cardiomegaly/mild, Opacity/multiple, Spine/degenerative, degenerative change, opacity, Cardiomegaly, Spine",Abnormal
+419,CXR859_IM-2380-1001.png,"Opacity/lung/lower lobe/right, Pulmonary Atelectasis/lower lobe/right, atelectases, opacity, Atelectasis",Abnormal
+420,CXR861_IM-2382-1001.png,No Indexing,Abnormal
+421,CXR862_IM-2383-1001.png,"Cicatrix/lung/lower lobe/left, scar",Abnormal
+422,CXR864_IM-2384-1001.png,"Aorta, Thoracic/tortuous, Cicatrix/lung/base/right, scarring",Abnormal
+423,CXR865_IM-2385-1001.png,normal,Normal
+424,CXR878_IM-2392-1001.png,"Lung/hyperdistention, Pulmonary Disease, Chronic Obstructive, Calcinosis/lung/lower lobe/right, Nodule/lung/lower lobe/right, copd, histoplasmoma, hyperexpansion, nodule, Pulmonary Disease, Chronic Obstructive",Abnormal
+425,CXR879_IM-2393-12012.png,normal,Normal
+426,CXR880_IM-2395-1001.png,"Spondylosis/thoracic vertebrae, Spinal Osteophytosis",Abnormal
+427,CXR886_IM-2400-1001.png,normal,Normal
+428,CXR890_IM-2403-1001.png,"Granulomatous Disease, granulomatous disease",Abnormal
+429,CXR920_IM-2423-1001.png,normal,Normal
+430,CXR922_IM-2423-2001.png,"Cardiomegaly/mild, Cardiomegaly",Abnormal
+431,CXR929_IM-2427-1001.png,"Opacity/lung/lower lobe/right, Pulmonary Disease, Chronic Obstructive, Pulmonary Atelectasis/base/right/focal, copd, focal atelectasis, opacity, Pulmonary Atelectasis, Pulmonary Disease, Chronic Obstructive",Abnormal
+432,CXR933_IM-2431-1001.png,No Indexing,Abnormal
+433,CXR945_IM-2440-1001.png,"Consolidation/lung/upper lobe/left, Opacity/anterior, Pulmonary Atelectasis/focal, Pneumonia, focal atelectasis, opacity, pneumonitis, Pneumonitis, Pulmonary Atelectasis",Abnormal
+434,CXR948_IM-2443-1001.png,"Cardiomegaly/borderline, Cardiomegaly",Abnormal
+435,CXR950_IM-2446-1003002.png,normal,Normal
+436,CXR955_IM-2449-1001.png,"Catheters, Indwelling/right, Markings/lung/upper lobe/right/interstitial/prominent, central venous catheters",Abnormal
+437,CXR976_IM-2464-1001.png,"Lung/hypoinflation, Surgical Instruments, bypass grafts, sternotomy, Cardiopulmonary Bypass, Postoperative Period, surgery",Abnormal
+438,CXR987_IM-2474-1001.png,No Indexing,Abnormal
+439,CXR989_IM-2475-1002001.png,"Spondylosis/thoracic vertebrae, cholecystectomies, Cholecystectomy, Spinal Osteophytosis, surgery",Abnormal
+440,CXR995_IM-2478-1001.png,"Sutures/sternum, bypass grafts, sternotomy, Coronary Artery Bypass, Postoperative Period, surgery",Abnormal
