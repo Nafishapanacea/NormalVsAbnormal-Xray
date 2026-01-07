@@ -1,0 +1,1728 @@
+image_id,class_name,label
+20536686640136348236148679891455886468_k6ga29.png,['normal'],Normal
+135803415504923515076821959678074435083_fzis7b.png,"['pulmonary fibrosis', 'chronic changes', 'kyphosis', 'pseudonodule', 'ground glass pattern']",Abnormal
+3137231742710829928-247610802266403640553_kine6a.png,"['laminar atelectasis', 'pleural effusion', 'apical pleural thickening', 'suture material', 'sternotomy']",Abnormal
+105529804483623054726294337265160703666_6zn76a.png,"['superior mediastinal enlargement', 'aortic elongation', 'scoliosis', 'sclerotic bone lesion', 'supra aortic elongation', 'vertebral degenerative changes', 'goiter']",Abnormal
+238285621348398466668514178112618553012_a7k6dv.png,['normal'],Normal
+152191969602076825998375638267191596461_ck9qkz.png,['normal'],Normal
+102185472428957491598043403159908631419_zb8kcm.png,"['COPD signs', 'air trapping']",Abnormal
+281123549817181624378616624376681002225_2lbcip.png,"['descendent aortic elongation', 'scoliosis', 'aortic atheromatosis']",Abnormal
+84289138814897824414670894017743137660_xjsw7k.png,['normal'],Normal
+258055173326723517262722952856353517225_gxjwwm.png,['normal'],Normal
+164248849740406851039799839958404888661_etstxt.png,"['metal', 'superior mediastinal enlargement', 'hypoexpansion basal', 'abnormal foreign body', 'supra aortic elongation']",Abnormal
+243837679625088918208093479515843617254_znbkkx.png,['normal'],Normal
+49602503074420747438297888031645729553_n9jt8a.png,"['aortic elongation', 'vertebral degenerative changes', 'central venous catheter via subclavian vein']",Abnormal
+49602503074420747438297888031645729553_2_ut0yzd.png,"['COPD signs', 'central venous catheter', 'vascular hilar enlargement', 'air trapping']",Abnormal
+337234085099221143119428528401779812468_1hc03o.png,['normal'],Normal
+184310702224069058068590499996908398488_yjqmua.png,"['pacemaker', 'chronic changes']",Abnormal
+200091420165336548849526592472869689994_n0exds.png,"['atelectasis', 'vertebral anterior compression', 'chronic changes', 'kyphosis']",Abnormal
+202517159601409650920341045633993544544_2_92rrpu.png,"['hiatal hernia', 'infiltrates']",Abnormal
+202517159601409650920341045633993544544_q5bqpy.png,"['atelectasis', 'unchanged', 'pleural effusion']",Abnormal
+12582988208641810053552022080964044412_bdbfde.png,['normal'],Normal
+289427999389549886772198825633280652797_q7w6e7.png,"['aortic atheromatosis', 'scoliosis']",Abnormal
+120005774206062253919592068222866365316_5rzk13.png,['normal'],Normal
+313549846601143223732953772587192376547_5i79or.png,['diaphragmatic eventration'],Abnormal
+246171875935311699934475428004488908204_1w4xnx.png,"['infiltrates', 'COPD signs', 'calcified densities', 'chronic changes', 'air trapping']",Abnormal
+128060267991587422580475423001969971705_pjiogk.png,"['cardiomegaly', 'superior mediastinal enlargement']",Abnormal
+92479534840024514330951523511120923900_5xls6f.png,"['apical pleural thickening', 'fibrotic band']",Abnormal
+161246397814087032979663851198463313369_87xsef.png,['diaphragmatic eventration'],Abnormal
+76402843043728886686565759706427345127_cda07x.png,"['vertebral degenerative changes', 'unchanged']",Abnormal
+184312736713962370100146067543973751114_9rz4uo.png,['vertebral degenerative changes'],Abnormal
+51753302240077846214410306432856713330_w0bmgz.png,['normal'],Normal
+151619064599028082995709172863126236342_adr7uc.png,['normal'],Normal
+144161045940829338272357413255772911245_6ca9jm.png,"['aortic elongation', 'scoliosis', 'fibrotic band', 'hemidiaphragm elevation', 'tuberculosis sequelae', 'volume loss']",Abnormal
+97965053291113766610970450200683915158_ta7i4n.png,['normal'],Normal
+331418305160381206657770521880050705150_72e70c.png,"['aortic atheromatosis', 'bronchiectasis', 'pacemaker', 'sternotomy', 'vascular hilar enlargement', 'chronic changes', 'single chamber device']",Abnormal
+189879177525934914758235054856782466458_rmb21y.png,"['COPD signs', 'unchanged', 'emphysema', 'interstitial pattern']",Abnormal
+63487136239391941594781094159648142893_gq1uz5.png,"['kyphosis', 'vertebral compression', 'unchanged']",Abnormal
+161720087930788128392552413311709834803_zw9ndh.png,['COPD signs'],Abnormal
+182408105675910680785179281207852452925_ybx7hr.png,['normal'],Normal
+240901793831868002350241513124822033145_bnzkfq.png,"['bronchovascular markings', 'emphysema', 'pneumonia', 'bullas']",Abnormal
+319976350840661489788378306853554168892_is6ipx.png,['normal'],Normal
+62251368659414281768550499840080640229_8jw2hb.png,"['cardiomegaly', 'hilar congestion']",Abnormal
+173348027872651650413607534885352239722_ksfbkb.png,['normal'],Normal
+91046824590296218285321995116548320507_vq78pf.png,"['aortic elongation', 'COPD signs', 'calcified densities', 'air trapping', 'axial hyperostosis']",Abnormal
+267593312931260619142226905522973356507_dfimnx.png,['normal'],Normal
+282962113601706478876461612066976190177_bys50e.png,"['COPD signs', 'fibrotic band']",Abnormal
+285796371492896407898360932351947981404_dbgkg1.png,['air trapping'],Abnormal
+105591880985588572332898967525311229749_yqjtuk.png,['normal'],Normal
+330324745759424821132494701991767497957_9fc9au.png,['normal'],Normal
+2131660293658241410166268879399943517_h0uqds.png,"['infiltrates', 'unchanged']",Abnormal
+175828040998318011818448557383860207677_m5a8ih.png,['normal'],Normal
+101408931302974623103956952273007774313_9stb1t.png,['normal'],Normal
+67670115219232152220849057375830836196_8lyy43.png,"['aortic button enlargement', 'apical pleural thickening', 'aortic atheromatosis', 'fibrotic band', 'calcified granuloma', 'volume loss']",Abnormal
+246150011638121209286805961508731462739_7rcjox.png,['clavicle fracture'],Abnormal
+303749711587233420279581812693876233202_bpyslx.png,"['aortic elongation', 'alveolar pattern', 'vertebral degenerative changes', 'interstitial pattern', 'pneumonia']",Abnormal
+249873038001601568166234221238886850574_50gwsz.png,"['apical pleural thickening', 'fibrotic band']",Abnormal
+30661727075761817007267292459310975718_86nsuj.png,"['pulmonary mass', 'pacemaker', 'cardiomegaly', 'vascular hilar enlargement', 'sternotomy', 'dual chamber device', 'suture material']",Abnormal
+191013230449503900686044524323327462011_qcv7p1.png,"['COPD signs', 'air trapping']",Abnormal
+316808028365561931793158511235924256690_01sv6w.png,['normal'],Normal
+121722089111950575741877258740783632351_55kku6.png,['normal'],Normal
+333919235778081142000645469353299765831_hfq6sz.png,"['COPD signs', 'unchanged']",Abnormal
+257363608869672643452639640460584331841_2m9azj.png,['normal'],Normal
+278948104568698034857207837457891721065_z574go.png,['normal'],Normal
+189327093731182702391471042928023222602_auiya4.png,"['pleural effusion', 'unchanged']",Abnormal
+98283861340811287790054793819459454572_126tda.png,"['increased density', 'fibrotic band', 'chronic changes']",Abnormal
+153144722300895942937262007594583779219_ohw52d.png,['normal'],Normal
+125998750830791689348030012609205089696_r0z2uf.png,['normal'],Normal
+179392425612003861856579841596010580915_ealasq.png,"['scoliosis', 'kyphosis']",Abnormal
+103068978310626696588063438698984797472_66zsmq.png,"['COPD signs', 'vascular hilar enlargement']",Abnormal
+187498967718070219729635885830255440507_laei4c.png,"['pneumonia', 'infiltrates']",Abnormal
+7229642368407186565500544115495475569_ja0kjg.png,['osteosynthesis material'],Abnormal
+49951034854725910980631707796081134817_38f62l.png,['normal'],Normal
+130157820824984394822536227027900379556_al5c2d.png,"['atelectasis', 'costochondral junction hypertrophy']",Abnormal
+84545123491560549832532130982226930123_vvayv1.png,['cardiomegaly'],Abnormal
+316487933899836980515723069532430938491_jsr618.png,['normal'],Normal
+284353054075043225622260270287627142906_kduagg.png,"['vertebral degenerative changes', 'unchanged', 'cardiomegaly']",Abnormal
+160591118781379370017611727315537422584_8sb33g.png,['normal'],Normal
+126021751903391108689458989626008942485_26b1rr.png,['normal'],Normal
+65624365711868646720669698005932228684_pdrz4d.png,['pneumonia'],Abnormal
+200096693886890384233387953667072134120_qr56jh.png,"['aortic elongation', 'laminar atelectasis', 'vertebral anterior compression']",Abnormal
+49031120128502913776108011441053379453_3qyvw8.png,['normal'],Normal
+27921971887004377429910738007760650923_nxer0u.png,['air trapping'],Abnormal
+319750193216879761537585377422638859654_tq1iik.png,['normal'],Normal
+42728540250863331876520898382409588161_o4q8sm.png,['normal'],Normal
+213593349223670598799381118265584050689_c3ddsc.png,['scoliosis'],Abnormal
+213593349223670598799381118265584050689_c3baw7.png,['scoliosis'],Abnormal
+266756757585840399561533711227017500691_3i26sb.png,['aortic elongation'],Abnormal
+20450229093471036935089654431118253290_fsak6z.png,['normal'],Normal
+222822625402361314185437401263171262189_wuaocp.png,['vertebral degenerative changes'],Abnormal
+237085130674557205383750650934770251154_kr2cfo.png,['normal'],Normal
+4378551502088567463362725870936911970_tcb27t.png,['normal'],Normal
+235156922651079386633702235134872520572_1kcee2.png,['normal'],Normal
+62906280474335528886711002923566341388_m76jw7.png,['apical pleural thickening'],Abnormal
+244098485281969800050011620079615032187_kmiw7o.png,['normal'],Normal
+15257471714388675949620391557999378309_vyin8e.png,['normal'],Normal
+330657416961603932280429915924322632486_umk9rt.png,['normal'],Normal
+156420045069427647695993370673615918248_hz6jg1.png,"['consolidation', 'laminar atelectasis']",Abnormal
+29061959275698812995362009484658673818_ohnn20.png,"['aortic elongation', 'laminar atelectasis']",Abnormal
+1115426763092812922065714258130795691_duhovg.png,"['bronchiectasis', 'COPD signs', 'unchanged', 'costophrenic angle blunting', 'hemidiaphragm elevation', 'chronic changes', 'interstitial pattern']",Abnormal
+125879092289461845204346826147336024996_68n2m5.png,"['COPD signs', 'calcified granuloma']",Abnormal
+134599566898030740152631673828978577618_pj2fs9.png,"['unchanged', 'calcified pleural thickening', 'hyperinflated lung', 'apical pleural thickening', 'volume loss']",Abnormal
+134599566898030740152631673828978577618_qeodqw.png,"['unchanged', 'calcified pleural thickening', 'hyperinflated lung', 'apical pleural thickening', 'volume loss']",Abnormal
+320926065776668175042182730562891119101_s49l8h.png,"['aortic button enlargement', 'callus rib fracture', 'fibrotic band', 'aortic atheromatosis']",Abnormal
+223182426517840299226527275743732068184_spng8r.png,['normal'],Normal
+225906517936843852527299108114297601266_upobhv.png,"['pleural thickening', 'apical pleural thickening']",Abnormal
+223805166479327036969696654106527616531_7a4644.png,"['hiatal hernia', 'mediastinal mass']",Abnormal
+223805166479327036969696654106527616531_2_t9llp8.png,['normal'],Normal
+247510861483996465262632331428339485230_nud8zp.png,"['aortic elongation', 'COPD signs', 'nipple shadow', 'pseudonodule']",Abnormal
+77282619552499988495603169384756737738_khn56v.png,['consolidation'],Abnormal
+315079819492124056556760400319599885884_o9ieqe.png,"['COPD signs', 'surgery heart']",Abnormal
+143319468227873148038736847630942919337_uwtqil.png,"['COPD signs', 'pleural effusion', 'sternotomy']",Abnormal
+187748529663266333212518173684958471015_ittz4x.png,['normal'],Normal
+52863917336388719685790911566203013345_8ctt1b.png,['normal'],Normal
+298250519825265668757842559853876298941_d6js3t.png,['normal'],Normal
+170356722453561844949404287167437575608_i6k11a.png,['clavicle fracture'],Abnormal
+174790113762573596656554362928633063518_e1hk90.png,"['pulmonary artery hypertension', 'central vascular redistribution']",Abnormal
+53271040340917494534931731766099840496_bzweu7.png,['normal'],Normal
+12130328430935630448520149687013276863_99k39n.png,['normal'],Normal
+287829261582195482088446848654649898554_hiv2dj.png,"['alveolar pattern', 'tuberculosis', 'unchanged', 'nodule', 'interstitial pattern', 'cavitation']",Abnormal
+86743761564653953839807740931966881944_lufzn5.png,['laminar atelectasis'],Abnormal
+98217780532329340007300292761274285758_ph4ff3.png,['aortic elongation'],Abnormal
+62099871704902880343187697364243424587_5pzx3y.png,['normal'],Normal
+228955235154241480619912143512691210282_8v059c.png,"['bullas', 'alveolar pattern', 'fibrotic band', 'volume loss']",Abnormal
+254209166406228651501325414841243232978_cdyy2n.png,"['COPD signs', 'unchanged']",Abnormal
+65266590064606711020514044534829206992_emiz6y.png,['normal'],Normal
+282468732479291554786261595705312843366_1k8367.png,"['COPD signs', 'unchanged', 'diaphragmatic eventration', 'air trapping']",Abnormal
+203867956156632398461581965823374154403_hcfaj6.png,['normal'],Normal
+227058033930693080119880702635989592004_1qg6nn.png,['pseudonodule'],Abnormal
+328839070378740926384091905379385716999_xpqa6g.png,"['scoliosis', 'granuloma']",Abnormal
+10993639456162887651402799258182104324_n7x6wm.png,"['osteopenia', 'COPD signs']",Abnormal
+239027903366999274333251661962927457884_0f0trw.png,['normal'],Normal
+307764218045494469246717434928120010813_jula1o.png,"['COPD signs', 'air trapping']",Abnormal
+306704549447961580693205362675398392203_lug40p.png,['normal'],Normal
+306704549447961580693205362675398392203_3_qxsdo7.png,['normal'],Normal
+43974812568761155667942095366465446895_3ninvk.png,['normal'],Normal
+336970287711787775893049319469538003697_iq3qyu.png,['scoliosis'],Abnormal
+206003043361184054364871563349702064318_qsril0.png,['scoliosis'],Abnormal
+74576479405710985759203367628923301316_i9epl9.png,['normal'],Normal
+113618255558074493663323387670073572584_c1fzc6.png,"['COPD signs', 'pacemaker']",Abnormal
+172366760559200399420370251768770096562_31ewgy.png,"['cardiomegaly', 'kyphosis']",Abnormal
+26667503205916370366735959007369378801_c6atmz.png,['axial hyperostosis'],Abnormal
+328054096690428880887485842831782834_amwmet.png,['COPD signs'],Abnormal
+148668329210185401396562228525925281330_8b9giz.png,['aortic atheromatosis'],Abnormal
+130110969611250982875259631791477091714_jxnrnp.png,['normal'],Normal
+102638559293696291318010620317489118340_b8zvna.png,['scoliosis'],Abnormal
+150762056036635610657089202556643673250_rczqej.png,['normal'],Normal
+115979936197018215044571384008136083135_eemtsr.png,"['bronchovascular markings', 'lobar atelectasis', 'costophrenic angle blunting', 'infiltrates']",Abnormal
+59110820420582988694423202263124848668_551dz0.png,['infiltrates'],Abnormal
+87180314458623865269977662447356279507_tcw56c.png,['cardiomegaly'],Abnormal
+229647061532869405127486256298724729451_o2d0lv.png,"['cardiomegaly', 'sternotomy', 'suture material']",Abnormal
+201730248619387076806677562194622503003_e8clpz.png,"['laminar atelectasis', 'COPD signs']",Abnormal
+255293910021372270231348852078918972406_gczlpx.png,['normal'],Normal
+110057948387370363009458390264986734403-2_p7tigj.png,"['aortic elongation', 'vascular hilar enlargement', 'surgery breast', 'aortic atheromatosis']",Abnormal
+110057948387370363009458390264986734403-3_pbni4p.png,"['NSG tube', 'cardiomegaly', 'hilar congestion']",Abnormal
+110057948387370363009458390264986734403_myst7q.png,"['unchanged', 'cardiomegaly', 'hilar congestion', 'costophrenic angle blunting', 'vascular hilar enlargement']",Abnormal
+48039780599266839142703323004089311640_jui3wg.png,['normal'],Normal
+176702947772428028299305495478494543149_wkumlt.png,['normal'],Normal
+339378129561197015481434844854643771030_uq3k6q.png,['normal'],Normal
+242267810915736723607523188951281234656_zrtz1o.png,['hypoexpansion basal'],Abnormal
+13028631954019256091081365260375513084_9b0d5l.png,"['alveolar pattern', 'gynecomastia', 'cardiomegaly', 'COPD signs', 'interstitial pattern', 'pneumonia']",Abnormal
+209991784402810158174087214764447495430_fka5ub.png,['COPD signs'],Abnormal
+287026865546374889085157036246558460511_l0lxwq.png,['normal'],Normal
+121650926810705271490539299167095629372_hdifqr.png,"['pseudonodule', 'increased density', 'cavitation']",Abnormal
+136914834730769531872881628824926393292_xwnvsy.png,"['interstitial pattern', 'bronchovascular markings', 'atypical pneumonia']",Abnormal
+304673909503207424801802419702123736315_vyckk1.png,"['aortic button enlargement', 'COPD signs', 'cardiomegaly', 'hilar congestion', 'costophrenic angle blunting', 'chronic changes', 'air trapping']",Abnormal
+172555436098471526561614627462201474466_6rvch6.png,['normal'],Normal
+246312850064830034880733297114561684862_yrq3tb.png,"['pneumonia', 'pacemaker', 'infiltrates', 'dual chamber device']",Abnormal
+79355438231207002902084777212886277284_k1cyrv.png,['normal'],Normal
+225565646591875474373295900953878641937_e3mjue.png,['cervical rib'],Abnormal
+64365908063458993110016193700551173778_3f9fcp.png,['vascular hilar enlargement'],Abnormal
+212666729891528083114998292454611811002_f5dnhi.png,['sternotomy'],Abnormal
+227920373972614600300980284184766539909_mqryt8.png,['scoliosis'],Abnormal
+18241834877228294658758762060352692373_raislq.png,['COPD signs'],Abnormal
+314277032586409115721922718327642931728_vi0hn8.png,['normal'],Normal
+187364478373186720322334692956467741433_z03dpg.png,"['COPD signs', 'air trapping']",Abnormal
+187364478373186720322334692956467741433_nseyli.png,"['COPD signs', 'air trapping']",Abnormal
+291629452559210611519089695617689344215_c9p3gg.png,['normal'],Normal
+192371581914271942754002212079728874308_n45m2a.png,"['vertebral degenerative changes', 'chronic changes', 'callus rib fracture', 'hyperinflated lung']",Abnormal
+109823571572707679646587449390017945750_l4sd5o.png,"['COPD signs', 'air trapping']",Abnormal
+174779462004668685201183716079028472048_nhpsbm.png,"['increased density', 'nodule', 'pneumonia']",Abnormal
+158178599856229957334251648863606368970_oemgw0.png,"['COPD signs', 'mediastinal enlargement', 'bronchiectasis', 'vascular hilar enlargement']",Abnormal
+138045988029825113153596787863160961810_y950zv.png,"['osteosynthesis material', 'chronic changes']",Abnormal
+25528567975108302073238456043150484827_d4odva.png,['normal'],Normal
+61569799595446412488213405581720832033_b84v2f.png,['normal'],Normal
+23951021534948170893206493204591828151_hc3g4s.png,"['osteosynthesis material', 'scoliosis', 'COPD signs']",Abnormal
+200862359831761685992552819450233793891_z09t4i.png,['normal'],Normal
+126785002454075662197698685607299663742_o4h54n.png,"['pleural effusion', 'infiltrates', 'pneumonia']",Abnormal
+107969102081045599195461276881236078981_gnfw2f.png,"['callus rib fracture', 'chronic changes']",Abnormal
+75078999225025048286726158739709244898_clh5ow.png,['normal'],Normal
+163750344543947776171909966951769207897_dgf4vk.png,['cardiomegaly'],Abnormal
+159216970546428043543933950339353602394_t0rgza.png,"['interstitial pattern', 'cardiomegaly', 'COPD signs', 'air trapping']",Abnormal
+159690112140413823244967667566418197322_nrua7y.png,['normal'],Normal
+334589562203518771379665149239316362968_3nh7ym.png,['normal'],Normal
+61881229875528155863047079764516723555_x5yq4l.png,"['surgery', 'unchanged', 'osteosynthesis material']",Abnormal
+220991425902150564296792633654689602163_hrvmt4.png,"['pacemaker', 'cardiomegaly', 'dual chamber device']",Abnormal
+291366571583131755848449851925170824781_ce0bx6.png,['normal'],Normal
+305453048517584511909927361247180991655_2x71z9.png,['normal'],Normal
+44536207964452859015038957006687811448_noeqf7.png,['normal'],Normal
+252380202584255139083311918835849935317_jm1cel.png,"['vertebral degenerative changes', 'COPD signs']",Abnormal
+85622017620251286543763981488010444554_3_gqz9rk.png,"['laminar atelectasis', 'atelectasis', 'pleural effusion']",Abnormal
+85622017620251286543763981488010444554_6gsfmu.png,['pleural effusion'],Abnormal
+85622017620251286543763981488010444554_2_5wffzh.png,"['unchanged', 'pleural effusion']",Abnormal
+214260817085057432303623958907855926368_jrl28m.png,['normal'],Normal
+227808586259025315397189404192472871023_2_ba4iu6.png,"['unchanged', 'cardiomegaly']",Abnormal
+227808586259025315397189404192472871023_b6qyr6.png,"['increased density', 'unchanged', 'pneumonia']",Abnormal
+286770626542873664885965086550435273225_3va948.png,"['aortic elongation', 'kyphosis', 'chronic changes']",Abnormal
+167701676037387400483166636319238128103_r2h4z3.png,['azygos lobe'],Abnormal
+13385787508008618294648318566272808201_1juwp6.png,"['COPD signs', 'air trapping']",Abnormal
+289108620230468119174968226927683707287_9wupg2.png,"['infiltrates', 'cardiomegaly', 'fibrotic band']",Abnormal
+170868574132883919470570081008800440313_0zq8qv.png,['normal'],Normal
+68608699707014616127801240576953451171_579gr3.png,['scoliosis'],Abnormal
+322802511011077270069197815702262414586_or49w3.png,"['alveolar pattern', 'pneumonia', 'costophrenic angle blunting']",Abnormal
+279074600672607711540467471391389169942_jqdbgt.png,"['callus rib fracture', 'lobar atelectasis', 'pulmonary fibrosis', 'pulmonary mass']",Abnormal
+279074600672607711540467471391389169942_2_1sk9fj.png,"['pulmonary mass', 'pleural effusion', 'adenopathy', 'interstitial pattern', 'miliary opacities', 'volume loss']",Abnormal
+290116899728494592837689617318363239261_uhft0t.png,"['COPD signs', 'nipple shadow', 'air trapping', 'pseudonodule']",Abnormal
+28041611833871250677444368303361730215_ff13fg.png,['normal'],Normal
+159364525876157332485573893353941089455_aepmh7.png,"['aortic elongation', 'bronchiectasis', 'calcified densities', 'COPD signs', 'unchanged', 'cardiomegaly', 'vertebral degenerative changes']",Abnormal
+3544719968872405938834425873941480994_8sqqxr.png,['interstitial pattern'],Abnormal
+3544719968872405938834425873941480994-2_nc2brd.png,"['COPD signs', 'central venous catheter']",Abnormal
+329854441005779771587298510793552972493_sodtpb.png,['infiltrates'],Abnormal
+54429565379883190851732752041435842413_qndocv.png,"['aortic elongation', 'chronic changes']",Abnormal
+90464809371777154323219683309097631033_g7ks8z.png,['normal'],Normal
+15796522501628464837840493509300790603_05y2xu.png,"['callus rib fracture', 'interstitial pattern', 'azygos lobe', 'miliary opacities']",Abnormal
+95061741292272560255292893806104859318_4skk0d.png,['vascular hilar enlargement'],Abnormal
+339511729523635430557303404954216047272_rwrvt6.png,['normal'],Normal
+26244571749755521880111325776337650586_zofmec.png,['normal'],Normal
+26244571749755521880111325776337650586_0mezs6.png,['normal'],Normal
+159907602111119304516402998478819026024_wlxw4i.png,"['COPD signs', 'unchanged']",Abnormal
+262822530217543635254713021579502738735_g2v51e.png,"['aortic elongation', 'alveolar pattern', 'increased density', 'suboptimal study', 'cardiomegaly', 'vascular hilar enlargement', 'apical pleural thickening', 'interstitial pattern']",Abnormal
+108752570745980706741261160610125890734_llek0f.png,"['aortic elongation', 'vertebral degenerative changes', 'dai', 'scoliosis']",Abnormal
+169811598307650468944273653237225758377_ri69fd.png,['normal'],Normal
+96661872943607744026083454561173736607_l8dyy6.png,"['aortic elongation', 'hiatal hernia']",Abnormal
+72598842051928771977753725274938862160_2pamb0.png,['normal'],Normal
+229495322771160678933819106193415737007_6298bo.png,['normal'],Normal
+172167226340244841253091101374217956877_q2xlp3.png,"['bronchiectasis', 'kyphosis', 'mediastinic lipomatosis', 'unchanged', 'cardiomegaly']",Abnormal
+59763265737295368512009781984693622158_ehuxhj.png,['bronchovascular markings'],Abnormal
+1256842362861431725328351539259305635_u1qifz.png,"['aortic elongation', 'vertebral degenerative changes', 'COPD signs', 'unchanged', 'vascular hilar enlargement', 'cardiomegaly', 'calcified pleural thickening', 'apical pleural thickening', 'aortic atheromatosis', 'scoliosis', 'air trapping', 'fibrotic band', 'kyphosis']",Abnormal
+186563312460094822052031413675440312100_lerzuv.png,"['aortic elongation', 'vertebral degenerative changes', 'scoliosis']",Abnormal
+163917413820869022115512657834865738494_773lhb.png,['COPD signs'],Abnormal
+222462790575669844431021710120156553492-2_ijn00h.png,"['bullas', 'unchanged']",Abnormal
+222462790575669844431021710120156553492_-it42g.png,"['bullas', 'callus rib fracture']",Abnormal
+65814061137972111379746393984232494589_nico9k.png,"['unchanged', 'pleural effusion']",Abnormal
+265767708505416563059027799932479206802_purml1.png,['normal'],Normal
+249301391832267461868146178063342193787_lmb7bg.png,"['scoliosis', 'COPD signs', 'hiatal hernia']",Abnormal
+95716937552829144407201841027053152031_f05dsj.png,"['COPD signs', 'callus rib fracture', 'superior mediastinal enlargement', 'goiter']",Abnormal
+169622880293625125590849007604406782143_9u1twx.png,"['aortic elongation', 'scoliosis', 'callus rib fracture']",Abnormal
+255305021945238682284369757239439639240_1gk2z6.png,['normal'],Normal
+338185710019700525665856699639819015031_xm7vzf.png,"['aortic atheromatosis', 'chronic changes']",Abnormal
+321447499100330133165801765887312551684_ruqzip.png,"['kyphosis', 'chronic changes']",Abnormal
+21605707310232581709622020160394601972_3vgygd.png,"['laminar atelectasis', 'COPD signs', 'air trapping']",Abnormal
+147501947885029356102624590698951178648_g2ucds.png,"['volume loss', 'alveolar pattern', 'consolidation', 'pneumonia']",Abnormal
+208887182360953191530026578700363773829_qgx13z.png,['normal'],Normal
+126455653911678893263056441159987922516_uz7fwy.png,"['aortic elongation', 'cardiomegaly']",Abnormal
+105612612231551459257717037701066263353_vdypf8.png,"['pseudonodule', 'chronic changes']",Abnormal
+188512239145790616137268274285581986225_efhnpk.png,['normal'],Normal
+323279587618131957350287102063368542386_269oky.png,['normal'],Normal
+10996416492353037588312781035930080694_8rstz0.png,"['pacemaker', 'cardiomegaly']",Abnormal
+28387517755754605410664016700168547553_ui2lcv.png,['normal'],Normal
+76706953811930577985930635244528105325_43rk2l.png,"['aortic elongation', 'osteopenia', 'chronic changes', 'cardiomegaly', 'aortic atheromatosis']",Abnormal
+232572031807344965043258496995347066691_g4zxoq.png,"['COPD signs', 'vertebral degenerative changes', 'cardiomegaly', 'vascular hilar enlargement', 'osteosynthesis material']",Abnormal
+184768585622747149847312236491996945269_hpn97q.png,"['aortic elongation', 'aortic atheromatosis', 'chronic changes', 'alveolar pattern', 'scoliosis', 'vertebral anterior compression', 'cardiomegaly', 'interstitial pattern', 'pleural effusion']",Abnormal
+286995717299339112409085958455470915888_2p9uvv.png,['descendent aortic elongation'],Abnormal
+77914334473380412364913757909337796966_x0exbf.png,['normal'],Normal
+35040582196710953341366337559603278309_mks08j.png,['normal'],Normal
+32078055345180912106051534833637957932_fkcmpo.png,['normal'],Normal
+215216312896434609819729304269555722027_9i3jyg.png,['normal'],Normal
+14747842373519304109072114951815645766_kjxsxw.png,['normal'],Normal
+333078556932425505903975417870495109406_19z1qe.png,"['aortic elongation', 'vascular hilar enlargement', 'cardiomegaly']",Abnormal
+300765837088870057523971311706854661569_55ii9c.png,['normal'],Normal
+197786400397231888200896069659759272936_vhvh5c.png,"['metal', 'scoliosis']",Abnormal
+281640304732531516676116090501479962114_vpc79k.png,['COPD signs'],Abnormal
+102102747557522113902850993567166035648_-5a78l.png,['normal'],Normal
+133394484691426946362242567726008197704_wgf3qp.png,['bronchovascular markings'],Abnormal
+61339684024033834817080833202090818217_i494fr.png,"['atelectasis', 'unchanged', 'surgery lung', 'pleural effusion']",Abnormal
+47481551763215566757392610054682744939_3azhzs.png,['normal'],Normal
+125766228454316130624782540198484575895_9ha77d.png,['normal'],Normal
+176582997240605990922415725869819401672_5j5ajf.png,['interstitial pattern'],Abnormal
+113063276708233006064758396808973407543_mg56yd.png,"['infiltrates', 'pneumonia']",Abnormal
+233506623954258136177168751019496286188_muxzw8.png,['normal'],Normal
+230693533532517331150809255238204060185_uqaza4.png,"['hyperinflated lung', 'volume loss', 'costophrenic angle blunting']",Abnormal
+143066268902550326043473429177403735921_3_wby4hw.png,"['mediastinic lipomatosis', 'costophrenic angle blunting']",Abnormal
+143066268902550326043473429177403735921_6nshd6.png,"['COPD signs', 'mammary prosthesis', 'costophrenic angle blunting', 'air trapping']",Abnormal
+143066268902550326043473429177403735921_4uc827.png,"['COPD signs', 'mammary prosthesis', 'costophrenic angle blunting', 'air trapping']",Abnormal
+143066268902550326043473429177403735921-2_tsyp6z.png,['costophrenic angle blunting'],Abnormal
+257273696639795055440516119201724869708_szlui2.png,['normal'],Normal
+126887219835336055655888692181690517955_1uyqv0.png,['normal'],Normal
+234216022935307048216299336991419380952_sgrlgf.png,['normal'],Normal
+182707296104982276861278572865333785349_yoduit.png,"['pleural effusion', 'scoliosis', 'central vascular redistribution', 'kyphosis']",Abnormal
+335952795723413338158135725278292632828_iepbz5.png,['normal'],Normal
+82090431388093551321398783174196866128_tr2g8h.png,['normal'],Normal
+198687427221787561855370297023668306242_260owe.png,['normal'],Normal
+278147989796380509519073707235611243961_fplpb6.png,"['aortic elongation', 'central vascular redistribution', 'cardiomegaly', 'costophrenic angle blunting']",Abnormal
+278147989796380509519073707235611243961_lgo9hx.png,"['aortic elongation', 'central vascular redistribution', 'cardiomegaly', 'costophrenic angle blunting']",Abnormal
+145703696493424026669094039533747467789_oisq40.png,['apical pleural thickening'],Abnormal
+68579354598156854599040192419227509037_koc7xf.png,['normal'],Normal
+172810760633899986980239477462326770785_6w7tnm.png,"['alveolar pattern', 'fibrotic band', 'calcified densities', 'pleural effusion', 'pseudonodule']",Abnormal
+71781238823267640402215377532202403315_pxkotz.png,"['COPD signs', 'cavitation', 'nodule', 'tuberculosis']",Abnormal
+144478523611315461003350014835868422251_2_s8dluj.png,['normal'],Normal
+144478523611315461003350014835868422251_cf56af.png,"['kyphosis', 'humeral fracture']",Abnormal
+266378675024617307279350330346146584657_-q1fip.png,"['aortic elongation', 'hiatal hernia']",Abnormal
+302929243006484152942115282128804026168_n68554.png,['normal'],Normal
+236105074544454776407369746411555932641_anfy8n.png,"['atelectasis', 'pleural effusion']",Abnormal
+164834710188971445829128771258574408035_121u4x.png,['normal'],Normal
+89135767289800763526891535832874263112_j11bkl.png,['normal'],Normal
+17798579031690553955243272267578856753_ekphss.png,['COPD signs'],Abnormal
+256683009273667990685072093174322335197_navafj.png,['pseudonodule'],Abnormal
+12578949989510345687257120413252672482_cxopr7.png,"['calcified adenopathy', 'aortic elongation', 'laminar atelectasis', 'diaphragmatic eventration']",Abnormal
+309676692669195341358656286828652284910_qvr9bq.png,['COPD signs'],Abnormal
+165876678159048265879748862890800010181_rnt2l0.png,"['unchanged', 'vascular hilar enlargement']",Abnormal
+80814025741766097979270111385812867707_2_7ykgin.png,"['osteosynthesis material', 'atelectasis', 'sternotomy', 'pleural effusion', 'suture material']",Abnormal
+80814025741766097979270111385812867707_3uuryh.png,"['scoliosis', 'osteosynthesis material', 'sternotomy']",Abnormal
+289813269991598332532654906677599208958_u5qqk4.png,['normal'],Normal
+221484145656808136128430605127639094919_swi0r3.png,['reservoir central venous catheter'],Abnormal
+164997689015514390292649262625407524157_5p3hbr.png,['normal'],Normal
+284969877609993327035605642598902430366_71qh8x.png,['normal'],Normal
+183325708478983298834864550015860941024_yo7ozp.png,['normal'],Normal
+119688533980562249677219589534851011987_60uvre.png,"['vascular redistribution', 'vertebral degenerative changes', 'vertebral anterior compression', 'vascular hilar enlargement', 'unchanged', 'cardiomegaly', 'heart insufficiency', 'kyphosis', 'hypoexpansion']",Abnormal
+120412927716849239338229626219534477035_hm4321.png,"['aortic elongation', 'scoliosis', 'chronic changes']",Abnormal
+23982966056267383020978561188636114018_3eo289.png,"['vertebral anterior compression', 'kyphosis']",Abnormal
+125061228802875769555301109909833678388_t5xvaz.png,"['heart valve calcified', 'COPD signs', 'cardiomegaly', 'hemidiaphragm elevation']",Abnormal
+168265719116971404186158893567526651554_bu6ryj.png,['normal'],Normal
+143131945457640249494238411094875089491_nb0guj.png,['normal'],Normal
+242348865558077717792572639139276481233_tb3asf.png,['normal'],Normal
+98429970035474393420572270802862904349_ztr980.png,"['unchanged', 'vascular hilar enlargement']",Abnormal
+200494933217168186622620771086149301425_xwagt4.png,['normal'],Normal
+318147586231231549743666067013606640261_t1ld1j.png,"['COPD signs', 'unchanged']",Abnormal
+339882268186887380960489338176110498534_mfagno.png,['calcified granuloma'],Abnormal
+217342025624397376056025865389719461061_0s1x0d.png,['normal'],Normal
+339445012265588569253208175476185397432_y7ahfu.png,['normal'],Normal
+91815483074912963411621985384575850871_-ja50t.png,['normal'],Normal
+40928588082857006468656899457437491411_edqq07.png,"['nodule', 'chronic changes', 'pneumonia', 'pleural mass', 'loculated pleural effusion']",Abnormal
+26937954023070901227257537297190938029_2mceb6.png,"['atelectasis', 'COPD signs', 'ground glass pattern', 'emphysema']",Abnormal
+215041224245905944888939370272745392061_993y3a.png,['normal'],Normal
+298730738863271351224673173113661397809_ydug6n.png,"['apical pleural thickening', 'costophrenic angle blunting']",Abnormal
+227059753787206971328337394801944439868_rh6tt7.png,['hemidiaphragm elevation'],Abnormal
+155768240920547132653589532564097364030_0aen5j.png,['COPD signs'],Abnormal
+175965847113500546623993767251681877654_9dyncn.png,['normal'],Normal
+242971381497588191875870200379211994817_cgasn5.png,['normal'],Normal
+146556660707431499811175451504272713520_qcraax.png,['normal'],Normal
+138100065687084450913397466995985856006_g40tbz.png,['normal'],Normal
+183291129093752828537422303909510413177_a2fy2j.png,"['nipple shadow', 'pseudonodule']",Abnormal
+106111337169988693038323274011777746837_0yin7u.png,"['nodule', 'vascular hilar enlargement', 'cardiomegaly']",Abnormal
+240993418707876858536613826011412977691_g1qsxi.png,['normal'],Normal
+229342229247027757104516875968413710664_2_1fiec1.png,"['aortic elongation', 'callus rib fracture', 'chronic changes']",Abnormal
+229342229247027757104516875968413710664_q3kx45.png,['interstitial pattern'],Abnormal
+115008224852512311684333915544316921428_lfb5k9.png,['pneumonia'],Abnormal
+157731637477773525473021081336478842019_vlqgfm.png,"['bronchiectasis', 'COPD signs', 'callus rib fracture', 'air trapping']",Abnormal
+215103514391080829787534775210653131688_ey9enn.png,['normal'],Normal
+237303067009457988225657600534928942658_y0w66e.png,['normal'],Normal
+309096599910991597439110572260718524047_-d7117.png,['laminar atelectasis'],Abnormal
+5834824331335360654707638530095032885_kc25bg.png,"['aortic button enlargement', 'bronchiectasis', 'aortic atheromatosis']",Abnormal
+302945249475810916919612884193551217628_3fpmnj.png,['pectum carinatum'],Abnormal
+24978507678628897896829806211717503338_ao6jwi.png,"['infiltrates', 'costophrenic angle blunting']",Abnormal
+262294148508173222179135778126817209533_5220cw.png,['subacromial space narrowing'],Abnormal
+114514091133062108036326089172735638984_2ygzqn.png,"['COPD signs', 'hiatal hernia', 'callus rib fracture', 'increased density']",Abnormal
+203630365847689564627148989853888957034_jcegx8.png,"['alveolar pattern', 'laminar atelectasis', 'pneumonia']",Abnormal
+241108703400517011015776110974465432392_2ds1q1.png,['laminar atelectasis'],Abnormal
+168109339711961556838217996358808439913_0tw209.png,"['alveolar pattern', 'interstitial pattern']",Abnormal
+241050052022530792552538466791835131251_2dzvr3.png,"['increased density', 'mammary prosthesis']",Abnormal
+217479956599982321018343198850440101982_gffz8s.png,['COPD signs'],Abnormal
+307522079724846945440235608819884129399_9ev8i5.png,['normal'],Normal
+311643898018461825223669562114318758719_razmh6.png,['scoliosis'],Abnormal
+68222515825885728553688096833875495253_6dbqfl.png,"['vertebral fracture', 'calcified adenopathy', 'osteoporosis', 'COPD signs', 'scoliosis', 'emphysema', 'kyphosis']",Abnormal
+205548099492848580942287540684987891511_s05hqt.png,['normal'],Normal
+42560610279324669242519256937040954261_fon4wd.png,"['chronic changes', 'interstitial pattern']",Abnormal
+324408274052867530039407297605105926200_0fmerv.png,"['osteosynthesis material', 'scoliosis']",Abnormal
+54703366774748571132443433452579616581_q4anpt.png,['bone metastasis'],Abnormal
+159127361586483217046684065044208677781_lwjgop.png,"['supra aortic elongation', 'cardiomegaly', 'aortic elongation']",Abnormal
+16199470713192864186164988033079599308_miehdk.png,['normal'],Normal
+334415334343202394061905958777583790234_0jyu7q.png,"['lung metastasis', 'infiltrates', 'reservoir central venous catheter', 'pleural effusion', 'nodule', 'pneumonia']",Abnormal
+267897293741510635554583282472837799427_2_bbiu7z.png,"['COPD signs', 'cardiomegaly', 'pleural effusion', 'costophrenic angle blunting']",Abnormal
+189553155006991045790138900225726323996_j8cta9.png,"['laminar atelectasis', 'infiltrates']",Abnormal
+63510470621460583865307590457045621750_wfd1y4.png,"['pseudonodule', 'chronic changes', 'cardiomegaly', 'cyst']",Abnormal
+32803013315689935419120389624304625146_x4iik1.png,['normal'],Normal
+168932592955699627215020703946968924848_n8klve.png,['normal'],Normal
+70960511367713849264805247143952227672_n5mdlp.png,"['chronic changes', 'apical pleural thickening', 'fibrotic band']",Abnormal
+85468007392878327046561481790452504471_icdvi1.png,"['aortic elongation', 'COPD signs', 'unchanged', 'mediastinal enlargement']",Abnormal
+24328644275141967172923307888316770966_wci6an.png,['normal'],Normal
+98633462242590349661356887426767883875_0kogsx.png,['normal'],Normal
+81347947218179056074684416885342584842_ia23t7.png,"['increased density', 'pneumonia']",Abnormal
+213984773589632212600560336655384918719_i493yf.png,"['aortic atheromatosis', 'vertebral degenerative changes']",Abnormal
+244474767581780697540549918990030014355_od6ryn.png,['hilar enlargement'],Abnormal
+130078111827070011380129004166829283630_knm2t5.png,"['descendent aortic elongation', 'increased density', 'vertebral degenerative changes', 'unchanged', 'chronic changes', 'aortic atheromatosis']",Abnormal
+138928622494237936162923874917312823922_4ypsa2.png,"['metal', 'suture material']",Abnormal
+304915924317622679295931147228573929640_5yhm09.png,['normal'],Normal
+296517661695804416523338840971814873104_qaiwm9.png,['normal'],Normal
+199932188422938481238592789979586445399_5tsy8k.png,"['aortic elongation', 'cardiomegaly']",Abnormal
+62774794894109549387630855543283311955_2_tdirok.png,"['supra aortic elongation', 'aortic elongation', 'alveolar pattern', 'vertebral degenerative changes', 'hilar enlargement', 'cardiomegaly', 'pneumonia']",Abnormal
+62774794894109549387630855543283311955_9jbiyo.png,"['aortic elongation', 'pneumonia', 'vertebral degenerative changes', 'COPD signs', 'gynecomastia', 'unchanged', 'cardiomegaly', 'aortic atheromatosis', 'infiltrates']",Abnormal
+125992888035907301147412827114700389399_dkn2qs.png,['nodule'],Abnormal
+162547643340406320796659021731452627238_ukxkoa.png,"['unchanged', 'chronic changes', 'increased density']",Abnormal
+219180996907548395065546092100141694219_iqxe0y.png,"['infiltrates', 'chronic changes', 'aortic elongation', 'costophrenic angle blunting']",Abnormal
+198297653531019310989598186857195604593_b6vczj.png,"['laminar atelectasis', 'atelectasis', 'pleural effusion']",Abnormal
+102287872353200883506852217101298313787_eifljr.png,['normal'],Normal
+245895219126534788779109786698958326807_1a9ait.png,"['bronchiectasis', 'scoliosis', 'calcified granuloma', 'cardiomegaly', 'chronic changes']",Abnormal
+276537524727401828796252312209153342522_o5q5pj.png,['interstitial pattern'],Abnormal
+30730032960553671408628043661008406988_2t8qli.png,"['aortic elongation', 'increased density', 'scoliosis', 'hemidiaphragm elevation']",Abnormal
+73953150414646763267782063716653597105_ik54wt.png,"['aortic elongation', 'hiatal hernia', 'apical pleural thickening', 'chronic changes']",Abnormal
+282677574917629778371314370824906992883_rrlpbc.png,['normal'],Normal
+183920881710676773247374912702951672715_hbbfou.png,"['laminar atelectasis', 'sternotomy', 'calcified granuloma']",Abnormal
+148902247913173854649605948490776725208_fkfrgc.png,['nodule'],Abnormal
+65688086290997465598645328806193205212_ivrzjn.png,"['pneumonia', 'infiltrates']",Abnormal
+12175588729721291971222019600123665325_-wrngm.png,"['aortic atheromatosis', 'infiltrates', 'scoliosis', 'COPD signs']",Abnormal
+152043189956897223752462591637225578643_5jy3og.png,['normal'],Normal
+85866326466299232260784932096652895459_w6u4og.png,['normal'],Normal
+252885047917527519635679051973786877303_2tmxns.png,"['bronchiectasis', 'kyphosis', 'COPD signs']",Abnormal
+175888904145199021091676951238618360911_6yfqz9.png,"['infiltrates', 'pneumonia']",Abnormal
+281538594725496307611284536369326604296_pzoois.png,"['infiltrates', 'COPD signs', 'emphysema']",Abnormal
+147526185308942208043586180813470337963_n6n5jk.png,"['pacemaker', 'hilar congestion']",Abnormal
+147526185308942208043586180813470337963_2_5opzcb.png,"['bronchovascular markings', 'pacemaker']",Abnormal
+250229194886382183353648559275366656935_x3otkq.png,"['vertebral degenerative changes', 'COPD signs', 'calcified densities', 'cardiomegaly', 'axial hyperostosis']",Abnormal
+238258813385310985681185822559345527439_pxtwgk.png,['aortic elongation'],Abnormal
+66965408901631819850476114252039095934_1tl23z.png,"['clavicle fracture', 'calcified densities']",Abnormal
+316954503646796104728501908495335386346_7w7hpx.png,['normal'],Normal
+302340983478155971310371498414267110891_79rmiv.png,['normal'],Normal
+176285948156400292322022669207506396336_5t4bdg.png,['normal'],Normal
+182153357033863986819477081579951131676_yetgon.png,"['pacemaker', 'cardiomegaly']",Abnormal
+288816819916499810445285019799296820355_3cchnv.png,['COPD signs'],Abnormal
+304669344069440954820602323809802240566_h3zblc.png,['normal'],Normal
+730884384549523960147534739913806825_3_wndgk4.png,"['scoliosis', 'pleural effusion', 'central venous catheter']",Abnormal
+181385514851957423984114075876930886946_t1bip0.png,['pneumonia'],Abnormal
+59491317716518098884220117503467726415_1a25b3.png,"['bronchiectasis', 'increased density', 'unchanged', 'chronic changes']",Abnormal
+137065908382975191936458847174667457624_w5fdh6.png,['normal'],Normal
+278638889128400049771148758737201954629_ly6nb3.png,"['chronic changes', 'apical pleural thickening']",Abnormal
+187394482990070976518544005940783325149_1hys7j.png,['normal'],Normal
+279886596091138592531064500299076768782_p36rh4.png,"['laminar atelectasis', 'vertebral degenerative changes', 'infiltrates']",Abnormal
+241063688617479061756863555078772529649_f0r8go.png,['air trapping'],Abnormal
+187189148099542793276553606595518082091_mhl9jp.png,['COPD signs'],Abnormal
+183884193889618288521329954021747777031_oucwoz.png,['normal'],Normal
+183884193889618288521329954021747777031_s1ezuz.png,['normal'],Normal
+183884193889618288521329954021747777031_qqjbaz.png,['normal'],Normal
+46223008737173011532078583749143053828_trhi9u.png,"['cardiomegaly', 'heart insufficiency', 'vascular hilar enlargement', 'vascular redistribution']",Abnormal
+303869288667343788676384697489830007247_mo9abk.png,['aortic elongation'],Abnormal
+287290758727551339703512582131039455228_4zw5o0.png,['normal'],Normal
+331167834053729138734082666944987600225_r5ayz9.png,['normal'],Normal
+308190071109377579932792468611410543522_8q6v87.png,['laminar atelectasis'],Abnormal
+308190071109377579932792468611410543522_wbpb65.png,['laminar atelectasis'],Abnormal
+308190071109377579932792468611410543522_w3t4z1.png,['laminar atelectasis'],Abnormal
+113299654452705738439680724529238862065_g4jt7b.png,"['COPD signs', 'calcified granuloma', 'air trapping']",Abnormal
+258130016646246208712210251771026326554_ugkp0c.png,['vertebral degenerative changes'],Abnormal
+25294538495432455105197216329615264337_e4i1sx.png,['diaphragmatic eventration'],Abnormal
+278134842598425110392186160573401893415_li3qfz.png,"['artificial heart valve', 'aortic button enlargement', 'vertebral fracture', 'callus rib fracture', 'unchanged', 'fibrotic band', 'cardiomegaly', 'hilar congestion', 'sternotomy', 'chronic changes', 'heart insufficiency', 'vascular redistribution']",Abnormal
+32008210773160492199586986018379212457_2vpxxr.png,"['vertebral anterior compression', 'mastectomy']",Abnormal
+112374692944240212493477453186537801287_duan25.png,"['alveolar pattern', 'pneumonia']",Abnormal
+216862640076632415813297215589096272607_ow32tb.png,"['vertebral degenerative changes', 'vascular hilar enlargement']",Abnormal
+97757850351127158049352373769024485126_yrs6yy.png,['normal'],Normal
+273691557745586453910150897250967449743_gqs9tu.png,['normal'],Normal
+164068685878471979373446848440756403913_7xj7ce.png,"['pericardial effusion', 'cardiomegaly', 'costophrenic angle blunting']",Abnormal
+184530367353867569851363347731094098722_wmq6a0.png,['vertebral degenerative changes'],Abnormal
+58729962254987653520839635058377940974_jezjjo.png,['normal'],Normal
+79713682710419831650870818241909816791_i6qbi2.png,"['kyphosis', 'hilar enlargement']",Abnormal
+41007876373605561165506933282489078958_u387n2.png,['normal'],Normal
+106529197496797733063878208384334903639_l1wdt2.png,"['infiltrates', 'pneumonia']",Abnormal
+1078684147941101759368441596199865518_jc4dlr.png,"['aortic elongation', 'laminar atelectasis', 'vertebral degenerative changes', 'nipple shadow', 'subacromial space narrowing', 'costophrenic angle blunting', 'aortic atheromatosis']",Abnormal
+232932494651352886935187910213725327397_542k5d.png,"['tuberculosis', 'calcified adenopathy', 'adenopathy', 'pneumonia', 'interstitial pattern', 'nodule', 'volume loss']",Abnormal
+237464254011980357098249388874419073811_0yyhn0.png,"['fibrotic band', 'calcified granuloma', 'unchanged', 'pneumonia']",Abnormal
+181757195346879569710256083733821461317_9eqcvo.png,['normal'],Normal
+282126234963515646352257585205257086872_r2xshu.png,['normal'],Normal
+3894225729235096360630272525575965642_8wrx51.png,['COPD signs'],Abnormal
+83389623018407910286259264799782314901_43feqw.png,"['laminar atelectasis', 'gynecomastia']",Abnormal
+57076691439238911107801044437105056352_jlo6bi.png,['normal'],Normal
+147310085670116628944564644352112566846_v4u38k.png,"['abnormal foreign body', 'increased density']",Abnormal
+87405995156959037304444626177470338409_2zta3u.png,['normal'],Normal
+326288692934887697423807013353390943730_a0amw5.png,"['scoliosis', 'osteosynthesis material']",Abnormal
+225116411180109437818558094591679860878_6s4wnx.png,"['aortic elongation', 'chronic changes', 'apical pleural thickening', 'aortic atheromatosis', 'calcified granuloma']",Abnormal
+35576932357945406117760097217857552616_p6vwzz.png,"['scoliosis', 'surgery breast', 'apical pleural thickening', 'fibrotic band']",Abnormal
+217806626211541664734904132910648303831_zf2ruu.png,"['aortic elongation', 'COPD signs', 'pulmonary mass', 'bone metastasis', 'lytic bone lesion']",Abnormal
+57941606403316582212057234824418628060_6378d5.png,"['calcified granuloma', 'nodule', 'costophrenic angle blunting']",Abnormal
+145448382018818506049549898101970722974_me1jus.png,"['alveolar pattern', 'interstitial pattern', 'pneumonia']",Abnormal
+256903934607251748599880460905102537844_ndbfev.png,['scoliosis'],Abnormal
+290280981040420707996231742260283051764_iy2f15.png,['normal'],Normal
+151955334888595404107475916595281378150_rqq81f.png,"['vascular hilar enlargement', 'COPD signs', 'fibrotic band']",Abnormal
+65285636673380477950626312505566932358_ys3u9u.png,"['aortic elongation', 'scoliosis', 'COPD signs', 'hiatal hernia']",Abnormal
+44741748257221477571143139791688232522_1zgj8a.png,"['aortic elongation', 'hiatal hernia', 'scoliosis', 'hilar enlargement']",Abnormal
+339650046255506370429259670710776633986_cv5bf8.png,['laminar atelectasis'],Abnormal
+337070804631975515412015026459897797047_hx7kom.png,['normal'],Normal
+149703496919917939906470838873107787291_v2qenf.png,"['COPD signs', 'vascular hilar enlargement']",Abnormal
+230633263479496424897477086553084550036_j73qbg.png,['COPD signs'],Abnormal
+111283650716667011868819231996449747737_d6lv0t.png,['COPD signs'],Abnormal
+200824255055612617377452820210200561516-2_hawq5p.png,['normal'],Normal
+200824255055612617377452820210200561516_m3m53d.png,['normal'],Normal
+40201558112989661454624575975252234993_ykj0qp.png,['normal'],Normal
+79237957097900035580166014717849347356_u3pvn7.png,"['bronchiectasis', 'alveolar pattern', 'atelectasis', 'volume loss', 'bullas']",Abnormal
+20250222781613625614207238467684164140_qil16g.png,['normal'],Normal
+42800820843872814360218089771742039655_7d3jg5.png,['normal'],Normal
+10280409298348252172487231608795655424_7ngz8z.png,['normal'],Normal
+111771709176706840547218927872324059763_5atoph.png,['normal'],Normal
+187126826243175349967028489296257656223_wzrr4p.png,['normal'],Normal
+89871789430838637694883774745784638013_y2t9e8.png,"['vertebral degenerative changes', 'calcified adenopathy', 'chronic changes', 'cardiomegaly']",Abnormal
+116474664207939562416841071400678251083_cx25im.png,['normal'],Normal
+149875287212901309264359560337405105999_qzk013.png,"['pneumonia', 'infiltrates']",Abnormal
+103728770903857873693723863398462888000_qprc9h.png,"['aortic atheromatosis', 'scoliosis', 'vertebral degenerative changes', 'aortic elongation', 'vertebral compression']",Abnormal
+102734597356277955644609549959793162043_uwi5kt.png,['normal'],Normal
+10599560185204466492190919235041814145_52m539.png,"['hiatal hernia', 'chronic changes']",Abnormal
+226765687671885424545852113239868637834_wxh9p1.png,['normal'],Normal
+73026139096017652711240600006814807155_0c70b2.png,"['aortic elongation', 'laminar atelectasis']",Abnormal
+322782198313623169393810941267087161242_6g9qer.png,"['COPD signs', 'callus rib fracture', 'unchanged']",Abnormal
+124945105163799359625609009545640549142_-wb6vu.png,"['aortic elongation', 'scoliosis', 'cardiomegaly']",Abnormal
+26740916849083948015827135783885268528_e8uwfn.png,"['nodule', 'cardiomegaly']",Abnormal
+26740916849083948015827135783885268528-2_6hkbx5.png,"['nodule', 'unchanged', 'cardiomegaly', 'hilar enlargement']",Abnormal
+304768729785319809493816795217541243587_-niiiv.png,['COPD signs'],Abnormal
+328718932390246837540734186177614068969_30051u.png,['normal'],Normal
+87081539641956770948006973990279612382_8o6olj.png,"['COPD signs', 'flattened diaphragm', 'vertebral degenerative changes', 'vascular hilar enlargement', 'vertebral compression']",Abnormal
+158127965063113306992304369857531130990_6hpunp.png,"['asbestosis signs', 'multiple nodules']",Abnormal
+297496202865531354421270118655804408453_14ztc6.png,"['aortic elongation', 'scoliosis', 'cardiomegaly', 'aortic atheromatosis', 'kyphosis']",Abnormal
+3558007907736286607282679911516099590_5kjb86.png,"['vertebral anterior compression', 'costophrenic angle blunting', 'osteoporosis', 'scoliosis', 'kyphosis']",Abnormal
+254695482995668772630830042346977443080_15b2n8.png,"['COPD signs', 'unchanged', 'air trapping']",Abnormal
+50981020931548218549405502575537953983_pmwq86.png,['normal'],Normal
+236352335164689652664133109317735422216_8e8sy5.png,['normal'],Normal
+327056621400667701187403407569465387165_cqf1jt.png,['laminar atelectasis'],Abnormal
+14884386265069190975408601181613834993_7pnpc0.png,"['vascular hilar enlargement', 'diaphragmatic eventration']",Abnormal
+266475866908808559059366081788621822630_k9ve3k.png,['normal'],Normal
+101452115716674895724726750589547378043_brve9k.png,['costophrenic angle blunting'],Abnormal
+316128515187830332011893862761415597177_z88rpw.png,"['pacemaker', 'cardiomegaly', 'dual chamber device']",Abnormal
+328435955221272249711100330239621706213_5pixry.png,['normal'],Normal
+295054259509486386613260201343533480168_k7nbc0.png,"['chronic changes', 'air trapping']",Abnormal
+25201204835530700095197061144893171353_tvnq9d.png,['pleural effusion'],Abnormal
+11974129026917569589567069429936363722_43ggl5.png,"['laminar atelectasis', 'hypoexpansion', 'hilar congestion']",Abnormal
+89401840696111638613159899570604771925_rx708q.png,['prosthesis'],Abnormal
+89401840696111638613159899570604771925-2_ybudaf.png,"['aortic elongation', 'increased density']",Abnormal
+147036015370488755117195440122198442935_gj6nyv.png,"['aortic elongation', 'aortic atheromatosis', 'cardiomegaly']",Abnormal
+73103728528181314905646325945773409506_9e2eli.png,['normal'],Normal
+93548931578811793129153723399853386695_1y7fmd.png,['normal'],Normal
+319731991949674392121232342841606126370_mis3hq.png,['vertebral degenerative changes'],Abnormal
+92204317522561386778957623318871752058_ry7vie.png,['nodule'],Abnormal
+67399191888269680631339125267097261842_qmrugi.png,['normal'],Normal
+186547359045399631635643085489397946964_6yfg2l.png,['suboptimal study'],Abnormal
+254313490971757589715367165356054026705_ityqfw.png,['mammary prosthesis'],Abnormal
+234342867609378165029209432645962948419_4b8v09.png,['kyphosis'],Abnormal
+66542221742995885584652303672522208992_gjjvxg.png,['normal'],Normal
+217472598682961814454970939438231011272_l6ilqv.png,"['pneumonia', 'suboptimal study', 'infiltrates']",Abnormal
+62440969118040059965044820734401488887_6hzwt0.png,"['aortic elongation', 'cardiomegaly']",Abnormal
+213201083135164012218916605938741388019_5n2sav.png,['normal'],Normal
+143752937778318996352207623652309026914_v5c2rq.png,['calcified adenopathy'],Abnormal
+235941346659938953302834349629260843448_oc58gw.png,"['aortic elongation', 'aortic atheromatosis']",Abnormal
+318541770652574916638516469186367189288_kz8x9m.png,"['osteoporosis', 'alveolar pattern', 'kyphosis', 'interstitial pattern', 'vertebral degenerative changes', 'central vascular redistribution', 'hypoexpansion', 'pulmonary hypertension']",Abnormal
+214398244652291526367129229961219887859_cnfqzq.png,['normal'],Normal
+278530246944092818310864127820030633862_h4has3.png,"['aortic atheromatosis', 'scoliosis', 'unchanged', 'vascular hilar enlargement', 'sternotomy', 'apical pleural thickening', 'aortic elongation', 'suture material']",Abnormal
+26366102180956854038985766908088700065_8ekpqo.png,"['metal', 'suture material']",Abnormal
+69696413352563795560688481942300210296_ad457z.png,"['laminar atelectasis', 'metal', 'unchanged', 'osteosynthesis material']",Abnormal
+222214110798734961199747405724033440109_6f1lxy.png,['normal'],Normal
+125208930338141968501244764499259500218_arhzol.png,"['bronchovascular markings', 'mediastinal mass']",Abnormal
+262437653545380267291137780861807460199_j34rzp.png,['normal'],Normal
+153801811631371151221168809809133523197_lhsisp.png,['COPD signs'],Abnormal
+6926181435968823021039359592620799236_ehtmuh.png,['COPD signs'],Abnormal
+284906344806726594926589844481918422113_qphytt.png,['normal'],Normal
+157943178667978315593423977854134065828_w1j177.png,"['interstitial pattern', 'cardiomegaly']",Abnormal
+241585841954655239863438681675555347312_dkworp.png,['scoliosis'],Abnormal
+228919717737176205475534709910357648353_xrj1i8.png,"['aortic atheromatosis', 'alveolar pattern', 'bronchiectasis', 'laminar atelectasis', 'vertebral degenerative changes', 'COPD signs', 'interstitial pattern', 'pneumonia']",Abnormal
+162970063457286839959125288892073902838_ompugj.png,['COPD signs'],Abnormal
+316858368375223101634087758266719643406_40w5or.png,['mammary prosthesis'],Abnormal
+294153464084033861164311815805714175449_983t38.png,['pneumonia'],Abnormal
+107313755333976454205060597948386227203_l7mg9q.png,"['aortic elongation', 'COPD signs', 'hiatal hernia', 'unchanged', 'air trapping']",Abnormal
+243293595447606375155765731457482543605_7rjogk.png,['COPD signs'],Abnormal
+177913342487092218900255025852939429107_ppupit.png,"['aortic atheromatosis', 'vertebral degenerative changes']",Abnormal
+188819131694939028843028689482279790722_ds5yob.png,"['scoliosis', 'chronic changes']",Abnormal
+79287707704921412531025816203029965958_8pjkjt.png,"['alveolar pattern', 'pleural effusion', 'interstitial pattern', 'pneumonia']",Abnormal
+260505833407659436182476461589696465633-2_klsxgl.png,"['pseudonodule', 'chronic changes']",Abnormal
+260505833407659436182476461589696465633_b0hrkf.png,"['calcified densities', 'surgery neck']",Abnormal
+91422054437801568030484075936132100606_jr0ji8.png,['normal'],Normal
+282084762366059076387208905274707563447_d4ptrb.png,"['COPD signs', 'pacemaker', 'cardiomegaly']",Abnormal
+98145228157634527220567831974984572757_2b4a97.png,"['costophrenic angle blunting', 'flattened diaphragm']",Abnormal
+180881801848524272506006077779969222163_fehqm2.png,"['aortic atheromatosis', 'fibrotic band', 'calcified granuloma']",Abnormal
+113157740841889341552577743360452627128_6izfwu.png,"['kyphosis', 'COPD signs', 'hiatal hernia']",Abnormal
+208601691626838599247558005171435092314_7z0p48.png,"['costophrenic angle blunting', 'asbestosis signs', 'volume loss', 'pleural thickening']",Abnormal
+321174601283914276775588168017831920177_l7mp4v.png,['normal'],Normal
+283891201090114004594205562337237944641_pu5mkn.png,"['aortic elongation', 'nodule']",Abnormal
+60111815004477746916714479607632640314_8l417h.png,['normal'],Normal
+20106597101658419596343083364084801703_snqojr.png,"['aortic elongation', 'COPD signs', 'air trapping']",Abnormal
+19510627906768332506184633323045973269_mfzfdy.png,['hypoexpansion'],Abnormal
+215743028198422530313520649650242647584_g59ow2.png,"['COPD signs', 'infiltrates', 'costophrenic angle blunting']",Abnormal
+95707395722068271200818957258222229158_fqoqel.png,"['aortic elongation', 'cardiomegaly', 'hilar enlargement']",Abnormal
+9088270961408223776881160919484492438_ytvsl1.png,['scoliosis'],Abnormal
+120660245424888973078655301950936875321_9tdmn2.png,"['fibrotic band', 'calcified granuloma', 'tuberculosis sequelae', 'volume loss']",Abnormal
+212357034160444768552196115460723241276_9pxbi4.png,['normal'],Normal
+49696729364097305851463252707521809707_2_utvwaa.png,"['pseudonodule', 'chronic changes']",Abnormal
+210335288386753219149425163420107477377_szrnke.png,['normal'],Normal
+275062204240251050996088192245469144661_qtf8hv.png,['normal'],Normal
+144558012307433706624051610322658765161_q54ta1.png,"['soft tissue mass', 'chronic changes']",Abnormal
+339008376711815271503388651933445194026_xz8x80.png,['normal'],Normal
+248123442227058991313402058283089881781_iw8lks.png,['normal'],Normal
+160704983099138601646527569070310116858_pjaraz.png,['normal'],Normal
+243405941449036485784453385795913489539_5nuvk2.png,"['chronic changes', 'emphysema', 'air trapping', 'volume loss', 'fibrotic band', 'apical pleural thickening', 'flattened diaphragm']",Abnormal
+208704848131242209129044701431521297459_w1jsml.png,['normal'],Normal
+314530881444848986552335470122315839789_11tz74.png,['normal'],Normal
+41097760927106934743762917212542714291_fa7ldj.png,['normal'],Normal
+189279019645155691248698511093887611108_fd2ka3.png,"['aortic atheromatosis', 'cardiomegaly']",Abnormal
+289207639690713893134205831505388531009_4lx0s7.png,"['COPD signs', 'callus rib fracture', 'costophrenic angle blunting']",Abnormal
+181216517043989476635675704127527478374_bx4hie.png,['normal'],Normal
+251394192908048946039375565737227137193_rav6ui.png,['calcified granuloma'],Abnormal
+302382915218373270811443870467474565878_gkh95t.png,['normal'],Normal
+39011042141974207301116239763936935716_ed8aes.png,['air trapping'],Abnormal
+320402788564652475058552317770427985495_fn9ozu.png,['COPD signs'],Abnormal
+204422322492048939194499080859737112307_pjmtqu.png,"['unchanged', 'cardiomegaly']",Abnormal
+294316629698990912748760032152315976680_a380q1.png,"['aortic elongation', 'apical pleural thickening']",Abnormal
+259962618294695801134277752252361871124_tofip7.png,['normal'],Normal
+322321150553758304736642919170750700520_3iea28.png,['pneumonia'],Abnormal
+315475688645643515896631297232120116171_tg7r4n.png,['normal'],Normal
+55152229711766417076866166348636920517_to9cif.png,['normal'],Normal
+182261061455367659273054431017807960026_29ygv7.png,['laminar atelectasis'],Abnormal
+6261939022105099592153359244059721911_1802dp.png,['normal'],Normal
+165517850790598701306597275720343471700_ryc0km.png,"['aortic elongation', 'gynecomastia', 'COPD signs', 'cardiomegaly', 'air trapping']",Abnormal
+177242461410205305911459438621785113319_wxnhs2.png,"['aortic elongation', 'fibrotic band', 'cardiomegaly']",Abnormal
+128389449507368996746458518101068212414_dozmup.png,['normal'],Normal
+115252833781991791197512509423446047187_pnh4fu.png,"['interstitial pattern', 'air trapping', 'cardiomegaly']",Abnormal
+218783120223861379865079656811809767846_4qlai2.png,['scoliosis'],Abnormal
+218783120223861379865079656811809767846-2_4y1927.png,"['scoliosis', 'COPD signs', 'nodule', 'nipple shadow']",Abnormal
+241495910721449661714773752906843432485_py3ois.png,['kyphosis'],Abnormal
+95296210851012849475895763284900213694_qq33ku.png,['normal'],Normal
+253688522655189567921154920626186803139_uaf90h.png,['normal'],Normal
+222490930755565931115141036835354503848_uc2tin.png,['normal'],Normal
+195931794629461769975872948426224237073_vi6ky9.png,"['laminar atelectasis', 'pacemaker', 'costophrenic angle blunting', 'hemidiaphragm elevation']",Abnormal
+173060149934071983429007109029912760662_6nsqt4.png,"['scoliosis', 'kyphosis', 'calcified granuloma', 'vertebral anterior compression']",Abnormal
+270766897083336727476714052172267075808_7y75g2.png,"['nipple shadow', 'pseudonodule']",Abnormal
+324541514510000234910924791881662822244_xvikm8.png,['normal'],Normal
+215055269930171045428067469846266166982_o1ro3w.png,"['bronchiectasis', 'kyphosis', 'COPD signs', 'cardiomegaly']",Abnormal
+4667147195304075665370004242854528293_mvk62x.png,['normal'],Normal
+167824675997736999694772177058541303178_kqeanw.png,['normal'],Normal
+238943208385072402449775947445455366662_oedpdw.png,['normal'],Normal
+67944934407137236792680486876686322429_e1g6mz.png,['normal'],Normal
+171578459728585217014344012366970480021_bdxnc6.png,['central venous catheter'],Abnormal
+292572447059342026758240308853270775438_82mf30.png,"['air trapping', 'chronic changes']",Abnormal
+282496686216964140249154939299325189052_tov8ff.png,"['aortic elongation', 'scoliosis', 'unchanged']",Abnormal
+194833887663065579851683866960456193278_dd6yjd.png,"['metal', 'hyperinflated lung', 'alveolar pattern', 'endoprosthesis', 'interstitial pattern', 'pneumonia', 'costophrenic angle blunting']",Abnormal
+200736252461263195753101571145989788600_yct3rh.png,"['aortic elongation', 'chronic changes']",Abnormal
+114234850185225958429845714314127338586_l3n0f9.png,['normal'],Normal
+114234850185225958429845714314127338586_8b5z30.png,['normal'],Normal
+303895593947052911416998205603088228702_2xagfh.png,['superior mediastinal enlargement'],Abnormal
+331174141037189743118244145910185821628_28l9gr.png,"['scoliosis', 'azygos lobe']",Abnormal
+245503663487482090876311984317900425497_jqntzq.png,['laminar atelectasis'],Abnormal
+175993948212683701562003497511214331387_sr16co.png,"['kyphosis', 'COPD signs', 'cardiomegaly']",Abnormal
+243389227562492195341296544581537922243_uffbex.png,['fibrotic band'],Abnormal
+238244637154941064250231529759491565127_yirq2l.png,"['gynecomastia', 'COPD signs', 'vascular hilar enlargement']",Abnormal
+291493537419858687662254986378044114339_c6ds5c.png,['normal'],Normal
+74230245314365625509559081320118064239_89029b.png,['normal'],Normal
+263832434531797794991181139778163174908_tz1620.png,"['aortic elongation', 'nipple shadow', 'pseudonodule']",Abnormal
+40719478789208568469740573079411995422_nl1epe.png,"['COPD signs', 'gynecomastia']",Abnormal
+17592295206216869543989232103261677592_himi6g.png,"['increased density', 'pacemaker', 'single chamber device']",Abnormal
+149869698076903420965553365056980475515_snqfr3.png,"['chronic changes', 'mediastinic lipomatosis', 'air bronchogram']",Abnormal
+46591472320460707773163700942754844555_a8nto0.png,"['alveolar pattern', 'scoliosis', 'vertebral degenerative changes', 'COPD signs', 'pseudonodule']",Abnormal
+46591472320460707773163700942754844555-2_hm3bc9.png,"['superior mediastinal enlargement', 'atelectasis', 'alveolar pattern', 'vertebral degenerative changes', 'scoliosis', 'COPD signs', 'supra aortic elongation', 'pseudonodule', 'goiter']",Abnormal
+94184297252464175315692825114349514222_kox9tq.png,"['consolidation', 'pseudonodule', 'costophrenic angle blunting', 'bullas', 'pleural effusion']",Abnormal
+94184297252464175315692825114349514222_kp1ksv.png,"['consolidation', 'pseudonodule', 'costophrenic angle blunting', 'bullas', 'pleural effusion']",Abnormal
+155193838405125521445261437950931858170_5xohr6.png,['normal'],Normal
+212209874719255953477221550682560604313_r0rgw2.png,['normal'],Normal
+210219818921636384079968203882014811818_dgavoz.png,"['vertebral degenerative changes', 'COPD signs', 'calcified densities', 'callus rib fracture', 'pectum excavatum', 'air trapping', 'axial hyperostosis']",Abnormal
+280301216830593385807572486653843026883_-l204c.png,"['scoliosis', 'vertebral fracture', 'hemidiaphragm elevation']",Abnormal
+133862279184721264984877402155150173332_8avltn.png,['normal'],Normal
+237247938336704858693445296252078510912_xzedes.png,['apical pleural thickening'],Abnormal
+87295593104315907895303866852516883015_1q2e5i.png,['normal'],Normal
+115034365750733174078908072566736969493_txudv2.png,"['chronic changes', 'apical pleural thickening', 'hyperinflated lung', 'calcified granuloma']",Abnormal
+107540008968908337421416064591393307587_l8wnhs.png,['normal'],Normal
+197675314092351731677130995098563388898-2_6w8t3o.png,['aortic atheromatosis'],Abnormal
+8209371359568564985483226081966759997_n9a4cx.png,['normal'],Normal
+13810126644517232204874347938712544002_7pn6rw.png,"['aortic elongation', 'scoliosis']",Abnormal
+85069281774391405586820015499225826700_fqfhrm.png,"['vertebral degenerative changes', 'scoliosis']",Abnormal
+212006136956113209778652284609714692190_fdru3j.png,['vertebral degenerative changes'],Abnormal
+228147380768553292159728012597011580620_8p6by5.png,['normal'],Normal
+221542660183471569040714910590320261959_66yjy0.png,['normal'],Normal
+279674979769881462370146595951942792604_cnctkx.png,"['chronic changes', 'unchanged', 'humeral prosthesis']",Abnormal
+193980314039431255847739515614372614958_dx0onk.png,['normal'],Normal
+210172762883504447710288616645218594364_406p1h.png,['normal'],Normal
+263113714915382025260711536364181224690_443onc.png,['normal'],Normal
+290378014324743690726243451941008521808_ljww84.png,"['fibrotic band', 'calcified granuloma']",Abnormal
+18251568594251252330689131413928154307_h3trnv.png,"['COPD signs', 'flattened diaphragm']",Abnormal
+321779437198428719772418311003525479772_w9law3.png,['pacemaker'],Abnormal
+74184294048471784614030496029826399445_ejrdz6.png,['normal'],Normal
+314755908541152539416172425326846607710_gxpkph.png,"['sternotomy', 'cardiomegaly']",Abnormal
+158724931877286484963704531981504864783_7xcfh5.png,['normal'],Normal
+36898006336407087830195265961623373289_qkig6x.png,"['aortic elongation', 'aortic atheromatosis', 'artificial heart valve', 'vertebral degenerative changes', 'COPD signs', 'pacemaker', 'sternotomy', 'dual chamber device']",Abnormal
+81734644744263622744295492483441662807_uxooy7.png,"['COPD signs', 'calcified granuloma', 'chronic changes']",Abnormal
+196975433926003505480576017833694292809_jw6781.png,"['vertebral degenerative changes', 'scoliosis']",Abnormal
+267937103716927311565249569255763962603_tkcw98.png,['normal'],Normal
+164160316423296602887463915446497560917_j5iu40.png,['normal'],Normal
+123498368294572583918380681397200177769_y9x8gz.png,['normal'],Normal
+81919959835588969574602033713218319974_8tul2m.png,['suboptimal study'],Abnormal
+67510613616791441499979511172778601506_laoq2p.png,['diaphragmatic eventration'],Abnormal
+318190044399578124820707308517259367666_7k80f8.png,"['aortic atheromatosis', 'aortic elongation']",Abnormal
+139783241189951767073085734325262886467_hd9gyz.png,['thoracic cage deformation'],Abnormal
+89195056966922372245143305833888559399_2acpa5.png,['normal'],Normal
+265316451807422065911354102120096857106_ejyk7s.png,['hemidiaphragm elevation'],Abnormal
+231588554475076428605839801753745058684_oynavm.png,['bronchovascular markings'],Abnormal
+207240711129715373011279040963551158756_1w8w91.png,['normal'],Normal
+49631641213430158704808989070344669761_j84hb7.png,"['pleural effusion', 'pneumonia']",Abnormal
+9061136706521753932010788528487480471_82q8ip.png,"['aortic elongation', 'unchanged']",Abnormal
+197949282606240035821492527998628232069_vkoay7.png,['interstitial pattern'],Abnormal
+49840074392003826876880255806618577425_exuhr5.png,['scoliosis'],Abnormal
+142381879405619782415454034606923350126_s0rasn.png,"['apical pleural thickening', 'chronic changes', 'fibrotic band']",Abnormal
+161664981614751505860813132847572796279_c8vu1x.png,"['COPD signs', 'hilar enlargement']",Abnormal
+169681039655615156006222682944916404258_n39s7r.png,['vascular hilar enlargement'],Abnormal
+315138197185376342602672468788400424951_7ncbz9.png,"['alveolar pattern', 'pneumonia']",Abnormal
+21218717206131907292596617333944799363_4zwqno.png,['normal'],Normal
+287456232675343225280256963096630959706_ftgxze.png,['normal'],Normal
+195004939191074233937295533577309002157_ncp4p5.png,['normal'],Normal
+130906364917231360555080404101857239103_f1pktf.png,"['scoliosis', 'cardiomegaly']",Abnormal
+233799202783681522784324925395393620180_fm5x8b.png,['COPD signs'],Abnormal
+138375267606355825520453662249077520599_pvpemm.png,"['aortic atheromatosis', 'laminar atelectasis']",Abnormal
+280786246155162722748382722207479452315_od701o.png,"['osteosynthesis material', 'chronic changes', 'vascular hilar enlargement']",Abnormal
+200159179153672115105311663306023815762_uyqtan.png,['osteosynthesis material'],Abnormal
+34322770102873778252232314457800576152_tx6ntm.png,['normal'],Normal
+183738202140091190891389171503176288273_d7sq46.png,"['mediastinic lipomatosis', 'unchanged', 'cardiomegaly', 'vascular hilar enlargement']",Abnormal
+266530051740413637148428171852776418361_8arxat.png,['normal'],Normal
+279869837436263072952822477091799155381_3x2qu9.png,"['interstitial pattern', 'kyphosis', 'air trapping', 'costophrenic angle blunting']",Abnormal
+226399320863319349082592705046056097972_bbgekn.png,['normal'],Normal
+208665949772531573966572593951616806531_n8qw25.png,"['aortic elongation', 'suture material', 'dai', 'hilar congestion', 'sternotomy', 'single chamber device', 'heart insufficiency', 'cardiomegaly']",Abnormal
+255840939215845269279883792718043285993_ubsbe9.png,['scoliosis'],Abnormal
+267556177052789231177089718245427809189_nofeb3.png,"['COPD signs', 'calcified densities', 'unchanged']",Abnormal
+41766516820834402820648787046809377929_zlc1c1.png,['normal'],Normal
+274462040520563719326151670752255394942_v2vn36.png,"['scoliosis', 'COPD signs', 'apical pleural thickening', 'aortic atheromatosis', 'calcified granuloma', 'chronic changes', 'costophrenic angle blunting']",Abnormal
+125708173243739274990011771363339657773_jsya30.png,['increased density'],Abnormal
+113078882259200001459142131618912699925_rvuk24.png,['normal'],Normal
+260510898953196779123408368656136785813_xrwhqa.png,['normal'],Normal
+295026901863981594290324284876740765607_f7oqh2.png,['normal'],Normal
+249075780062601016212036909038940769634_su7cr6.png,['scoliosis'],Abnormal
+245125788910798198421802122053106746768_d8jf1z.png,['normal'],Normal
+228804816111066959304785856552443772757_74ec6o.png,['normal'],Normal
+304951933768483364013857833804927019063_blxqwd.png,"['atelectasis', 'chronic changes', 'infiltrates', 'pneumonia']",Abnormal
+251817752826726742233508350809968475767_o1z8dd.png,"['aortic elongation', 'vertebral degenerative changes', 'COPD signs', 'thoracic cage deformation', 'cardiomegaly', 'air trapping', 'vascular hilar enlargement']",Abnormal
+117751533260547221148124617309012759602_wrvl2n.png,"['segmental atelectasis', 'unchanged']",Abnormal
+138345658978269042636478026781537713808_81urcz.png,"['laminar atelectasis', 'COPD signs', 'humeral fracture', 'obesity', 'gynecomastia']",Abnormal
+76840408424236081194846977678201459224_f3l52p.png,['cardiomegaly'],Abnormal
+153727633750702336351810492317390365896_iycqix.png,"['aortic elongation', 'cardiomegaly']",Abnormal
+86169253081844573076453448943570921253_2_l2xmuv.png,"['laminar atelectasis', 'chronic changes', 'hemidiaphragm elevation', 'bronchiectasis']",Abnormal
+86169253081844573076453448943570921253_n9r0ih.png,"['hemidiaphragm elevation', 'unchanged']",Abnormal
+90293913457245659259762460053710772798_awpw8x.png,"['kyphosis', 'vertebral fracture', 'callus rib fracture', 'chronic changes', 'pleural effusion']",Abnormal
+8270056274277815603725343282855604599_esz2nj.png,['normal'],Normal
+65210521977530182749143489510079645160_cdi3qq.png,"['osteosynthesis material', 'scoliosis', 'costophrenic angle blunting']",Abnormal
+35103281497928335862266923011802194690_4vsqrk.png,['normal'],Normal
+47065451676188993956264004000297053099_pcs67a.png,['normal'],Normal
+168222128175416052116762211834177409217_32ki2p.png,"['costophrenic angle blunting', 'apical pleural thickening']",Abnormal
+31167129422760020834720402206231397119_ewp492.png,"['COPD signs', 'flattened diaphragm', 'chronic changes', 'apical pleural thickening', 'air trapping']",Abnormal
+279906694602565749098071245029590361316_xfbu5j.png,"['interstitial pattern', 'air trapping']",Abnormal
+212712654813808452125363936435151386976_9th2vh.png,"['infiltrates', 'pneumonia']",Abnormal
+201721536063885662773434047433849383457_hi2ih9.png,['normal'],Normal
+78645633090100665307778913278906552208_g3rzvv.png,['normal'],Normal
+208802631929701180993022603650717899386_61dp5s.png,"['bronchiectasis', 'calcified granuloma']",Abnormal
+16825835762747333164726874831798780102_r8u98n.png,"['vertebral degenerative changes', 'scoliosis', 'goiter', 'tracheal shift']",Abnormal
+189033869521633811791971789157738849510_yfcs6b.png,"['aortic elongation', 'hiatal hernia']",Abnormal
+88234713439216603692272175480642006889_0lg0ti.png,"['COPD signs', 'unchanged', 'sternotomy']",Abnormal
+88234713439216603692272175480642006889_2_l10nlz.png,"['COPD signs', 'unchanged', 'cardiomegaly', 'sternotomy']",Abnormal
+144667675009435127956436188407936103206_2hmq7t.png,['vertebral degenerative changes'],Abnormal
+229543291767720711629386481743364792794_bxycy2.png,"['kyphosis', 'vertebral degenerative changes']",Abnormal
+171049839812465449915461650556931404887_xfof6e.png,"['infiltrates', 'unchanged']",Abnormal
+83505642374936457757128874630571308061_69oe7v.png,['normal'],Normal
+267242136223067189038896704923940729703_kwacvw.png,['superior mediastinal enlargement'],Abnormal
+1413083025114679535022978751533486413_riaj3z.png,['hemidiaphragm elevation'],Abnormal
+276935166572301934603576457793896920547_eau411.png,"['axial hyperostosis', 'COPD signs', 'calcified densities', 'nipple shadow', 'unchanged', 'vertebral degenerative changes', 'pseudonodule']",Abnormal
+136157406122707899583022180784643684406_fnsunc.png,['normal'],Normal
+130754088990826661740836776993530332040_6a3ixq.png,"['aortic elongation', 'chronic changes', 'pacemaker', 'aortic atheromatosis', 'single chamber device']",Abnormal
+186211658546104859697626461579783235872_2utatl.png,['pectum excavatum'],Abnormal
+154472838941864101841959050144293117214_lhqxwr.png,['COPD signs'],Abnormal
+267611385326465042665315112692206586005_-4xiny.png,"['alveolar pattern', 'interstitial pattern', 'tuberculosis', 'pneumonia']",Abnormal
+11190357100443191189698731021285857705_888p1z.png,['normal'],Normal
+226020704513676598070785797115556290752_8pf3ix.png,['COPD signs'],Abnormal
+313449709718187306315515049339906379856_i5qnf5.png,"['interstitial pattern', 'hilar enlargement']",Abnormal
+15163587249017602026752882149476026638_yotyl0.png,"['pacemaker', 'dual chamber device']",Abnormal
+125457435219201461092262970690958194079_k19hoy.png,"['aortic button enlargement', 'COPD signs', 'cardiomegaly']",Abnormal
+153101494463713970530658305764516867034_x9agg3.png,"['aortic atheromatosis', 'hemidiaphragm elevation']",Abnormal
+153101494463713970530658305764516867034_2_fuomi9.png,"['aortic atheromatosis', 'diaphragmatic eventration']",Abnormal
+44182034082603026094898568844150182086_i8h2t5.png,['normal'],Normal
+312447841912476392836878255221324752437_m4dphn.png,"['bronchovascular markings', 'gynecomastia', 'superior mediastinal enlargement', 'mediastinic lipomatosis']",Abnormal
+29590182955803658897717414279553546960_joq3ka.png,['normal'],Normal
+235509594189823275009834783894997539409_1q4aua.png,"['interstitial pattern', 'adenopathy', 'azygos lobe', 'pleural effusion']",Abnormal
+268768404317412859392658162936627704432_ujs6r2.png,['normal'],Normal
+122264555097026437300720777498246940487_omo319.png,['scoliosis'],Abnormal
+122547463957904866412532038739297339371_pao4hz.png,['scoliosis'],Abnormal
+108757234707826731622534463166732014399_zneaoc.png,"['aortic elongation', 'cardiomegaly']",Abnormal
+279529963733376422920074980287474297010_n0q3mj.png,['azygos lobe'],Abnormal
+265788045215725196289679767977018955870_kasrth.png,"['vertebral degenerative changes', 'unchanged', 'vascular hilar enlargement']",Abnormal
+12576728478359127866754394802039972639_gu8gq7.png,"['aortic elongation', 'cardiomegaly']",Abnormal
+249891250835251766760663007597586613478_rgrwkk.png,"['pleural effusion', 'costophrenic angle blunting', 'atelectasis basal', 'consolidation']",Abnormal
+249891250835251766760663007597586613478-2_l31rtq.png,"['pleural effusion', 'nipple shadow', 'unchanged', 'chronic changes', 'pseudonodule']",Abnormal
+327915481212409130212510081111102442176_jivs3h.png,['increased density'],Abnormal
+315065064217219810120261133725212341338_g11qne.png,['normal'],Normal
+217203975992160997532770866503792310325_tgnmv9.png,"['aortic endoprosthesis', 'alveolar pattern', 'pleural effusion', 'kyphosis', 'unchanged', 'chronic changes', 'cardiomegaly', 'interstitial pattern']",Abnormal
+338805929014045825546677938822620051488_ro5lqe.png,"['aortic elongation', 'scoliosis', 'calcified granuloma', 'costophrenic angle blunting', 'apical pleural thickening']",Abnormal
+219171858217841455644298943524941763047_zqu9j3.png,['normal'],Normal
+301849712574869489675338495049490202095_r26e01.png,"['supra aortic elongation', 'vertebral degenerative changes', 'aortic elongation']",Abnormal
+56344003193447794959809121816248153723_e5ah6i.png,['normal'],Normal
+255736379687693714957443634497248469702_x98ywr.png,"['emphysema', 'gynecomastia', 'bullas']",Abnormal
+99527335900369620271881499409716310083_npyh2d.png,['normal'],Normal
+145468441572778373977484837573499974880_ufdd51.png,"['vertebral degenerative changes', 'chronic changes', 'cardiomegaly']",Abnormal
+95146475003335376363508827250280257813_2_lz6wqj.png,['normal'],Normal
+149301948518995416140347095301642238632_5optag.png,['normal'],Normal
+115241022223210483124964683795645585434_f1jsyu.png,['normal'],Normal
+44320321973808061715042513349326010731_gyuftk.png,"['air trapping', 'flattened diaphragm']",Abnormal
+79527319353446023031719065259752286592_b2ifwq.png,['scoliosis'],Abnormal
+275116398643618519285421222241340640141_w6ffhn.png,"['aortic elongation', 'cardiomegaly', 'sternotomy']",Abnormal
+32680853652868554443532694173123800828_udc9v5.png,"['metal', 'rib fracture']",Abnormal
+203241244255366576773722004545018466628_mpocmk.png,['scoliosis'],Abnormal
+7403781185427122576355927731625098374_2_c7t3d7.png,['normal'],Normal
+7403781185427122576355927731625098374_vuefga.png,"['unchanged', 'cardiomegaly']",Abnormal
+334609511016680116615900857942126174282_mn9gxo.png,"['atelectasis', 'bronchovascular markings', 'pneumonia', 'infiltrates']",Abnormal
+30937137539901308896995467550672157986_0mctsx.png,['normal'],Normal
+21266572053519627422404491937360784299_5b4juc.png,"['COPD signs', 'chronic changes', 'costophrenic angle blunting']",Abnormal
+264217090918162303235455598363696569302_dgvl3s.png,['vascular hilar enlargement'],Abnormal
+333486047392244097944915881947342870823_1ht3o4.png,"['laminar atelectasis', 'pulmonary mass', 'clavicle fracture']",Abnormal
+75288701376420592992055266537258582029_taw0gf.png,"['surgery heart', 'nipple shadow', 'chronic changes', 'sternotomy', 'pseudonodule']",Abnormal
+89953013520890832443277904553619015330_7xpk7l.png,['normal'],Normal
+340097746927014023682804486516869070053_ihzodd.png,"['aortic button enlargement', 'scoliosis', 'COPD signs', 'aortic atheromatosis', 'kyphosis']",Abnormal
+241440014346385103396286852995516878971_nlp59t.png,"['aortic atheromatosis', 'scoliosis', 'calcified fibroadenoma']",Abnormal
+241440014346385103396286852995516878971_nlp59v.png,"['aortic atheromatosis', 'scoliosis', 'calcified fibroadenoma']",Abnormal
+47752435908500846478375668214287389672_xktsef.png,"['aortic elongation', 'cardiomegaly']",Abnormal
+287880795047317818398238224975488207965_dr5wfj.png,"['vertebral degenerative changes', 'COPD signs', 'apical pleural thickening']",Abnormal
+205492135829920183978579350044629736951_yxsxm2.png,['normal'],Normal
+147550603944794637833520986833698245442_reuqrw.png,"['apical pleural thickening', 'fibrotic band']",Abnormal
+258139290476157599332533433612025716289_lbx6vx.png,['normal'],Normal
+89033872006199522429092311866827747707_wizpve.png,"['chronic changes', 'vertebral anterior compression', 'cardiomegaly', 'interstitial pattern', 'kyphosis']",Abnormal
+190661818164302413117064494637559032037_rjylqp.png,"['apical pleural thickening', 'fibrotic band', 'nodule', 'tuberculosis sequelae']",Abnormal
+196567742926924864790503833524973806044_0uzu02.png,"['aortic atheromatosis', 'COPD signs', 'unchanged', 'apical pleural thickening']",Abnormal
+198128767781120980944971538319789797500_g549p0.png,['scoliosis'],Abnormal
+26680281353520624711541747851051169165_2orj47.png,"['unchanged', 'apical pleural thickening']",Abnormal
+203962986719746775710451986541466323591_gk3gyw.png,['COPD signs'],Abnormal
+147130162001881270838910566173191885957_e4abbt.png,"['apical pleural thickening', 'fibrotic band', 'calcified granuloma']",Abnormal
+152689236348475668054003869636403774271_ustzsd.png,['normal'],Normal
+270714665882545866455542834227246425608_q5y3pz.png,"['chronic changes', 'unchanged']",Abnormal
+133602754677291826184277929951129580545_ob54ap.png,"['laminar atelectasis', 'scoliosis', 'osteosynthesis material']",Abnormal
+286477242304514718750486112711955337864_8mnekz.png,"['COPD signs', 'vascular hilar enlargement', 'air trapping', 'flattened diaphragm']",Abnormal
+142402046987881038220855646720260139583_yg7yhw.png,"['increased density', 'pneumonia']",Abnormal
+18601360500622289706379792120669945126_moixrj.png,['normal'],Normal
+232078186596789900482749079261268939828_xrbzkr.png,"['alveolar pattern', 'reticulonodular interstitial pattern', 'pneumonia', 'scoliosis', 'volume loss']",Abnormal
+101892477424645152745400052582148736248_p9aiil.png,['normal'],Normal
+90958564497896870508582761875817477582_8f8umk.png,"['hiatal hernia', 'scoliosis', 'pulmonary fibrosis']",Abnormal
+130473418376838178218546139356334658905_0yczl9.png,"['aortic atheromatosis', 'vertebral degenerative changes', 'chronic changes', 'cardiomegaly', 'diaphragmatic eventration']",Abnormal
+112192705669867005981960707720321779599_97uqca.png,['vascular hilar enlargement'],Abnormal
+259081383390668021719613455316993474655_vsz3lm.png,['normal'],Normal
+304427720011518121355227828568994081714_k6chvx.png,['normal'],Normal
+188729205515324970910678048100353743671_hrbzr8.png,"['aortic atheromatosis', 'calcified granuloma', 'unchanged', 'fibrotic band', 'chronic changes']",Abnormal
+95166759715351284246024276245978040214_w5odug.png,"['fibrotic band', 'chronic changes']",Abnormal
+328320945563753563755593159747231091093_5yzd02.png,['normal'],Normal
+40977485082441339831224007462829694051_1m527x.png,"['infiltrates', 'unchanged']",Abnormal
+84073976391871078977269648559238898238_a4r3kc.png,['normal'],Normal
+15934755428865487257203810687284352960_fon8ng.png,['COPD signs'],Abnormal
+241596167720417126021797567282725136637_t6n6i8.png,['pacemaker'],Abnormal
+303389339158565875613137267484117827284_7y6x32.png,['normal'],Normal
+275753568732795519107519829190379263965_hxl8cr.png,['normal'],Normal
+141283082479681165899370328317494497770_4xv1s0.png,['COPD signs'],Abnormal
+190484369982899446742320942386545507324_ix7wzg.png,['normal'],Normal
+90155890736185591927829129001475320802_7h47sk.png,"['aortic elongation', 'vertebral degenerative changes', 'cardiomegaly']",Abnormal
+100360992970443012139948853258191567510_orx7ef.png,"['aortic button enlargement', 'aortic atheromatosis', 'chronic changes', 'cardiomegaly', 'air trapping']",Abnormal
+315641361823864603193087396639083586775_q7f9fv.png,['normal'],Normal
+223483171701316671931463329025695353011_ofhbla.png,['normal'],Normal
+195080959381524601814993201022341403795_hhu1nr.png,['normal'],Normal
+319510915366917787894215548090621869058_wydstq.png,['normal'],Normal
+42693520220601169068204138464470575517_fqjugw.png,"['aortic elongation', 'scoliosis', 'osteopenia', 'multiple nodules', 'aortic atheromatosis', 'vertebral degenerative changes', 'lung metastasis']",Abnormal
+273904591142475157936105194380005680649_r13gee.png,['normal'],Normal
+17999748585309753097054460391174396605_ua2gt7.png,['normal'],Normal
+32750797820289644360538794588002777428_g5039x.png,"['aortic atheromatosis', 'vertebral degenerative changes', 'scoliosis']",Abnormal
+15477698873707378543785343746252386772_epscwi.png,"['callus rib fracture', 'hilar enlargement']",Abnormal
+278145958936920136774696500785123128624_huslud.png,['normal'],Normal
+45244506185709780310759798321356300496_8nq0im.png,['normal'],Normal
+199801849742982249397801231239677747822_oyxnap.png,"['chronic changes', 'callus rib fracture', 'costophrenic angle blunting', 'pleural effusion']",Abnormal
+34155505709974260716695440657243552083_qq053t.png,['normal'],Normal
+205745246268239789402458272119645933709_aw60jk.png,['normal'],Normal
+234342142542575223651664904935164209557_57uem0.png,"['aortic elongation', 'unchanged', 'cardiomegaly']",Abnormal
+333440150834533740383734794729597249848_bd39me.png,"['vertebral degenerative changes', 'calcified densities', 'costophrenic angle blunting', 'chronic changes', 'hilar congestion', 'scoliosis']",Abnormal
+270109183601633471032764074750044006300_wtdu8g.png,['normal'],Normal
+301100050436096207138663268286650941157_2qw8sk.png,"['atelectasis', 'COPD signs', 'air trapping']",Abnormal
+92521289586769005593471300862520572937_5zhuh6.png,['calcified granuloma'],Abnormal
+308904004773553573939976737374096145933_fp9onn.png,['nodule'],Abnormal
+71256527529612030399949598615146554658_t4i8mz.png,"['apical pleural thickening', 'fibrotic band', 'bronchiectasis', 'tuberculosis sequelae', 'bullas']",Abnormal
+184092369579014161333429398728588882365_rs80p7.png,['atelectasis'],Abnormal
+279790221693001253075181786892157288700_p44l6h.png,"['chronic changes', 'calcified granuloma', 'interstitial pattern', 'COPD signs']",Abnormal
+1580614801833545445924521919088753463_g4hv8g.png,['normal'],Normal
+240987119854635824231425108891440997474_5v7oi8.png,"['aortic elongation', 'cardiomegaly']",Abnormal
+254382098262266808667774913493987632237_jhv6ri.png,['normal'],Normal
+218113582317342004981178834386608691798_e0c2dm.png,"['vertebral degenerative changes', 'cardiomegaly', 'chronic changes', 'costophrenic angle blunting', 'metal', 'humeral prosthesis']",Abnormal
+239536013384444245021633407813554112455_l76z4z.png,"['costophrenic angle blunting', 'callus rib fracture', 'unchanged', 'reservoir central venous catheter']",Abnormal
+109014940196207588865840156209618246032_es7zrc.png,"['scoliosis', 'COPD signs', 'air trapping']",Abnormal
+281613535115656970834072294097521573097_unikaf.png,['normal'],Normal
+214135487073337462236941901161765659816_4wsg09.png,"['chronic changes', 'sternotomy']",Abnormal
+55130810732938431956361752051393125876_8t6gyq.png,['normal'],Normal
+294882696585859520172338186428818007736_18wnt4.png,['kyphosis'],Abnormal
+340107514634543272546686518747970934887_rndf2p.png,['normal'],Normal
+148311360877465334516155188470984381848_e8mm70.png,"['vertebral degenerative changes', 'COPD signs', 'air trapping']",Abnormal
+210113322768080735978774056434704374207_xjiukm.png,['normal'],Normal
+278371227464591795881973815481088403705_8si9ng.png,['COPD signs'],Abnormal
+197497201922735951148287302734856568291_9d4gg0.png,"['chronic changes', 'scoliosis', 'unchanged', 'volume loss']",Abnormal
+174920015226216927741861989260145102403_vw840c.png,['normal'],Normal
+255714425059347418438532431479149841149_8zkxbf.png,['normal'],Normal
+234050989583091499819702933417319993975_vvob62.png,['normal'],Normal
+177558777229627890681400040372576934290_tc5daw.png,['COPD signs'],Abnormal
+313728840001931054959476505024342557272_hyhb7v.png,['normal'],Normal
+82025769012721901524244942629737628678_nap7r5.png,['normal'],Normal
+209890252063131802095499875481860176531_ymxr6o.png,['normal'],Normal
+28810932578208115809995960565223195613_7m2ckj.png,['emphysema'],Abnormal
+120231173062802189604839249335841998241_y6fx69.png,['callus rib fracture'],Abnormal
+98840529389070747811374071720058082665_61rx5i.png,['rib fracture'],Abnormal
+54725168636088064269989216447556588851_em4uso.png,['normal'],Normal
+285463782554345008904375216501639539956_jcgtdj.png,['scoliosis'],Abnormal
+51169288947814200000170390624934805171_sxyau8.png,['hemidiaphragm elevation'],Abnormal
+255790943609044883700587364382366787424_275nwm.png,"['scoliosis', 'unchanged']",Abnormal
+266721529403437528646245509820784853505_pqt74f.png,"['unchanged', 'vascular hilar enlargement']",Abnormal
+8671506455490693693231495083697804330_3ct262.png,"['chronic changes', 'apical pleural thickening', 'COPD signs', 'suture material', 'sternotomy']",Abnormal
+51178344295930576535988005737896897947_6cncpf.png,['fibrotic band'],Abnormal
+148694810114893865479342168104584554722_4kb43m.png,['COPD signs'],Abnormal
+41407032750510417174916823374983270156_vaicm4.png,['normal'],Normal
+277601663616318238706142865369115628760_quak4u.png,['COPD signs'],Abnormal
+205128868845132657450252272483326765267-2_ia8sb9.png,"['COPD signs', 'nipple shadow', 'hemidiaphragm elevation']",Abnormal
+205128868845132657450252272483326765267_3_6pj0nm.png,"['COPD signs', 'cardiomegaly']",Abnormal
+205128868845132657450252272483326765267_f0oedb.png,"['chronic changes', 'cardiomegaly']",Abnormal
+263311076439125150587650471306474654608_x4geyj.png,"['aortic atheromatosis', 'alveolar pattern', 'chronic changes', 'interstitial pattern', 'pneumonia']",Abnormal
+218972781081120773862370434550100625084_vmr7mv.png,['normal'],Normal
+120951419994459410029997823384753816090_v7df5k.png,['normal'],Normal
+5872056328278966652124252439306848171_fbcmpa.png,"['interstitial pattern', 'atypical pneumonia']",Abnormal
+278282792681185973811956878837403051941_839b5i.png,"['central venous catheter', 'vascular hilar enlargement']",Abnormal
+334177592932752595244560108290585021587_s7io2g.png,"['bronchiectasis', 'apical pleural thickening', 'hiatal hernia', 'fibrotic band', 'chronic changes', 'pulmonary fibrosis']",Abnormal
+201910627554426204940159481285840174842_8b0dy2.png,['normal'],Normal
+203150311405777932841611162340787956349_o0hqdg.png,"['increased density', 'unchanged', 'chronic changes']",Abnormal
+271575796301972281643915677249203478644_ulid5w.png,['normal'],Normal
+93103367758923276762424067132641799105-2_ioc0m5.png,"['alveolar pattern', 'interstitial pattern', 'sclerotic bone lesion', 'costophrenic angle blunting']",Abnormal
+335509159604193145965809096124339387089_a5n3t1.png,"['aortic atheromatosis', 'vertebral degenerative changes', 'subacromial space narrowing', 'scoliosis']",Abnormal
+18317322916883247491852800489335375362_h9a86d.png,"['aortic elongation', 'bronchiectasis', 'vertebral degenerative changes', 'COPD signs', 'unchanged', 'fibrotic band', 'hilar congestion', 'aortic atheromatosis', 'scoliosis', 'chronic changes']",Abnormal
+105664846411048091510919698488511719703_mhd389.png,['granuloma'],Abnormal
+32984067162293851477953321590068608041_ajmomz.png,['normal'],Normal
+289184657727441216013558771467754784942_2dnysy.png,"['COPD signs', 'pseudonodule']",Abnormal
+107992612522320732368862523669585034753_ol13ez.png,['interstitial pattern'],Abnormal
+116070670534865100071023011070932094542_2rq7qk.png,"['chronic changes', 'kyphosis']",Abnormal
+248060958092118945326092297789105837_nr5hxr.png,['normal'],Normal
+246837259655253238064077290816224005349_480jj3.png,['normal'],Normal
+231715302289011252686220680132779590515_ta7t0x.png,"['axial hyperostosis', 'nodule']",Abnormal
+289812036219579886147290485181623137933_1d6wri.png,"['scoliosis', 'vertebral degenerative changes']",Abnormal
+203497275693780236394896288773886769334_erlayt.png,"['bronchiectasis', 'vertebral anterior compression', 'callus rib fracture', 'cardiomegaly', 'osteopenia', 'vertebral degenerative changes']",Abnormal
+309209827639946790740042474503716749312_x55uy9.png,"['nipple shadow', 'chronic changes']",Abnormal
+315697467484409203799253153616912837321_qb7glg.png,"['bronchovascular markings', 'scoliosis', 'unchanged', 'hilar congestion']",Abnormal
+90651347082851316868509948075763501242_zkttan.png,['normal'],Normal
+145926613354687434780321279366269700722_dibidt.png,['normal'],Normal
+228273947250354320790923329590354136482_8kdy6q.png,"['COPD signs', 'aortic elongation']",Abnormal
+258745183344444620384204230836995493770_2_anu65q.png,['interstitial pattern'],Abnormal
+258745183344444620384204230836995493770_mb1aoi.png,"['interstitial pattern', 'nipple shadow', 'bullas', 'pseudonodule']",Abnormal
+94448773302046020333563741364118277531_vwv9k2.png,['scoliosis'],Abnormal
+65129472649567862205552993890474699929_gdm8id.png,['normal'],Normal
+277015111725558801772481532760358373853_-d5b21.png,"['calcified densities', 'callus rib fracture', 'mediastinic lipomatosis']",Abnormal
+110257932225876033602001910258843132096_6e1o4w.png,['normal'],Normal
+182550272623204129624094339404381998195_6kj1ej.png,"['scoliosis', 'kyphosis', 'vertebral fracture']",Abnormal
+200174595526835117434442614481273492549_8dke5n.png,['scoliosis'],Abnormal
+256603502349678030869059479646993288502_3fy1k7.png,"['aortic elongation', 'COPD signs', 'costophrenic angle blunting']",Abnormal
+114686050091303667662723520657708873157_98wcug.png,['normal'],Normal
+11915094734294591584062790554195691827_6lxy8f.png,['normal'],Normal
+8161426334719529053118992789748110569_6vjjlv.png,['normal'],Normal
+137388819814035428537164273550346941304_uaixht.png,"['central venous catheter via subclavian vein', 'cardiomegaly']",Abnormal
+188113916122196904404852495873259575747_1sy5bv.png,['normal'],Normal
+2634534793646995756080016199272660137_x4rr0p.png,['normal'],Normal
+143042639816812304403833931889299950915_5miug4.png,['air trapping'],Abnormal
+271000064054851282195149073769196692268_dvakiq.png,['scoliosis'],Abnormal
+68722263551912885209457466381542125749_r1sw36.png,['pneumonia'],Abnormal
+18104280246346700713752899198427570737_ezdqyq.png,"['aortic atheromatosis', 'cardiomegaly', 'costophrenic angle blunting']",Abnormal
+307400577352691476839033094654629005292_2_eyg2tu.png,['cardiomegaly'],Abnormal
+307400577352691476839033094654629005292_2kqwoo.png,['cardiomegaly'],Abnormal
+149418834227280223739589106985025597568_f7g2wd.png,"['COPD signs', 'air trapping']",Abnormal
+269174536098125483873118884292095969402_4bvxgr.png,"['kyphosis', 'hiatal hernia']",Abnormal
+48628268290112985973073042127566014258_bcp0q2.png,['vascular hilar enlargement'],Abnormal
+152674950351831210089846412332508192025_b3ckhd.png,['normal'],Normal
+165819057007895329762599641271174239097_eg8zmt.png,['normal'],Normal
+33445631523201411341185341278084309749_yg3bej.png,"['aortic elongation', 'unchanged']",Abnormal
+37293435752224581502638970091914084712_speune.png,"['aortic atheromatosis', 'scoliosis', 'cardiomegaly']",Abnormal
+326825049249459543574497138571856324521_zj1h5r.png,['normal'],Normal
+233995515058933860165645783717429626196_z4uash.png,"['COPD signs', 'apical pleural thickening', 'fibrotic band', 'tuberculosis sequelae', 'volume loss']",Abnormal
+62200681611780151051345468518750402225_4icud5.png,['osteosynthesis material'],Abnormal
+239090143130480117699584956055607425201_1ovkak.png,"['aortic elongation', 'calcified granuloma']",Abnormal
+97600927297254707513662656394991173027_0k06p2.png,"['aortic elongation', 'cardiomegaly']",Abnormal
+284806017993743725164906287503891729659_u7wyar.png,['rib fracture'],Abnormal
+50089397883247827451873211350960863980_zrn5gt.png,['normal'],Normal
+76687143951212933361140798198296828047_iez4vr.png,['normal'],Normal
+76687143951212933361140798198296828047-2_hzr6bs.png,"['scoliosis', 'vertebral degenerative changes']",Abnormal
+218639916290691061916155664098610879918_l1qpzc.png,['normal'],Normal
+257176197218822309689377728731553822739_h83m3t.png,"['supra aortic elongation', 'cardiomegaly', 'aortic elongation']",Abnormal
+102650309499472712715629298217922323469_qjvo8n.png,['normal'],Normal
+321372049920057289111921127850684309511_k0pqj4.png,"['aortic elongation', 'cardiomegaly']",Abnormal
+286255325484547014252536052554621773703_4mxkxy.png,['normal'],Normal
+24133295445957638068322155855020404669_zy5t1f.png,['normal'],Normal
+297626562413484496117118066582965849053_igczom.png,['normal'],Normal
+125374151943505747025890313053997514922_j5rk5q.png,['scoliosis'],Abnormal
+136857866535689537745720959143173655470_kxtjhe.png,"['vascular hilar enlargement', 'gynecomastia']",Abnormal
+34180403894436141672279804058647928550_rpr4wo.png,['normal'],Normal
+6061601748637173818702988318646335427_ile2od.png,"['COPD signs', 'apical pleural thickening', 'air trapping']",Abnormal
+121419729514633994778403300261176775648_laat74.png,['COPD signs'],Abnormal
+259507743352147163827005360003812959177_wnxit2.png,"['laminar atelectasis', 'scoliosis', 'apical pleural thickening']",Abnormal
+325780572371902040042498677902658735694_c6a7sr.png,['normal'],Normal
+113649893853861204323095168243343700358_6oy5hv.png,"['aortic elongation', 'vertebral degenerative changes', 'fibrotic band', 'vascular hilar enlargement', 'chronic changes']",Abnormal
+219086683677159049507691781493153756793_8lqw80.png,"['pneumonia', 'infiltrates']",Abnormal
+323262573921949144552726997218896400768_4t14pv.png,['normal'],Normal
+303365545209516144397204391016897765022_3utnab.png,"['vertebral anterior compression', 'callus rib fracture', 'pleural effusion']",Abnormal
+184600474674557469011675772482236073323_74jsyt.png,['normal'],Normal
+36349585764014409908738606250648195956_jpv98h.png,"['aortic elongation', 'cardiomegaly', 'interstitial pattern']",Abnormal
+164365274207725617409978446158715627043_aq1wmz.png,['normal'],Normal
+156455431542011309230422368097028244181_8iffua.png,['normal'],Normal
+79294153926378813684176174224268956888_98ywfu.png,['scoliosis'],Abnormal
+292463475804894111353383533599536974185_d57t4s.png,['normal'],Normal
+42522678745751604950356415948782020481_r86yjk.png,"['laminar atelectasis', 'COPD signs', 'unchanged', 'vascular hilar enlargement', 'apical pleural thickening', 'air trapping']",Abnormal
+303207980321707230646794975692194135848_kj7u48.png,['normal'],Normal
+5974223823568654828865740167678385376_nd7fi0.png,['pleural effusion'],Abnormal
+23191882211686899001073487955951950069_hs2yyb.png,"['infiltrates', 'COPD signs']",Abnormal
+153943183933049582234753613934263440352_ngg9sp.png,['gynecomastia'],Abnormal
+113664357295246920273043149457434902824_9yso7n.png,['air trapping'],Abnormal
+67763477798218291885233982295219403714_ygi3yp.png,['air trapping'],Abnormal
+128897188698426880423372014844418100142_6yelf1.png,['normal'],Normal
+478944664487701301480869653661782859_vztalb.png,['increased density'],Abnormal
+58168572621165908934389967143574436452_a3jyfs.png,"['volume loss', 'fibrotic band', 'costophrenic angle blunting', 'chronic changes']",Abnormal
+316577847029379377662011904492546314001_amd9pk.png,['normal'],Normal
+238569918018133418388914360874480585570_8tpya3.png,"['callus rib fracture', 'sclerotic bone lesion', 'osteosynthesis material', 'bronchiectasis', 'costophrenic angle blunting', 'volume loss', 'infiltrates', 'pneumonia']",Abnormal
+321112041693774935974584332120708552766_62fiq4.png,"['unchanged', 'chronic changes', 'increased density']",Abnormal
+13209047842521598129206983892332244109_fxmmj8.png,"['superior mediastinal enlargement', 'supra aortic elongation', 'goiter']",Abnormal
+36100325971667542944584790086130308225_pc6s51.png,['scoliosis'],Abnormal
+226364563471201765345786662741675313060_5jey7r.png,"['scoliosis', 'emphysema', 'axial hyperostosis', 'costophrenic angle blunting']",Abnormal
+44654420375891424679520592353607680815_6ecale.png,['normal'],Normal
+6707331425958376384638455273650106991_dw0v7y.png,"['bronchiectasis', 'reticulonodular interstitial pattern', 'pneumonia']",Abnormal
+161558733300835206135832370684250986849_9l3edb.png,"['chronic changes', 'diaphragmatic eventration']",Abnormal
+299762246267626192067644650381038096831_v4jxar.png,['normal'],Normal
+243921702377160346108301300289885680965_c7bdzt.png,['normal'],Normal
+150995134128950074875827701292432117378_14dhm6.png,"['descendent aortic elongation', 'vertebral degenerative changes', 'unchanged', 'chronic changes', 'cardiomegaly', 'aortic atheromatosis', 'scoliosis']",Abnormal
+12443511129867185752094712055943783816_q2l18g.png,"['post radiotherapy changes', 'suture material']",Abnormal
+108827928923749560275633988818621694543_am2h7c.png,"['scoliosis', 'hyperinflated lung', 'calcified granuloma', 'nodule']",Abnormal
+141738084801671650742091058422023121822_qnxxfz.png,"['scoliosis', 'COPD signs']",Abnormal
+141738084801671650742091058422023121822_sg9ykp.png,"['scoliosis', 'COPD signs']",Abnormal
+54479054064867754535504798426581785221_nlqr3y.png,['normal'],Normal
+85911299080529249717390773547670531525_2sf0sq.png,"['chronic changes', 'cardiomegaly']",Abnormal
+41702733448813883981391490168064578381_i2o9tz.png,['normal'],Normal
+125941882204832181717086660052509286069_6w4tlp.png,"['callus rib fracture', 'unchanged', 'chronic changes', 'apical pleural thickening', 'fibrotic band']",Abnormal
+276730315398042884655755727752304824321_m0a00i.png,['normal'],Normal
+147856697855406216911500275209241729282_u5p8bx.png,"['vertebral degenerative changes', 'fibrotic band', 'cardiomegaly', 'vascular hilar enlargement']",Abnormal
+234847479921489714443660707689181217615_vzjwnd.png,['normal'],Normal
+278234127873993862678240681513943244879_h3w10g.png,"['laminar atelectasis', 'reticular interstitial pattern', 'apical pleural thickening', 'calcified granuloma', 'pacemaker']",Abnormal
+188078842475033279537116927821622866431_1cy6mz.png,['COPD signs'],Abnormal
+190006080324393584674630859615888263291_qk0mhj.png,['normal'],Normal
+294964705636273500500738969432814785925_myydkm.png,['normal'],Normal
+60835787718025534420036653344125937689_n9dw8w.png,['scoliosis'],Abnormal
+233942848615007766815355413289045975936_1qlc5o.png,"['aortic elongation', 'vascular hilar enlargement']",Abnormal
+299659249096508262421223699394998596931_lrgwtp.png,['COPD signs'],Abnormal
+188474450053348223766319292631756278010_vdegzf.png,['normal'],Normal
+170510873891238965947389001055591023099_-akdkb.png,['normal'],Normal
+136135370297750472993190998771350093206_nmt4ji.png,['scoliosis'],Abnormal
+73791012539672072952542771258700162990_5ovged.png,"['aortic atheromatosis', 'vertebral degenerative changes', 'COPD signs', 'air trapping']",Abnormal
+171519439935950561969988432119249199143_iylw5a.png,['scoliosis'],Abnormal
+163801089544481641856395418281158488100_7mlj5k.png,['normal'],Normal
+135177816631007827175742472951746191325_fm3z7l.png,['normal'],Normal
+267759348240741670455972342264917534267_wr42k2.png,"['infiltrates', 'reticular interstitial pattern', 'cardiomegaly']",Abnormal
+317442652117745899849656049125718671889_6eyli0.png,"['pulmonary mass', 'chronic changes', 'costophrenic angle blunting', 'hemidiaphragm elevation']",Abnormal
+4828476137000707218083135453347916707_dp0tea.png,"['interstitial pattern', 'air trapping', 'callus rib fracture', 'unchanged']",Abnormal
+269213859635825186933235409640846279898_y24avl.png,"['calcified granuloma', 'hilar congestion']",Abnormal
+209046467925082585123438173056951670828_2yf7kb.png,['normal'],Normal
+215150064973162734713617738220064910425_3lpe6x.png,"['aortic elongation', 'pleural effusion', 'aortic atheromatosis']",Abnormal
+215150064973162734713617738220064910425_2_x9jhgc.png,"['heart insufficiency', 'pleural effusion']",Abnormal
+179055648747473601115984744211726940723_2_8gokp8.png,"['scoliosis', 'COPD signs']",Abnormal
+320744940225517184204462946631877038449_6c4woc.png,['normal'],Normal
+87488286199547125869040079910984744233_uzjj8e.png,['normal'],Normal
+84545409461824825899603589036868593854_krjw58.png,['COPD signs'],Abnormal
+290585746728528799695169241077782055216_guhxo9.png,"['COPD signs', 'air trapping']",Abnormal
+169482636202077170765799357956740943937_ybxbhy.png,"['fibrotic band', 'calcified granuloma']",Abnormal
+210670313422566050993015205605803401325_txepm7.png,['vascular hilar enlargement'],Abnormal
+156019138248471558676231408463890912786_ci24hi.png,"['aortic elongation', 'laminar atelectasis']",Abnormal
+5124502614682593862235987107512448124_3_cokmx2.png,['pulmonary mass'],Abnormal
+5124502614682593862235987107512448124_2_1xy9zo.png,"['pseudonodule', 'costochondral junction hypertrophy']",Abnormal
+265193141727003150663230538476834003827_r4fwy5.png,['normal'],Normal
+337631489510762084220922675105988913621_dsptp8.png,['normal'],Normal
+300333732754124757859429698461401673959_3uku8t.png,"['laminar atelectasis', 'consolidation', 'pleural effusion']",Abnormal
+300333732754124757859429698461401673959-2_mq0fd6.png,"['lobar atelectasis', 'pleural effusion']",Abnormal
+334668787707568782411826098850133638535_528rpr.png,"['COPD signs', 'increased density', 'unchanged', 'air trapping']",Abnormal
+116335983724176573558695917584539996052_7lcn75.png,"['chronic changes', 'unchanged', 'interstitial pattern']",Abnormal
+116340296809596241635781029020996959624_5rmsi1.png,['normal'],Normal
+322593127703743049220635325312087759795_alym8p.png,"['aortic atheromatosis', 'vertebral degenerative changes', 'calcified densities']",Abnormal
+158561202314692894879562872545148884842_1kjy52.png,['normal'],Normal
+285753562388991643576680842830798700240_5yashm.png,"['aortic atheromatosis', 'aortic elongation']",Abnormal
+298119078392272169101813842583701593927_374zwv.png,['normal'],Normal
+185345605809420316380691598049286267396_95zgsl.png,"['metal', 'suture material']",Abnormal
+122154190813552763049548304001764956113_54gui6.png,"['aortic elongation', 'kyphosis', 'COPD signs', 'unchanged', 'cardiomegaly']",Abnormal
+302099384217113758131207868940168411512_aenqdh.png,['normal'],Normal
+230498333770236357513318625475323907828_vkno7e.png,['normal'],Normal
+171178982530085171564731050065918998362_61940j.png,['normal'],Normal
+216228207147446083228153317485678658271_idjh64.png,['apical pleural thickening'],Abnormal
+216228207147446083228153317485678658271-2_q3plj2.png,['normal'],Normal
+276155250151959415211385688233683890558_a9l7e4.png,['callus rib fracture'],Abnormal
+295205729945536633909257137478084549320_hus7do.png,['normal'],Normal
+159003535101818580975669881632808698661_plff6t.png,['normal'],Normal
+235079529695618179491029457217703862242_uohb7q.png,['normal'],Normal
+111806242776045675817521296985724989599_ici8cn.png,['normal'],Normal
+305287599101580419824295916760271499860_w6s7jy.png,"['aortic elongation', 'pleural thickening', 'volume loss', 'chronic changes', 'pseudonodule']",Abnormal
+26594949798229076403156947670214610267_ior4yc.png,['normal'],Normal
+179224001808369080390719251755431319469_gcvuzm.png,"['unchanged', 'mastectomy']",Abnormal
+81473423066512370122590631449248670614_44ob7m.png,['pectum excavatum'],Abnormal
+280044953632140207008341026894753369572_tgjqya.png,['normal'],Normal
+257557636939621956145243510898955860335_5j1ktd.png,"['pleural effusion', 'chronic changes', 'costophrenic angle blunting', 'goiter', 'pulmonary mass', 'tracheal shift']",Abnormal
+257557636939621956145243510898955860335_2_2sf159.png,"['aortic elongation', 'pulmonary mass', 'adenopathy', 'chronic changes']",Abnormal
+24337819961282382486612658171433148595_kxmbf7.png,['kyphosis'],Abnormal
+100081820231385537397079729591266436694_8o3uj2.png,['normal'],Normal
+52743783097472024699518996283693012566_l8q9fn.png,['calcified densities'],Abnormal
+290262365124298869082590666619058231066_cjtva4.png,"['vertebral degenerative changes', 'air trapping']",Abnormal
+220380309892625945954721602893973216940_z7v93u.png,['normal'],Normal
+163167139553401973344572062956496688516_x6d7so.png,['normal'],Normal
+76246672546393028586224463492033421883_yudit3.png,['normal'],Normal
+309350124611393766067462095260323542730_bcl3d5.png,['kyphosis'],Abnormal
+43911790965903058139154869060456702458_eg5tse.png,"['pleural effusion', 'unchanged', 'consolidation']",Abnormal
+19996742869856831914584401811113743630_fpyt4m.png,['normal'],Normal
+74040826510170180268423833937265674210_1l1q0f.png,"['aortic elongation', 'chronic changes', 'cardiomegaly']",Abnormal
+290609852393245534450176724928640874056_9vsgop.png,"['laminar atelectasis', 'scoliosis']",Abnormal
+97024852706005038814991823295206543044_geyjfo.png,['vertebral degenerative changes'],Abnormal
+160473543577800109482484026465889269684_-3h29b.png,['apical pleural thickening'],Abnormal
+289401011518323172112704056851613476382_5wrqdj.png,"['fibrotic band', 'volume loss']",Abnormal
+149962235501111573773532075308879183668_2jtdrh.png,"['fibrotic band', 'chronic changes']",Abnormal
+232387753838738339711526121280969069202_25cih5.png,"['scoliosis', 'pleural effusion', 'vertebral degenerative changes']",Abnormal
+232387753838738339711526121280969069202_3kz4uc.png,"['scoliosis', 'pleural effusion', 'vertebral degenerative changes']",Abnormal
+51200696445796624601576421803702403405_530sf8.png,"['vertebral degenerative changes', 'hilar enlargement']",Abnormal
+218025757454307628284474403672983202605_exsdev.png,['bronchovascular markings'],Abnormal
+34805847430647706338428696635700988503_-u2ui1.png,['kyphosis'],Abnormal
+170193511087464190034868459686144896528_1vzcer.png,"['COPD signs', 'vertebral anterior compression', 'unchanged', 'interstitial pattern']",Abnormal
+86208884036733145925991992130187283308_mpg68z.png,['scoliosis'],Abnormal
+295762085041033501807631987401668133730_f5yjhp.png,['normal'],Normal
+78834368627486726610075618814726759928_c8ria0.png,"['calcified granuloma', 'azygos lobe']",Abnormal
+194709962771596343986817481689045123502_wviqcl.png,['mammary prosthesis'],Abnormal
+69949397621405752847745986326314413051_wai6lj.png,"['aortic elongation', 'interstitial pattern', 'cardiomegaly']",Abnormal
+285728350741139138064573023521172760885_7sn5j4.png,"['callus rib fracture', 'unchanged']",Abnormal
+80636666092819281309232196845583157924_k37i8o.png,['normal'],Normal
+78421244311429721352325244496333531788_d8wwa3.png,['normal'],Normal
+46379008646265647496808259537621198985_2_da8fcy.png,"['aortic elongation', 'osteopenia', 'chronic changes', 'vascular hilar enlargement']",Abnormal
+167737224622959433743089260902213249639_f2zxzj.png,"['pneumonia', 'COPD signs', 'infiltrates']",Abnormal
+70543697037161398282560969435563026554_tmm1v6.png,['apical pleural thickening'],Abnormal
+15107049645809511679288048809187546101_pmudt6.png,['normal'],Normal
+233202571007896468640039430513757759224_878gyo.png,['normal'],Normal
+267833772010892593089264218761280405562_um75t8.png,"['COPD signs', 'calcified granuloma', 'apical pleural thickening']",Abnormal
+71967577074474769829580524120203431861_kiv9zf.png,"['alveolar pattern', 'pneumonia']",Abnormal
+202914753541581777147138457451737809501_bl83rq.png,['normal'],Normal
+46293065799264309631352497706215576474_2x5wo6.png,['normal'],Normal
+300267262729674158637400417724986237777_hbnid7.png,['laminar atelectasis'],Abnormal
+151527492118836714546138020981693960318_sriw50.png,['normal'],Normal
+115966285353466843678869847196774389925_iocuxb.png,['normal'],Normal
+333090806623001149910093970643992909153_hh557f.png,['normal'],Normal
+126139785608348127263466229447757870413_hvb6a1.png,['normal'],Normal
+123042048066165126657912016144971141219_0w5mwt.png,"['aortic elongation', 'calcified adenopathy', 'vascular hilar enlargement', 'apical pleural thickening']",Abnormal
+142175021183018698844774699069782957597_9jomkq.png,['laminar atelectasis'],Abnormal
+34190375058320418686442955690648674474_yz0ser.png,['normal'],Normal
+293697133488235772028511999891810224377_haki0j.png,"['nipple shadow', 'gynecomastia', 'pseudonodule']",Abnormal
+114221903857275032517962974283090578558_67sd08.png,"['aortic atheromatosis', 'aortic elongation', 'cardiomegaly']",Abnormal
+46643123408075113761005140223360099296_ubac40.png,['COPD signs'],Abnormal
+66213201756927956963062153040402208754_eob3jc.png,"['aortic elongation', 'emphysema', 'flattened diaphragm', 'apical pleural thickening', 'fibrotic band']",Abnormal
+317154029506217091334018120937565469870_4qtjkh.png,"['scoliosis', 'hemidiaphragm elevation']",Abnormal
+232538572936349033119391992225488992653_qlczmp.png,['normal'],Normal
+49538570955854652971715060419437210854_qfxazj.png,"['alveolar pattern', 'vertebral anterior compression', 'sternotomy', 'cardiomegaly', 'volume loss', 'pneumonia']",Abnormal
+201190733628654218465834255773673962939_ba2gg8.png,"['nipple shadow', 'pseudonodule']",Abnormal
+167307245194844539597855183289289215195_21x5qh.png,"['COPD signs', 'vertebral anterior compression', 'kyphosis']",Abnormal
+227231568938281293680931363776930516291_fu4zwc.png,['normal'],Normal
+41025852279650877391739610683622140116_3muymj.png,['normal'],Normal
+14237851138739831529233654823291091615_e9ftp4.png,['normal'],Normal
+126843190386748489564832477074082763625_3x2s0m.png,['normal'],Normal
+100702512704517523898043432543968415038_8gt6pb.png,['normal'],Normal
+273058447661720204644388082989394054027_qqukbw.png,['normal'],Normal
+188841178094099107584657139579982484366_bwhify.png,['normal'],Normal
+170430301401778492239969290002586124832_q0prhx.png,['normal'],Normal
+96774135289388181265971762050093134493_cbvz4s.png,['vertebral degenerative changes'],Abnormal
+67456269465673300555624643669263658752_7i7kje.png,['normal'],Normal
+17033630764890336410027220758167855341_2sm58i.png,"['COPD signs', 'hiatal hernia']",Abnormal
+107896670649466959943528865810374148479_wk5807.png,"['infiltrates', 'increased density', 'vascular hilar enlargement', 'pneumonia']",Abnormal
+116186850374391348067499778992725717297_qpu8bx.png,"['chronic changes', 'hilar enlargement']",Abnormal
+139473599315587471971438862052437623149_y44het.png,"['COPD signs', 'interstitial pattern', 'flattened diaphragm']",Abnormal
+190958769406567902406648350575785492366_239i3k.png,['costophrenic angle blunting'],Abnormal
+163990977153422026301903320805632535488_a7p35b.png,['normal'],Normal
+200037166244210679122674198089556223862_cxakla.png,"['pseudonodule', 'mastectomy']",Abnormal
+141132901682101873654264526106300666806_e1ys3q.png,['normal'],Normal
+280592939791777633627371207320923536774_679817.png,"['bronchiectasis', 'granuloma', 'interstitial pattern']",Abnormal
+123185780509134144135958695447452353402_2_44yugh.png,"['costophrenic angle blunting', 'hemidiaphragm elevation']",Abnormal
+123185780509134144135958695447452353402_gz0d2z.png,"['hemidiaphragm elevation', 'cardiomegaly']",Abnormal
+247838920193307905492713009580138541565_8xy906.png,['normal'],Normal
+84856267960116899671078402865134921840_j5zwtq.png,"['aortic elongation', 'kyphosis', 'cardiomegaly']",Abnormal
+299420305281233550920060688828621122413_wetjhm.png,['normal'],Normal
+223691601105735836265163569344813776131_rwxoj2.png,"['aortic elongation', 'vascular hilar enlargement']",Abnormal
+211892344483162433574776737404117642273_3c3ixd.png,['normal'],Normal
+50853478421916599956230038505690473458_o5w0nn.png,['normal'],Normal
+24716339483627393401392199056832608433_wtt5qq.png,"['aortic elongation', 'cardiomegaly']",Abnormal
+304122111963096712497945624277811930791_ebvg3v.png,"['flattened diaphragm', 'callus rib fracture', 'chronic changes', 'volume loss']",Abnormal
+62278606681368442935251823564170291782_kto0kr.png,['hiatal hernia'],Abnormal
+257929831622162261558513910757442684270_3d0gac.png,"['osteosynthesis material', 'COPD signs', 'air trapping']",Abnormal
+63762816539493289086301097410257575426_cg31ng.png,"['air bronchogram', 'bronchovascular markings', 'infiltrates', 'pneumonia']",Abnormal
+263227085667685597305640898123522243288_yiwz10.png,['hemidiaphragm elevation'],Abnormal
+233731197458133799589892121491610645461_we9ogo.png,['normal'],Normal
+229831763088897874160999758501066239535_igjc5n.png,['normal'],Normal
+98608321150620092813762273102495411644_ejs5ir.png,"['laminar atelectasis', 'COPD signs', 'nodule', 'volume loss']",Abnormal
+215219037634010590711383844630085948407_8vtak2.png,"['aortic elongation', 'chronic changes', 'cardiomegaly']",Abnormal
+302170024532662758023151114698711568187_tyhes9.png,['normal'],Normal
+74481013383807011873612312553491713900_ocggp7.png,"['atelectasis', 'pseudonodule', 'infiltrates']",Abnormal
+171556666526013956421543231811856775277_ptsaiw.png,['normal'],Normal
+213620143904808823257889393519752381910_wkhzt0.png,['normal'],Normal
+285290386711761684769273546462266756930_bhjypk.png,"['pseudonodule', 'costophrenic angle blunting']",Abnormal
+191042708682104004488286484376623945051_gdszlb.png,['suboptimal study'],Abnormal
+22587533411370834551518485064848866764_1m9kc6.png,"['COPD signs', 'pleural effusion', 'air trapping']",Abnormal
+62635517325770766322821153938790593514_vy58rt.png,['normal'],Normal
+173766430536382836275840746126468196031_8ezi3z.png,['vertebral degenerative changes'],Abnormal
+165905050649192275130728631578319404501_h98f76.png,"['heart insufficiency', 'cardiomegaly', 'interstitial pattern', 'vascular hilar enlargement', 'fissure thickening']",Abnormal
+14471334300576217484517703963820459468_2_1l39x1.png,"['atelectasis', 'heart insufficiency', 'pacemaker', 'cardiomegaly', 'sternotomy', 'pleural effusion', 'interstitial pattern', 'suture material']",Abnormal
+145698282304700116300882843111967537977_f6qhtv.png,"['vertebral degenerative changes', 'calcified granuloma', 'cardiomegaly']",Abnormal
+283988526046067441987874034959150979940_pveco3.png,['normal'],Normal
+299115071382937379007809993394086716300_uu4ka1.png,"['aortic elongation', 'nipple shadow', 'thoracic cage deformation']",Abnormal
+1687250409855218547044374510577792017_r74s2t.png,['normal'],Normal
+238783516153768977156231365977451890081_saos97.png,['normal'],Normal
+73127256809386363094384167778252900125_zj0fz8.png,"['interstitial pattern', 'vertebral degenerative changes']",Abnormal
+237589284200619304470584433806441507256_q9j908.png,"['COPD signs', 'vascular hilar enlargement']",Abnormal
+268838267034334038708733998581075262861_2addky.png,['normal'],Normal
+65769018201185758078108695660212988067_xi2eq6.png,"['infiltrates', 'COPD signs']",Abnormal
+1753917273994229888736558394902465555_42owns.png,['normal'],Normal
+155453179703190309750447464352699308773_bvd06n.png,['scoliosis'],Abnormal
+182861957837108040628912543518968270231_x24z8c.png,['COPD signs'],Abnormal
+204894591024837303501717383400712474780_55woga.png,"['aortic elongation', 'pseudonodule', 'chronic changes', 'hemidiaphragm elevation']",Abnormal
+96313722429918622858247474870850333106_vasrzg.png,['normal'],Normal
+297727761328291919801925635335427209630_lbb7qg.png,['normal'],Normal
+328495479028383596533569044744037544509_dap5lb.png,['normal'],Normal
+20554390535573196487517127811110485585_8awsqb.png,"['apical pleural thickening', 'fibrotic band', 'volume loss']",Abnormal
+83361590321977948800750165748023745574_pfyqt5.png,['normal'],Normal
+83423531682381162626407728390214264447_x0h47p.png,['vertebral anterior compression'],Abnormal
+116509046709472135417508641987232178619_iv73uf.png,['normal'],Normal
+158747953288339784545191985956465381157_wfrgvw.png,"['ground glass pattern', 'hilar enlargement']",Abnormal
+151101533909139618368584447199931437113_fsomoq.png,['tracheostomy tube'],Abnormal
+135797253136935646169905958332353538621_tf32nw.png,['normal'],Normal
+103693917093872830847809526276065588596_q5hqnk.png,['normal'],Normal
+213483790324047058736658212826860879769_852pj2.png,"['chronic changes', 'diaphragmatic eventration']",Abnormal
+36200365958263318192322969832987428982-2_p2pidw.png,"['laminar atelectasis', 'COPD signs', 'air trapping']",Abnormal
+36200365958263318192322969832987428982_bzn6cf.png,"['alveolar pattern', 'pneumonia']",Abnormal
+314996949940517834540686434644398240453_v83vhp.png,['normal'],Normal
+128019553177571837231274052915312328558_cwmrnx.png,"['fibrotic band', 'COPD signs', 'granuloma', 'apical pleural thickening', 'diaphragmatic eventration', 'tuberculosis sequelae']",Abnormal
+31959470815164252301227591365898916024_ehaagw.png,"['aortic elongation', 'alveolar pattern', 'cardiomegaly', 'costophrenic angle blunting', 'interstitial pattern']",Abnormal
+184160712249011308023218795905539732731_lnldvw.png,"['chronic changes', 'atelectasis', 'emphysema']",Abnormal
+306454472377761167397878598740821355166_kvraex.png,"['aortic elongation', 'scoliosis', 'vertebral anterior compression', 'pacemaker', 'cardiomegaly', 'osteopenia']",Abnormal
+177861987800203438910468117301897664127_p3w6g2.png,"['infiltrates', 'COPD signs']",Abnormal
+289210716728450451614529990669908470086_ubvw8s.png,['osteosynthesis material'],Abnormal
+40684479648441331589695878133203736900_na8q7j.png,"['artificial heart valve', 'sternotomy']",Abnormal
+141466484148321928231811358009636180115_mtsg33.png,"['laminar atelectasis', 'diaphragmatic eventration']",Abnormal
+141466484148321928231811358009636180115_n962gd.png,"['laminar atelectasis', 'diaphragmatic eventration']",Abnormal
+179677132147641676368431571947498327306_0u6up5.png,"['laminar atelectasis', 'cardiomegaly', 'infiltrates']",Abnormal
+293641529583582582916508649193712964934_c62x91.png,['normal'],Normal
+72704330431048329598174840240197646539_muez7y.png,['normal'],Normal
+325593548875321104087358194668207205673_ag3cpc.png,['normal'],Normal
+82967394790137034259372075168294722975_ke218p.png,['normal'],Normal
+82967394790137034259372075168294722975_l7lp3b.png,['normal'],Normal
+210685127711961524190685329615977426554_ewigpq.png,"['pacemaker', 'chronic changes', 'cardiomegaly', 'hilar enlargement', 'single chamber device']",Abnormal
+337839237886080075102873331068786610258_ci5cuq.png,"['hilar enlargement', 'volume loss']",Abnormal
+71576696584101789388311784595829594064_dtor42.png,['apical pleural thickening'],Abnormal
+41892542585387873296704012522953591011_swyprb.png,"['COPD signs', 'unchanged', 'vascular hilar enlargement', 'chronic changes', 'flattened diaphragm']",Abnormal
+106783202923995569721760983693544650484_yz9hzu.png,['normal'],Normal
+14096134166609969651057165080556005947_tycfyg.png,['normal'],Normal
+35927938238328483643566404063942889541_isvnlm.png,['normal'],Normal
+120633482677551906677235627350935112686_stgiy7.png,['normal'],Normal
+313827364452531661330025984234136435818_v79qi4.png,"['infiltrates', 'vertebral anterior compression', 'chronic changes', 'costophrenic angle blunting']",Abnormal
+277491472199114654709558694544784089534_6a2hv1.png,"['COPD signs', 'increased density']",Abnormal
+60048353672809642225021973646337383150_yx2bxu.png,['normal'],Normal
+208894309894065082219664080702605953595_kj18sw.png,['infiltrates'],Abnormal
+133810455908662857322301056725783437765_awdzfy.png,['normal'],Normal
+133810455908662857322301056725783437765_2_3p55v5.png,"['supra aortic elongation', 'vertebral anterior compression', 'aortic elongation']",Abnormal
+295060270617858212538753812452175427752_9sz58i.png,['normal'],Normal
+69490911577684823117337620603668435582_9p5t8z.png,"['COPD signs', 'air trapping']",Abnormal
+243456212902431765960017167198021400573_o5vnw7.png,['normal'],Normal
+103416378058309979932405295235813040436_1g2pmw.png,['cardiomegaly'],Abnormal
+118180376527108210111220474218496707761_eje1bh.png,"['calcified mediastinal adenopathy', 'callus rib fracture', 'pacemaker', 'dual chamber device']",Abnormal
+47240785708952577457372277283784872357_81663r.png,['normal'],Normal
+153293345630429587186796709385680858811_3o3utl.png,"['aortic elongation', 'bronchiectasis', 'increased density', 'kyphosis', 'chronic changes', 'volume loss', 'pneumonia']",Abnormal
+126202087570273230786635353089760518318_it76ab.png,['normal'],Normal
+305618270595869454324012634886831701722_cuc78u.png,"['laminar atelectasis', 'diaphragmatic eventration']",Abnormal
+274264632657332311030583859544793753621_2d46dr.png,['normal'],Normal
+283546579908709272012267716833012554508_gcstod.png,"['superior mediastinal enlargement', 'unchanged', 'chronic changes', 'supra aortic elongation', 'goiter']",Abnormal
+230596275275297844630128551639219149786_blm718.png,"['vertebral degenerative changes', 'COPD signs', 'fibrotic band', 'pectum excavatum', 'scoliosis', 'air trapping', 'chronic changes']",Abnormal
+96784393133531439379897301139103598723_zmxwnm.png,['infiltrates'],Abnormal
+252229777090678334001469484589855079632_4x5x6j.png,"['vertebral degenerative changes', 'chronic changes', 'kyphosis', 'emphysema']",Abnormal
+326573831017322202163373563206618229096_w7dtps.png,"['aortic elongation', 'cardiomegaly']",Abnormal
+110519052386194207164409449747965117000_7beyfs.png,['normal'],Normal
+227214703166515185384761239589342114080_0tezlr.png,['vertebral degenerative changes'],Abnormal
+202454222413441561317335913720230380822_12q3jv.png,"['aortic elongation', 'superior mediastinal enlargement', 'scoliosis', 'lobar atelectasis', 'vertebral degenerative changes']",Abnormal
+236837950756028937177550693868318736059_e7rkyv.png,['normal'],Normal
+240411033670065537534782517623489164243_i2xtw5.png,['normal'],Normal
+287597713864927928767671713967236346421_1oo0at.png,['pectum excavatum'],Abnormal
+225341556067661724652008228231993046847_ululun.png,['pneumonia'],Abnormal
+308945054823978938447250962134271570306_xq9psg.png,"['nodule', 'nipple shadow']",Abnormal
+287719319321153624061397178340343835076_i8va68.png,['normal'],Normal
+99744230716892055301280916536204938895_o8z84i.png,"['aortic elongation', 'hiatal hernia', 'unchanged', 'vascular hilar enlargement']",Abnormal
+26794865525174289406855403023963853399_jf1e75.png,['normal'],Normal
+271334423837223552814578392077200194754_5dbnbi.png,"['vertebral degenerative changes', 'vertebral anterior compression', 'granuloma', 'calcified granuloma', 'pacemaker', 'chronic changes', 'cardiomegaly', 'surgery', 'dual chamber device']",Abnormal
+302162050688390935336479591975299882804_1k67ug.png,['normal'],Normal
+233678231301452721936080852159814944438_glgnmb.png,"['pseudonodule', 'chronic changes', 'costochondral junction hypertrophy']",Abnormal
+163349916246478370239514094534504209824_c5jkm1.png,"['COPD signs', 'air trapping']",Abnormal
+291672510128346669511175256639257226641_829bil.png,['normal'],Normal
+153305457916633992513117789243669497893_yh6o55.png,"['atelectasis', 'chronic changes', 'costophrenic angle blunting']",Abnormal
+17651906932213847884957685787371609478_ock1vn.png,['normal'],Normal
+133871512340084216113265049286533898931_g3m3c3.png,"['callus rib fracture', 'hemidiaphragm elevation']",Abnormal
+184430233413201130855349678304422389790_eg44cp.png,['scoliosis'],Abnormal
+164017119518390650969818817894515907468_owmfy7.png,"['COPD signs', 'apical pleural thickening']",Abnormal
+334822574353700970293373055158451687365_dlq1e1.png,"['COPD signs', 'hilar enlargement', 'flattened diaphragm']",Abnormal
+174639644268858078426473611437395216330_63z7it.png,['emphysema'],Abnormal
+33740345686044111418845533862488421764_g1hymq.png,"['bronchovascular markings', 'pneumonia']",Abnormal
+15686692976738192701599515985506061492_j95xlw.png,['normal'],Normal
+79572017652284514867602871878119265537_eodsts.png,['granuloma'],Abnormal
+315561923385529736792209511615807371083_vp3281.png,"['chronic changes', 'emphysema', 'air trapping']",Abnormal
+315561923385529736792209511615807371083_2_ytb6y8.png,"['aortic button enlargement', 'COPD signs', 'tracheal shift']",Abnormal
+208248471282703293107468808921669122835_oj70ev.png,"['descendent aortic elongation', 'supra aortic elongation', 'cardiomegaly', 'superior mediastinal enlargement']",Abnormal
+171247971982140813386272483710639413171_8nww2r.png,"['COPD signs', 'unchanged', 'fibrotic band', 'volume loss', 'chronic changes']",Abnormal
+180356632754511318964635733763835984580_9fxebn.png,['normal'],Normal
+339579917621882366198358892972226558220_he6hzk.png,"['aortic elongation', 'osteoporosis', 'nodule', 'vertebral degenerative changes']",Abnormal
+327854852154259821766884725572883938416_8dqym3.png,['normal'],Normal
+226188962506330706244027020364525709041_9ht8yr.png,['normal'],Normal
+8162248827589114980581714375177857504_o48kiq.png,"['vertebral anterior compression', 'vascular hilar enlargement', 'kyphosis']",Abnormal
+247311127977117603191009495724270716833_a7uuyj.png,"['hydropneumothorax', 'rib fracture', 'hemidiaphragm elevation', 'subcutaneous emphysema', 'volume loss']",Abnormal
+7392435066997451302468974400572921861_skal7a.png,"['vertebral degenerative changes', 'COPD signs', 'lobar atelectasis', 'bronchiectasis']",Abnormal
+15687261637352616204765362016099227471_sjmp1f.png,"['fibrotic band', 'laminar atelectasis']",Abnormal
+310909133069898898944199533899305329896_3lakgw.png,['normal'],Normal
+299965366454749034109310025018330454257_51ind7.png,['normal'],Normal
+160030726658799673258643196827510364296_e9e08y.png,"['emphysema', 'azygos lobe']",Abnormal
+269577503052282080020245006456074886585_yqub0o.png,['cardiomegaly'],Abnormal
+147825967577633079633246278172270932630_-tzug5.png,['vertebral degenerative changes'],Abnormal
+179459420780502875262806071880734495827_nn1e95.png,['normal'],Normal
+271868703697215337220097885558802539277_8953ky.png,"['surgery breast', 'volume loss', 'minor fissure thickening']",Abnormal
+132893921626118852886919715728134079919_6v2ald.png,"['interstitial pattern', 'vertebral degenerative changes', 'COPD signs']",Abnormal
+237607225571029521574521218345354655436_agw4ut.png,"['chronic changes', 'cardiomegaly']",Abnormal
+228232119408525787268955807368435260127_2_z241ni.png,['normal'],Normal
+228232119408525787268955807368435260127_u03d28.png,['normal'],Normal
+179379844210261147132988982390244194911_72t6fy.png,['laminar atelectasis'],Abnormal
+216172403483304837162368346437639295540_5njdjl.png,"['aortic elongation', 'scoliosis', 'chronic changes', 'cardiomegaly', 'costophrenic angle blunting']",Abnormal
+226829957383647908806960251822160376910_rs1stp.png,"['COPD signs', 'air trapping']",Abnormal
+238503808012299982318590453993744679088_ky2ryh.png,"['aortic elongation', 'calcified densities', 'COPD signs', 'hilar enlargement', 'flattened diaphragm']",Abnormal
+218331313822244284185762986006856328253_b3urjm.png,['normal'],Normal
+164608607487362630100289336383609413401_x2uegh.png,"['osteopenia', 'vertebral anterior compression', 'unchanged', 'scoliosis', 'kyphosis', 'vertebral degenerative changes']",Abnormal
+214826083438705078602975790787452847096_3knshi.png,['normal'],Normal
+120881181730809470602920639533692287384_hf6jra.png,['normal'],Normal
+229757942530852891528959671284168382140_oq72uw.png,"['pulmonary mass', 'atelectasis', 'volume loss', 'scoliosis', 'aortic button enlargement', 'tracheal shift']",Abnormal
+300958768173932844625509823218570912275_a4j91p.png,['normal'],Normal
+165451390792278343946002018162778016348_qr5wsd.png,['mammary prosthesis'],Abnormal
+22604611879549732672078635180528992672_u3m5ou.png,"['air trapping', 'unchanged']",Abnormal
+277304316889720577012414657203362783634_f1fb63.png,"['laminar atelectasis', 'dai', 'pacemaker']",Abnormal
+165628150525516624444284108593979464924_qy5mil.png,['normal'],Normal
+168565417080014910393895131311467130504_3521cc.png,"['fibrotic band', 'cardiomegaly', 'central vascular redistribution', 'laminar atelectasis']",Abnormal
+291760306139408930303076189809137824599_ef4mlv.png,"['unchanged', 'chronic changes']",Abnormal
+250825719011746260998255255563068041042_owi181.png,['normal'],Normal
+224904318374059042978778904037988750967_dbs3bj.png,"['laminar atelectasis', 'COPD signs', 'aortic elongation', 'cardiomegaly']",Abnormal
+261158455957288670389517440181449946985_66mxua.png,"['flattened diaphragm', 'chronic changes', 'cardiomegaly']",Abnormal
+189438920098863434621209176115152058312_ipw5am.png,"['COPD signs', 'heart insufficiency', 'cardiomegaly']",Abnormal
+189438920098863434621209176115152058312_joj1hi.png,"['COPD signs', 'heart insufficiency', 'cardiomegaly']",Abnormal
+189438920098863434621209176115152058312_gu9yuk.png,"['COPD signs', 'heart insufficiency', 'cardiomegaly']",Abnormal
+307837247343320525045400413803135172377_2us86b.png,"['breast mass', 'adenopathy', 'costophrenic angle blunting', 'pleural effusion']",Abnormal
+294257149004764964153829274371043582671_-pvmjn.png,"['reservoir central venous catheter', 'mastectomy']",Abnormal
+312258333552108909449988192219789451713_mz3jcv.png,['normal'],Normal
+18860783514226021264278201770060237048_qo5uyi.png,['aortic elongation'],Abnormal
+89824086706670124211190207586398308735_xeqfan.png,"['gynecomastia', 'COPD signs', 'pacemaker', 'sternotomy', 'suture material']",Abnormal
+262178259191613324027033339820188845179_d2jbu9.png,['flattened diaphragm'],Abnormal
+115435769877083882302553419156008063641_ea1e3b.png,['normal'],Normal
+207929597227174809148088668611030771878_5miwjd.png,['infiltrates'],Abnormal
+54218001614466715422708396856641910668_cikdmf.png,['normal'],Normal
+287857034746373808965534733765034494469_airfcz.png,['normal'],Normal
+173009350609339943185412054882421787290_hbh8f4.png,['normal'],Normal
+212020534538597716725082438524520934018_n86taw.png,['normal'],Normal
+140371563658388052311790306359349920526_u0azv2.png,['normal'],Normal
+155821956311243261218274305204909473113_hqqwes.png,"['vertebral degenerative changes', 'surgery breast', 'unchanged']",Abnormal
+114296664005665070015856201897929807005_no9chx.png,"['scoliosis', 'COPD signs', 'costophrenic angle blunting', 'air trapping']",Abnormal
+267988963265135903345400658350506825102_pdu3mr.png,['normal'],Normal
+151017485924780986685130540365446851962_56sjpx.png,"['increased density', 'chronic changes', 'cardiomegaly']",Abnormal
+281421850655558365074182036388311893937_ief6yz.png,['normal'],Normal
+333310374920201478548071107028183056802_ws3twp.png,['normal'],Normal
+327036094760806297106265325892247564947_mbsw10.png,['normal'],Normal
+39982299394385289286846200427211184792_tc1twx.png,"['aortic elongation', 'scoliosis', 'unchanged', 'pacemaker', 'cardiomegaly', 'hilar congestion', 'metal', 'single chamber device', 'suture material']",Abnormal
+42964834793026086151788326189552596357_ifesd5.png,"['atelectasis', 'chronic changes', 'vertebral fracture', 'callus rib fracture', 'cardiomegaly', 'pleural effusion', 'bronchiectasis', 'kyphosis', 'infiltrates', 'pneumonia']",Abnormal
+103574310820693730468564151594522745265_dbnx1p.png,['normal'],Normal
+314122274182850932913937157731146121371_ghc8t7.png,"['atelectasis', 'chronic changes']",Abnormal
+335716052105158669264471631052865622101_2_d9d6kk.png,['normal'],Normal
+335716052105158669264471631052865622101_d05qud.png,"['aortic atheromatosis', 'unchanged', 'cardiomegaly']",Abnormal
+36087670612780143410349099886119640100_e20m1c.png,"['kyphosis', 'thoracic cage deformation']",Abnormal
+210146988702708476044786866178791766238_jjzfmy.png,['normal'],Normal
+210146988702708476044786866178791766238_uytksv.png,['normal'],Normal
+164965759090247526553818229905913990932_7yk0kw.png,"['scoliosis', 'COPD signs', 'air trapping']",Abnormal
+309040238750908554070942234952623367972_xlb81f.png,['scoliosis'],Abnormal
+32638156530562519795340318330423403218_t8pbme.png,['normal'],Normal
+250538383336488089851272840069475450672_2_p9d823.png,['hemidiaphragm elevation'],Abnormal
+26169876497623365016654132513954283722_wbvrsd.png,"['vertebral degenerative changes', 'pseudonodule']",Abnormal
+4164852466340131591090650472047860911_n4sx0b.png,['COPD signs'],Abnormal
+40777859283561429862345255236368030978_wo1lja.png,"['mediastinal enlargement', 'chronic changes', 'cardiomegaly', 'costophrenic angle blunting', 'descendent aortic elongation', 'interstitial pattern']",Abnormal
+44981181427867579920761169075397723799_q9fzdm.png,['normal'],Normal
+31957428029954865304650329294719739850_9ekdib.png,['normal'],Normal
+233553807218158883615642582658686989526_gm0njw.png,"['apical pleural thickening', 'fibrotic band']",Abnormal
+52647109704941058573597918032552641384_d0ey62.png,"['osteopenia', 'chronic changes']",Abnormal
+130736621470204039897088460318014148011_myuqz3.png,['normal'],Normal
+167309362957441492002933111046935235524_9mlw4o.png,['laminar atelectasis'],Abnormal
+145561627069249598772895625407927009170_xvpjhn.png,['normal'],Normal
+106467554490001827628586546173471367592_2_xd2wke.png,['COPD signs'],Abnormal
+106467554490001827628586546173471367592_6nicfw.png,"['laminar atelectasis', 'unchanged']",Abnormal
+17871096634626406062101588704809021462_ghx2ev.png,"['bronchiectasis', 'COPD signs', 'calcified granuloma', 'chronic changes']",Abnormal
+42396335523772165313459369100491702599_s9qals.png,"['scoliosis', 'vertebral anterior compression', 'apical pleural thickening', 'kyphosis']",Abnormal
+320706865937737073146019240689220221606_icz9mv.png,['normal'],Normal
+249497442188544937761761259643636460998_yazgy5.png,"['kyphosis', 'bone metastasis', 'vertebral compression', 'blastic bone lesion']",Abnormal
+316412492535252963370285545531718805257_48wppw.png,['normal'],Normal
+76805681280747134297969951034164751052_patggi.png,['COPD signs'],Abnormal
+210439879128513656692915252682168924462_jfqpmv.png,['apical pleural thickening'],Abnormal
+10383960670432673238945376919735423432_hd3moq.png,['cardiomegaly'],Abnormal
+170250383696624870069857857081974085128_enz2ux.png,"['scoliosis', 'fibrotic band', 'tuberculosis sequelae', 'volume loss']",Abnormal
+254485177946911140305368711271352831172_gfyu4j.png,"['tracheostomy tube', 'unchanged', 'vascular redistribution', 'cardiomegaly']",Abnormal
+264506896606961260354945831416545809951_10av81.png,['aortic atheromatosis'],Abnormal
+72059860944573910530634650688849966040_drywfi.png,['normal'],Normal
+136166641026343117685418819972556374744_2jbiww.png,['normal'],Normal
+121583465500570295421501218526050926923_amd3cr.png,['normal'],Normal
+271538536433331372225855132705548256566_ez3hdw.png,['normal'],Normal
+115924652313173901623154168778263309574_i1uhuj.png,"['kyphosis', 'air trapping', 'unchanged']",Abnormal
+61782768159459504544773273716627845819_thdw7j.png,"['vertebral degenerative changes', 'pulmonary fibrosis', 'pleural thickening', 'scoliosis', 'interstitial pattern']",Abnormal
+238816059792161009653712197144789478681_a1ylcw.png,"['COPD signs', 'vascular hilar enlargement']",Abnormal
+88384111141018197482738265860146005752_hpuu0z.png,"['laminar atelectasis', 'scoliosis', 'hiatal hernia', 'increased density', 'sternotomy', 'volume loss', 'mediastinic lipomatosis']",Abnormal
+109155552836142728349220990120495680835_t996ph.png,['normal'],Normal
+53139581023247562859961808225101213022_ynbqzr.png,"['nodule', 'reservoir central venous catheter']",Abnormal
+290816616782221078148532720129372461343_u9ddoi.png,['normal'],Normal
+62135547800538268142200503321999655792_eukew9.png,"['COPD signs', 'interstitial pattern']",Abnormal
+259145062094895114735720541066521219428_bnq2sy.png,['normal'],Normal
+259145062094895114735720541066521219428_7wuvju.png,['normal'],Normal
+139532691303812624931489701417310586080_hawqx2.png,"['air trapping', 'apical pleural thickening']",Abnormal
+11350722620076385856974384506713868506_pd6vtv.png,"['pseudonodule', 'fibrotic band']",Abnormal
+268205918191907829962236147945722405203_s9tdk8.png,['normal'],Normal
+268205918191907829962236147945722405203_t6vo2s.png,['normal'],Normal
+268205918191907829962236147945722405203_tofrlw.png,['normal'],Normal
+109663562697020799553542895231436757445_hml23h.png,['COPD signs'],Abnormal
+62585132641625650093497548919425693176_hfq19f.png,['normal'],Normal
+149296915029673875079480829065530554905_9l6rs0.png,['azygos lobe'],Abnormal
+226068869422499289661538388409400944743_j6anlg.png,"['COPD signs', 'apical pleural thickening']",Abnormal
+131657200593623858051446469498936130634_2defxd.png,"['pleural effusion', 'apical pleural thickening', 'minor fissure thickening', 'unchanged', 'costophrenic angle blunting', 'pseudonodule']",Abnormal
+111278596223347018369130150253315403964_x77z4k.png,['normal'],Normal
+114423946033767506884698286401202623927_0ec2ga.png,['aortic elongation'],Abnormal
+314038492226161325294923017241847045969_wd76c4.png,['nodule'],Abnormal
+314038492226161325294923017241847045969_wt3yb8.png,['nodule'],Abnormal
+333948392665908122790539664882890742625_x6uppl.png,"['infiltrates', 'scoliosis']",Abnormal
+162375105391022140348520800453662020917_w6llre.png,['normal'],Normal
+5360585850792522138565524792531378288_n6xfsr.png,['diaphragmatic eventration'],Abnormal
+247641082249658568045346332835534508608_01t29i.png,['normal'],Normal
+171365396239594148396196633436773224341_jbhly2.png,['normal'],Normal
+81141936643671768695793453960092403269_k6h7kc.png,"['infiltrates', 'sclerotic bone lesion', 'unchanged', 'cardiomegaly']",Abnormal
+190257144228557849088595251582119574838_q5g27d.png,"['artificial heart valve', 'sternotomy', 'metal', 'suture material', 'pacemaker']",Abnormal
+324319357987485948342064713373219301374_4xzq6x.png,['normal'],Normal
+258653165000621629154916591604777692187_uxwl33.png,"['atelectasis', 'heart insufficiency', 'cardiomegaly', 'costophrenic angle blunting', 'consolidation', 'pneumonia', 'pleural effusion']",Abnormal
+25452979847839860514034085941828172397_8q1og8.png,"['kyphosis', 'COPD signs', 'rib fracture', 'costophrenic angle blunting']",Abnormal
+136192798401146769912721768124366779015_byw5zp.png,['apical pleural thickening'],Abnormal
+105166453729456600892435148161764120829_ybsapn.png,"['costophrenic angle blunting', 'interstitial pattern']",Abnormal
+67174718755424410647421129526728544213_c3gpn1.png,['normal'],Normal
+20195404170656570359838833256668251297_rp8mty.png,['normal'],Normal
+266385479914712516450298708701579758245_tjtmux.png,"['chronic changes', 'costophrenic angle blunting', 'diaphragmatic eventration']",Abnormal
+336789248306641946122626527082624665270_8ixpec.png,['hilar enlargement'],Abnormal
+117258873674447430678972137035363712273_l6ojkl.png,['COPD signs'],Abnormal
+72195964114206360192022104650421446062_ogmd2p.png,"['COPD signs', 'callus rib fracture', 'aortic elongation', 'azygoesophageal recess shift', 'hiatal hernia']",Abnormal
+217315156214866694828648890360589958094_db1j1e.png,"['COPD signs', 'vertebral anterior compression']",Abnormal
+286290899999844262156186920162495407476_ldydmf.png,"['alveolar pattern', 'interstitial pattern', 'pneumonia']",Abnormal
+255722555676976219034817417247522175712_yl91pp.png,"['aortic elongation', 'hiatal hernia']",Abnormal
+255685135940885410514594136492164638096_m86wzw.png,"['aortic elongation', 'scoliosis', 'COPD signs', 'cardiomegaly']",Abnormal
+176391762993121406475263926027453130035_w2l7j9.png,"['superior mediastinal enlargement', 'pulmonary mass', 'nodule', 'chronic changes', 'supra aortic elongation', 'goiter']",Abnormal
+290753900827322793404003035765047540117_oito6u.png,['pectum excavatum'],Abnormal
+74138041746990991750354395922476361801_lsg2xx.png,"['COPD signs', 'costophrenic angle blunting']",Abnormal
+79728422962937099467547044478348872725_yrcrlx.png,['aortic elongation'],Abnormal
+136375219632462521931898533848264863142_5n9dk5.png,"['aortic elongation', 'scoliosis', 'COPD signs', 'pseudonodule', 'callus rib fracture']",Abnormal
+60755394997734342116595275289191479112_ui04a4.png,['hiatal hernia'],Abnormal
+145380459765687724716404258126556031463_gw088y.png,"['atelectasis', 'increased density', 'chronic changes', 'costochondral junction hypertrophy', 'pneumonia']",Abnormal
+125574923881360251375366407283558768562_n100ji.png,"['unchanged', 'cardiomegaly', 'diaphragmatic eventration', 'vascular hilar enlargement']",Abnormal
+228505125625411655559042398552685461655_cvearx.png,"['COPD signs', 'cardiomegaly']",Abnormal
+228505125625411655559042398552685461655-2_6s2lez.png,"['pneumonia', 'COPD signs', 'infiltrates']",Abnormal
+165391591907455013564371081510566314089_q7zm6z.png,['normal'],Normal
+9843354214953121119984032515630785434_fe4de5.png,"['COPD signs', 'unchanged', 'pseudonodule', 'humeral fracture', 'infiltrates', 'pneumonia']",Abnormal
+131245254841511017957915714330587870207_jlxvk5.png,['normal'],Normal
+97222490305586173049054429464664595846_idcsa8.png,['normal'],Normal
+7236320122922059402885847467572564402_ip6rt3.png,['increased density'],Abnormal
+296985314791905709264841678999030312822_s6qwp4.png,['calcified pleural thickening'],Abnormal
+332274383993234127574270189077094229741_boh4rw.png,"['vertebral degenerative changes', 'scoliosis', 'vertebral anterior compression', 'unchanged', 'vascular hilar enlargement']",Abnormal
+276605451379683743640005245843650899977_1ogs3q.png,"['scoliosis', 'suture material', 'mammary prosthesis', 'hemidiaphragm elevation', 'surgery']",Abnormal
+48012150330353852614178980375361623364_dum03x.png,['calcified granuloma'],Abnormal
+287187719702083050936268535624341882515_1174df.png,['infiltrates'],Abnormal
+131795965428688116781342258108495578977_frtedi.png,['normal'],Normal
+159068920744014579732054248805200438850_et4fpq.png,['normal'],Normal
+186278875802279459082127556532126481623_5as3cp.png,"['aortic elongation', 'scoliosis', 'fibrotic band', 'cardiomegaly', 'hemidiaphragm elevation', 'laminar atelectasis']",Abnormal
+308217436593227647094007970137612559329_31lrd6.png,['increased density'],Abnormal
+99239216863709015399201943666089012785_v2ekpy.png,['normal'],Normal
+99239216863709015399201943666089012785_t7vkmq.png,['normal'],Normal
+208622714672496361979101298586098351575_bmbth7.png,['normal'],Normal
+136229994878669378827752992323939456114_fda99p.png,"['aortic elongation', 'vertebral degenerative changes']",Abnormal
+257475948814337233640540177569885227207_jaj8iw.png,"['unchanged', 'cardiomegaly']",Abnormal
+69358497963307022964391050707007109556_5tjbv7.png,['metal'],Abnormal
+196726964670839649100944231473783958169_zpujbg.png,['normal'],Normal
+264850984196768431768478158752438381227_nxtfdb.png,['normal'],Normal
+322662549437856780553356943882184497110_bbdto0.png,['normal'],Normal
+42731148699722271773860776581443773397_vz44u7.png,['normal'],Normal
+6448036096522810528983432022871625792_2_9ocsrl.png,"['COPD signs', 'callus rib fracture', 'unchanged']",Abnormal
+183015358365143057505179447738658721643_9ibtf0.png,['normal'],Normal
+29776696218515980902287908064439351470_de509n.png,['normal'],Normal
+193798766421977262665136124311708141245_tandql.png,['normal'],Normal
+265277901747853388890875366650243434155_d1bcdr.png,"['unchanged', 'vascular hilar enlargement']",Abnormal
+330242083983621211009371072590650627215_kqixve.png,['normal'],Normal
+125514454512008724012593768693466003518_qtgfig.png,['normal'],Normal
+137087539258611435454217091106275106567_sky1h4.png,"['scoliosis', 'nodule', 'clavicle fracture']",Abnormal
+298149040633114999608465298497047095796_b73q3m.png,"['COPD signs', 'pacemaker', 'gynecomastia']",Abnormal
+256590622319962749312727686594651462497_xo7k13.png,['normal'],Normal
+223555947491368792828321438841492825934_f3q6ww.png,['air trapping'],Abnormal
+304962610418532425494559097730421856721_s1z37a.png,['normal'],Normal
+196858554321216112730762095312972663657_xw2309.png,"['bronchiectasis', 'scoliosis', 'vertebral degenerative changes']",Abnormal
+235853514537661378209836459660303802572_-bl64a.png,"['ascendent aortic elongation', 'aortic elongation', 'laminar atelectasis', 'scoliosis', 'fibrotic band', 'cardiomegaly', 'apical pleural thickening', 'hilar enlargement', 'chronic changes']",Abnormal
+126285693481594194255244003469424468073_fk3y1h.png,['normal'],Normal
+80249210396296192433630402206053674563_ua9yod.png,['normal'],Normal
+27095814732169247564424899149974916238_szk086.png,['callus rib fracture'],Abnormal
+43701918765109791602877705932293625736_h4fwzp.png,"['COPD signs', 'apical pleural thickening', 'air trapping']",Abnormal
+143565975503834219459308232388839559913_k31dyh.png,['normal'],Normal
+293858699887918266176770269308514913829_vidbke.png,"['humeral fracture', 'fibrotic band', 'chronic changes']",Abnormal
+31649257979190909729412190567687568989_xgstto.png,"['aortic elongation', 'vertebral degenerative changes', 'fibrotic band', 'suboptimal study', 'vascular hilar enlargement', 'apical pleural thickening', 'chronic changes']",Abnormal
+6810211655893064695555157316210481137_ljor1h.png,['normal'],Normal
+230116782779421561454466256768554783517_cg49ag.png,"['alveolar pattern', 'interstitial pattern', 'tuberculosis', 'cavitation']",Abnormal
+127644192456248637244143018682808611253_94k52r.png,"['apical pleural thickening', 'vascular hilar enlargement', 'chronic changes']",Abnormal
+74917312671799168542743525899758357293_h38u2w.png,"['COPD signs', 'vertebral anterior compression', 'air trapping']",Abnormal
+74917312671799168542743525899758357293_2_ys1y01.png,"['COPD signs', 'infiltrates', 'pneumonia']",Abnormal
+100069103068753688347522093561206841448_7197k3.png,['normal'],Normal
+176423692506475467076160271130463603532_v2zg5m.png,"['COPD signs', 'scoliosis', 'lung vascular paucity']",Abnormal
+207553357070787521548197803418099248731_6tum7r.png,"['infiltrates', 'fibrotic band', 'reticulonodular interstitial pattern']",Abnormal
+285697481698115744354956478189171021078_pce6h9.png,"['laminar atelectasis', 'hiatal hernia']",Abnormal
+249477080920546225827245735202039462722_ck6dja.png,['normal'],Normal
+64268595890408749153092234095697948176_hzfe2y.png,['normal'],Normal
+237198192749976081902285393731543694323_hhnsck.png,['normal'],Normal
+233905759048914064476037658422725341274_xue236.png,['normal'],Normal
+19561653869349573322942924898917482282_iw7yhq.png,['normal'],Normal
+33728467384543072824771678110722875201_f9qa0p.png,"['aortic elongation', 'laminar atelectasis', 'scoliosis', 'cardiomegaly']",Abnormal
+193738349776905072352976549418578417477_mhs9nk.png,['COPD signs'],Abnormal
+167032634477297233088165558232309508256_7ahg1q.png,"['multiple nodules', 'adenopathy', 'atelectasis', 'reservoir central venous catheter', 'pleural effusion', 'lung metastasis', 'increased density', 'pulmonary mass']",Abnormal
+326757620495733366707854856525195179736_3q619g.png,['normal'],Normal
+326757620495733366707854856525195179736_2_bb2yiw.png,['normal'],Normal
+170105682755600403995613978344299710564_rhae2u.png,['normal'],Normal
+139800616849387851945955722671798801084_uzjkne.png,"['aortic button enlargement', 'goiter', 'scoliosis', 'tracheal shift']",Abnormal
+42059995756210540059497515595439314430_xptvk1.png,"['pulmonary fibrosis', 'interstitial pattern']",Abnormal
+175947494616686471048599326210410523855_3qxry1.png,['suboptimal study'],Abnormal
+191595424739719221733944878410985516697_xlhms3.png,['vertebral degenerative changes'],Abnormal
+191595424739719221733944878410985516697_hzlxg1.png,['vertebral degenerative changes'],Abnormal
+183894135339655632846480150602003270436_or05pf.png,"['aortic atheromatosis', 'nipple shadow', 'subacromial space narrowing', 'chronic changes', 'pseudonodule']",Abnormal
+182214620441455231452265201274793036715_68fpgd.png,['normal'],Normal
+39599569448592645659702181110585918377_pktkmf.png,['scoliosis'],Abnormal
+253375358358279473233972445305796609899_2_nidjnr.png,"['bronchiectasis', 'chronic changes', 'apical pleural thickening', 'fibrotic band']",Abnormal
+253375358358279473233972445305796609899_8uyqet.png,"['bronchiectasis', 'infiltrates', 'chronic changes', 'apical pleural thickening', 'increased density', 'fibrotic band', 'pneumonia']",Abnormal
+42203490673044231509017899571234170831_4vnmws.png,['normal'],Normal
+99072068009712518821028609162921939068_itv1ob.png,['normal'],Normal
+127648303036658248736521273399332961708_4rwzpf.png,"['chronic changes', 'air trapping', 'flattened diaphragm']",Abnormal
+188627314351498178666518971360904019313_xc9q8e.png,['normal'],Normal
+14395413520360538946885944179098868800_yzqb1j.png,['normal'],Normal
+179552505259020657873150205958023693034_6v3s7h.png,['normal'],Normal
+125526239845305241326100360000150422092_5t5byu.png,"['apical pleural thickening', 'fibrotic band']",Abnormal
+203618370854520437966036153359422182314_rdigky.png,['atelectasis'],Abnormal
+212846840264305466628793488313595881431_gw0cbx.png,['normal'],Normal
+291683326217923118778516478733155739873_c0thuf.png,"['infiltrates', 'volume loss']",Abnormal
+122016447597640622316040579510590490350_v1y22a.png,['vascular hilar enlargement'],Abnormal
+168212671048399705748394204754504721896-2_mkfpzx.png,['normal'],Normal
+168212671048399705748394204754504721896_ej31md.png,['COPD signs'],Abnormal
+96177817392880310198903920076785335438_udjge6.png,"['aortic elongation', 'bronchiectasis', 'osteopenia', 'vertebral degenerative changes', 'fibrotic band', 'vascular hilar enlargement', 'chronic changes']",Abnormal
+256032768529141247754299574213153179760_8wduko.png,"['COPD signs', 'unchanged', 'air trapping']",Abnormal
+118786461170491574888380527209308294248_2da95g.png,"['nipple shadow', 'apical pleural thickening', 'pseudonodule']",Abnormal
+119871784850186240861918351690361972430_gw6bg6.png,"['unchanged', 'fibrotic band']",Abnormal
+50144026455799953935962459299287199463_hfjewn.png,['normal'],Normal
+102255812911480982201406764814400797841_b7jtf8.png,['normal'],Normal
+187005826749099438870727054180224395286_klpssx.png,['normal'],Normal
+270516660327767089565684753343889169245_em41gv.png,"['scoliosis', 'suboptimal study']",Abnormal
+268944276855041138267266285780780373503_gvohcu.png,['scoliosis'],Abnormal
+326104235921562785862690086059390065688_v9fvf3.png,['normal'],Normal
+227870138678456332643958548591541465651_m4w64r.png,"['air trapping', 'chronic changes', 'apical pleural thickening', 'fibrotic band']",Abnormal
+185851019001301107875904518500486800100_53a65u.png,['normal'],Normal
+240491556383687688782766990544720453351_mzj6fp.png,['increased density'],Abnormal
+118001352908249833530361392518113705108_miz1i8.png,"['artificial heart valve', 'heart insufficiency', 'nipple shadow', 'chronic changes', 'sternotomy', 'pseudonodule']",Abnormal
+339022053292473030632546619023290120104_we7h97.png,['hyperinflated lung'],Abnormal
+275141912861273967941575707061347549639_kv0nbh.png,['normal'],Normal
+42532905691772565136947674464777958595_ps40s2.png,['normal'],Normal
+336180088310397132399172190224129482058_pc3rhs.png,['normal'],Normal
+52187999317873550926536095835980933249_2_el0ar4.png,['aortic elongation'],Abnormal
+52187999317873550926536095835980933249_9h1nx6.png,"['aortic elongation', 'unchanged', 'calcified densities']",Abnormal
+203789002165596537116833612453698539888_7i8icv.png,['normal'],Normal
+203789002165596537116833612453698539888_2_gdboup.png,['suboptimal study'],Abnormal
+292603641585786613431963267421849679416_2red83.png,"['scoliosis', 'metal']",Abnormal
+258544873835236233245120104173800890020_fqyqxy.png,"['scoliosis', 'COPD signs', 'fibrotic band', 'sternotomy', 'costophrenic angle blunting', 'suture material']",Abnormal
+170209645039958998242924874946764445477_dz5q1j.png,['vertebral degenerative changes'],Abnormal
+226522725583577147861656157517779349400_xk12cn.png,['air trapping'],Abnormal
+311133795571850334324676751188503542321_izi8wv.png,['normal'],Normal
+321843709075819864852931304228702482593_titpqc.png,['normal'],Normal
+240239684016317981942461654319479864514_rlyx0w.png,"['apical pleural thickening', 'unchanged', 'fibrotic band', 'volume loss']",Abnormal
+240239684016317981942461654319479864514_2_290gxu.png,"['apical pleural thickening', 'unchanged', 'fibrotic band', 'volume loss']",Abnormal
+176167461341925701877910073237442059298_9bijqv.png,['suboptimal study'],Abnormal
+47986250400886950644942908347178116670_p2clsu.png,['normal'],Normal
+329335989209497176813022335020065891543_rqkmdt.png,"['aortic elongation', 'laminar atelectasis', 'aortic atheromatosis']",Abnormal
+117318964080022706160953386250689149216_w499jh.png,['normal'],Normal
+217957054112931768255394889709366293610_jozdkq.png,"['fibrotic band', 'nodule', 'unchanged', 'apical pleural thickening']",Abnormal
+123704708096537440608263618806881572330_8e82ds.png,['normal'],Normal
+22399475211595626661663186703402994581_ck364q.png,"['air trapping', 'hilar enlargement']",Abnormal
+169718156054046797553597899709548570541_ab8n6x.png,['laminar atelectasis'],Abnormal
+176795987878215522561108792067986537645_y62f5i.png,"['aortic elongation', 'scoliosis', 'COPD signs', 'air trapping']",Abnormal
+117922406082772720514160287292487390144_3qnpe6.png,"['aortic atheromatosis', 'scoliosis', 'vertebral degenerative changes', 'COPD signs', 'cardiomegaly']",Abnormal
+61823590755270520067532185499394904211_9ka2fo.png,['vertebral degenerative changes'],Abnormal
+66891125491093232341901194631654920391_m10ra6.png,"['goiter', 'unchanged', 'superior mediastinal enlargement', 'tracheal shift']",Abnormal
+250303246869442664280127845580620898614_8i842f.png,['calcified granuloma'],Abnormal
+111880579135097755851123460995130725311_a2dnfb.png,['normal'],Normal
+126422588070283444607539971137407733633_xgxwsp.png,['increased density'],Abnormal
+133328188878965499414034893176612785907_733noo.png,['normal'],Normal
+238533951345063802679941520082070488657_jvtffa.png,"['flattened diaphragm', 'calcified granuloma']",Abnormal
+308003338499698407454129016389227279536_-hv708.png,['normal'],Normal
+102712746701209822225676615490390101378_higcj8.png,['normal'],Normal
+334491213680614796241290024439888814494_8cj1ou.png,"['callus rib fracture', 'costophrenic angle blunting', 'unchanged']",Abnormal
+49570202739892257964214319334945837995_6kosp6.png,['normal'],Normal
+81589982241951720869937848639919828879_pxu8ha.png,"['COPD signs', 'callus rib fracture', 'azygos lobe']",Abnormal
+254101354610770053567873371322585248222_qz6yyu.png,['hypoexpansion basal'],Abnormal
+81130204955799527571228515957976111144_5oco1p.png,"['unchanged', 'suboptimal study']",Abnormal
+142564826733726545263688366143382001134_hr7jaj.png,['normal'],Normal
+153184507100009939253863788186109297240_16z0v9.png,"['cardiomegaly', 'hemidiaphragm elevation']",Abnormal
+316983721799861203472815594994182452357_8jywje.png,['normal'],Normal
+13833054553889548223990961753888093689_zono9x.png,['normal'],Normal
+163706812894987051996323121710749942188_lknz3l.png,"['aortic atheromatosis', 'metal', 'suture material', 'surgery heart']",Abnormal
+294178256455935802676113613382857493083_iu244u.png,['normal'],Normal
+114685728273485042483950787641496417756_dzfn65.png,"['cardiomegaly', 'vascular hilar enlargement']",Abnormal
+154043836572195942832858925610486199288_w29sh6.png,"['callus rib fracture', 'emphysema', 'infiltrates']",Abnormal
+222956057217647282514828868079597460399_i932zy.png,"['aortic elongation', 'aortic atheromatosis', 'hiatal hernia']",Abnormal
+56557128763611447525867150212753301111_19qeao.png,"['cardiomegaly', 'pectum excavatum']",Abnormal
+131603548504748381186066883008735293279_x4x4ls.png,"['chronic changes', 'cardiomegaly', 'kerley lines', 'costophrenic angle blunting']",Abnormal
+58593054217798112832578958218917924600_vyxnkw.png,['normal'],Normal
+226451404789841739558796533075747492423_2447yz.png,"['gynecomastia', 'COPD signs', 'obesity']",Abnormal
+270447654112915816721866061896165046340_asbtf9.png,['normal'],Normal
+339358698108571364176899208110708091676_hsmokw.png,['scoliosis'],Abnormal
+286222508974738085955284485852533917267_dn9nqf.png,"['laminar atelectasis', 'infiltrates']",Abnormal
+218276611197839408947643534238333999534_9jb3if.png,"['COPD signs', 'unchanged', 'gynecomastia', 'interstitial pattern']",Abnormal
+119288382858944477106774903482846761636_h900bi.png,['normal'],Normal
+288898136439106258775886021952421185943_d4qhu1.png,"['COPD signs', 'air trapping']",Abnormal
+43182412271409508481523950016325756927_40iq8b.png,['normal'],Normal
+284980314597116806931040167180894175953_6ch8rr.png,"['aortic elongation', 'increased density', 'chronic changes', 'pneumonia']",Abnormal
+94626029278153828519049955936049456710_4df2em.png,"['bronchiectasis', 'vertebral degenerative changes', 'COPD signs', 'unchanged']",Abnormal
+22959376891593524282846009871786476338_4zcjtm.png,['mammary prosthesis'],Abnormal
+118435255483348503794926258611961655880_z8mtt2.png,"['aortic atheromatosis', 'chronic changes', 'sternotomy']",Abnormal
+284976545026197627778597586615913688030_c9gu2h.png,['normal'],Normal
+190704417896422321521756100764639605040_z094pw.png,['costophrenic angle blunting'],Abnormal
+151778749555877195477870831957511926915_k4mddo.png,"['pseudonodule', 'COPD signs', 'hemidiaphragm elevation', 'infiltrates']",Abnormal
+121982858364557665434391755127892214185_1e27fz.png,"['aortic atheromatosis', 'chronic changes', 'cardiomegaly', 'hyperinflated lung']",Abnormal
+211070370305272652299569396192823957442_jcb8o2.png,"['vertebral degenerative changes', 'clavicle fracture', 'scoliosis']",Abnormal
+18643921159041220058118202597984820731_6yvqiv.png,"['mediastinal enlargement', 'apical pleural thickening']",Abnormal
+128573272564109815575306467855363928498_k97upg.png,['normal'],Normal
+97293150166439380003627776945289387534_c2f9go.png,['apical pleural thickening'],Abnormal
+37778389450576536945794468040414320547_ixf2hm.png,['normal'],Normal
+298546868369796144893003741942050761688_px723u.png,['normal'],Normal
+131398913643999824833404730811257479104_8qkeyp.png,['normal'],Normal
+241923177858086181327043917335859946062_cwu41i.png,"['chronic changes', 'vascular hilar enlargement']",Abnormal
+58624891509248513194763174912561487117_eatnow.png,['scoliosis'],Abnormal
+181726627401729469943324072326519442655_q2wnmm.png,"['superior mediastinal enlargement', 'goiter', 'vascular hilar enlargement', 'tracheal shift']",Abnormal
+111119915220039455212518088249865092255_j2kqey.png,['apical pleural thickening'],Abnormal
+131143867383340051339698987265288535462_hniqsd.png,['normal'],Normal
+329684891469314145790516014302392009886_te5anu.png,"['interstitial pattern', 'air trapping', 'chronic changes']",Abnormal
+136329137159177033124531783451301249350_ev72fr.png,"['laminar atelectasis', 'vertebral degenerative changes']",Abnormal
+2070190143987569143415140289105978581_bm1acz.png,['normal'],Normal
+338387356004568929935266377862950617261_f88lyt.png,['hyperinflated lung'],Abnormal
+292918128360817403765919130571877152208_3ibhhb.png,"['air trapping', 'cardiomegaly']",Abnormal
+140065607089023732358486734141735661840_n14980.png,['vascular hilar enlargement'],Abnormal
+6115726762898922223521122293415074356_x7usgy.png,['normal'],Normal
+145020326192716680555227501364101937163_hoh1ow.png,['normal'],Normal
+39255810068118092352215133274328005007_lwwzhp.png,"['aortic elongation', 'COPD signs', 'interstitial pattern', 'cardiomegaly', 'apical pleural thickening', 'electrical device', 'air trapping', 'vascular hilar enlargement']",Abnormal
+166334224662952333926086720412429285787_daal6a.png,"['pneumonia', 'calcified granuloma', 'infiltrates']",Abnormal
+87868700185843826686309805069732371582_bt49pt.png,['normal'],Normal
+274217992169606771002442635237854135802_mlkv9e.png,['normal'],Normal
+274217992169606771002442635237854135802_2_6luevu.png,['normal'],Normal
+252076676393468463748725903350421520380_xv5crv.png,['normal'],Normal
+223313162793519748545064083936409548399_xrdhm1.png,['normal'],Normal
+198818740979031107764730300238052180903_j1zssy.png,['normal'],Normal
+218671263459547134863629441556453937570_ppsivg.png,['vascular hilar enlargement'],Abnormal
+152750786821553092160537183667408771953_4ijyvq.png,"['scoliosis', 'COPD signs', 'mediastinic lipomatosis']",Abnormal
+191431295203774120090548361694915991035_yupwc3.png,['laminar atelectasis'],Abnormal
+128721638467841175060994165859727085704_ljb6gx.png,"['laminar atelectasis', 'heart insufficiency', 'calcified granuloma', 'hilar congestion', 'vascular redistribution']",Abnormal
+277933690182400499513781003372869046520_5dubhs.png,['normal'],Normal
+116168784541645974757127035552644869945_f6uxl3.png,['normal'],Normal
+314129801942842720042954911424723925237_u77cdm.png,"['atelectasis', 'cardiomegaly', 'pleural effusion']",Abnormal
+314129801942842720042954911424723925237_2_2vl8eg.png,['infiltrates'],Abnormal
+248533021588293608213422273220619885147_krm4i2.png,['descendent aortic elongation'],Abnormal
+193236634812617079578118337781069164970_9i65b8.png,"['artificial mitral heart valve', 'central venous catheter via subclavian vein', 'cardiomegaly', 'sternotomy', 'artificial aortic heart valve', 'suture material', 'metal']",Abnormal
+283150672563386495509139437908671618505_3rcqi1.png,['normal'],Normal
+126899004653483954654090561276870090417_wot1bd.png,"['volume loss', 'mediastinal enlargement']",Abnormal
+331821082722340585294837454500590224756_6kf3z4.png,"['scoliosis', 'COPD signs', 'costophrenic angle blunting']",Abnormal
+116835309177267571219371885536980035603_02qerx.png,"['COPD signs', 'unchanged', 'sternotomy']",Abnormal
+221693064728067553838136296831898217001_ab25zc.png,['normal'],Normal
+39775006055149542945016388730145543912_agwpdp.png,"['chronic changes', 'kyphosis', 'aortic elongation', 'cardiomegaly']",Abnormal
+28451621635481238457574339727577560057_14sim1.png,"['COPD signs', 'pacemaker']",Abnormal
+73345147477698556822032391045475472903_rn2v1i.png,['normal'],Normal
+190812070193868704045143116384127013466_obnpx5.png,"['vertebral degenerative changes', 'apical pleural thickening', 'calcified granuloma', 'chronic changes']",Abnormal
+58952528177639261704989150284295407914_c776nz.png,['normal'],Normal
+194491104398726883827610417387499372708_4nm62f.png,"['aortic elongation', 'COPD signs']",Abnormal
+266163133033867538504172533639291357637_pk1rq1.png,['normal'],Normal
+150117066111786929518665369856976054885_wmvlmx.png,"['vertebral compression', 'kyphosis']",Abnormal
+25427388282199106736161747142774318591_fueenn.png,"['ascendent aortic elongation', 'scoliosis', 'fibrotic band', 'diaphragmatic eventration', 'tracheal shift', 'chronic changes']",Abnormal
+213739000107134728675390740164134200227_77zfgs.png,"['aortic elongation', 'aortic atheromatosis', 'vertebral degenerative changes', 'chronic changes']",Abnormal
+18595260545527656418802449482125103819_rl7i2o.png,['scoliosis'],Abnormal
+33146852953906782299925849643100860514_aw42w6.png,['normal'],Normal
+262596904420735928110979632873247890327_9jlttm.png,['normal'],Normal
+51201278302180004704104566315354086236_7bczan.png,"['total atelectasis', 'pulmonary hypertension', 'mastectomy', 'air trapping']",Abnormal
+218788834244791414012527870287159968867_h4i6z2.png,['normal'],Normal
+273116561484525412016746770124808327273_qvxjev.png,['normal'],Normal
+11645752948827444035756849793977920985_89ufox.png,"['adenopathy', 'vascular hilar enlargement']",Abnormal
+19735415344843214634821684982130067457_lcz7vw.png,['costophrenic angle blunting'],Abnormal
+124933327535861676162909718452825654766_uc3tnf.png,"['bronchiectasis', 'COPD signs', 'cardiomegaly', 'air trapping']",Abnormal
+61303123896578040487161157429065188020_ytykir.png,['normal'],Normal
+19531553141040215815885232049188496551_jzfl6p.png,['normal'],Normal
+217307085562316394869982816817820142219_6ej5de.png,"['atelectasis', 'kyphosis', 'rib fracture', 'pleural effusion']",Abnormal
+133804518162777130367515474165863420752_o87orq.png,"['vertebral degenerative changes', 'unchanged', 'mastectomy']",Abnormal
+333786317684418197766425904618377239615_xbn4fb.png,['normal'],Normal
+278389787021687215611052444995291390626_j19t8r.png,['hilar enlargement'],Abnormal
+159187617652062910835421205884517035541_84sv6q.png,['normal'],Normal
+305157110293886155257401747976484070415_eerorr.png,"['chronic changes', 'apical pleural thickening']",Abnormal
+54238077194277855993497068723510383031_-cohsr.png,['normal'],Normal
+318464841142716907534801190112683615120_cgzoh9.png,['scoliosis'],Abnormal
+193515620104832658352927799566942451202_c6lx5f.png,['normal'],Normal
+94136626146558444966681004736205767133_uv8xas.png,"['unchanged', 'consolidation']",Abnormal
+94136626146558444966681004736205767133-2_epg7e5.png,"['bronchiectasis', 'apical pleural thickening', 'infiltrates', 'fibrotic band', 'tuberculosis sequelae', 'volume loss']",Abnormal
+232983084961021152145118588460239219356_5cze4n.png,['descendent aortic elongation'],Abnormal
+115220944695581339165697952250904105963_ed6p7y.png,"['scoliosis', 'chronic changes']",Abnormal
+140671920339244213551245905780498073380_n7lo8i.png,"['aortic elongation', 'pseudonodule', 'COPD signs']",Abnormal
+117948971976651446594416064640058242218_ovc55i.png,['normal'],Normal
+240703106605773297186558848218686855486_kt9eq8.png,['pectum excavatum'],Abnormal
+116161096769414312168056965336826948733_7airem.png,['normal'],Normal
+15084698247494040819737919852578012435_ds1mik.png,['normal'],Normal
+255010204914728146111506224643573581193_gfrdqo.png,['normal'],Normal
+1059090736492172890440690893294928964_qnqec4.png,"['interstitial pattern', 'apical pleural thickening']",Abnormal
+110197446456814343356996631403599875033_z8y2yy.png,"['infiltrates', 'COPD signs']",Abnormal
+338832298869004518466574308956383912628_slxr2c.png,"['kyphosis', 'calcified granuloma', 'cardiomegaly']",Abnormal
+221564430702187953319238893271351660343_0ldgkq.png,"['non axial articular degenerative changes', 'callus rib fracture']",Abnormal
+243316945187542312656226775035079561087_k5wmz6.png,['normal'],Normal
+213257971937183341419342540220409921704_th6tx9.png,"['laminar atelectasis', 'callus rib fracture', 'bronchovascular markings', 'infiltrates']",Abnormal
+213257971937183341419342540220409921704_2_-quibw.png,"['COPD signs', 'callus rib fracture']",Abnormal
+27466582138777909313989770931560888017_tfx4nf.png,['normal'],Normal
+56826900795348257785752386728283642218_mj8ttg.png,['normal'],Normal
+213697806837028836092513712121546689783_kj070g.png,['normal'],Normal
+137016494654936496260097340322562456290_s0ep6s.png,['normal'],Normal
+134075895022494537136637859841076636585_2ommx0.png,['normal'],Normal
+193602588757962342616139013964206887577_cs4lt0.png,['normal'],Normal
+104175864010988902721299541926544611142_plewag.png,"['air trapping', 'calcified granuloma']",Abnormal
+338567044767394350580874521731790515106_12dlzi.png,['normal'],Normal
+60969384004014416344962581961554376844_wfkhh2.png,"['fibrotic band', 'osteopenia', 'kyphosis']",Abnormal
+60969384004014416344962581961554376844_wfkhgy.png,"['fibrotic band', 'osteopenia', 'kyphosis']",Abnormal
+233584677569932907303318596333822721873_myx9n5.png,['vertebral degenerative changes'],Abnormal
+262908601602262970782290552266141594827_6kccmi.png,"['air trapping', 'chronic changes', 'vascular hilar enlargement']",Abnormal
+122388074016119966134344822650496638906_96e1d8.png,['scoliosis'],Abnormal
+182358443189747362347236234632052507416_kdp86x.png,['normal'],Normal
+307990757183953533768645762516822861415_k4y0ph.png,['normal'],Normal
+14157310000072231267812915694259596297_jkifqi.png,['normal'],Normal
+95808106642638082783137756468934693129_ke6qej.png,['normal'],Normal
+308361766252399416106633200813733868082_xjta8c.png,"['aortic elongation', 'vertebral degenerative changes']",Abnormal
+5389869901611192133846209521215713304_up133k.png,"['obesity', 'hemidiaphragm elevation']",Abnormal
+163755498740423929733636085753929480306_phbfc3.png,['normal'],Normal
+235744270808271834633015919139308991142_rsbe0h.png,"['pacemaker', 'dual chamber device']",Abnormal
+195776802678822897661611664229536656157_a0jgcd.png,['normal'],Normal
