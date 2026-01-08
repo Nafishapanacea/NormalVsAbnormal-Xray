@@ -25,14 +25,19 @@ def predict():
     # img_dir = '/home/jupyter-nafisha/X-ray/Inference_data/NIH-test-dataset'
 
     # padchest dataset
-    test_csv = '/home/jupyter-nafisha/X-ray/CSVs/PADCHEST_selected_forInf.csv'
-    img_dir = '/home/jupyter-nafisha/X-ray/Inference_data/padchest_selected_dataset'
+    # test_csv = '/home/jupyter-nafisha/X-ray/CSVs/PADCHEST_selected_forInf.csv'
+    # img_dir = '/home/jupyter-nafisha/X-ray/Inference_data/padchest_selected_dataset'
+
+    # using combined test set
+    test_csv= '/home/jupyter-nafisha/X-ray/CSVs/test_combined.csv'
+    img_dir = '/home/common'
     
     device = "cuda" if torch.cuda.is_available() else "cpu"
     # device= "cpu"
 
     # Load trained model
-    model = load_model("best_model.pth", device)
+    checkpoint_path= '/home/jupyter-nafisha/X-ray/checkpoints/best_model.pth'
+    model = load_model(checkpoint_path, device)
 
     # Dataset & dataloader
     test_dataset = XRayDataset(test_csv, img_dir, transform=get_val_transform())
