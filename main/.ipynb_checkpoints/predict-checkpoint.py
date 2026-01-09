@@ -18,8 +18,8 @@ def load_model(checkpoint_path, device):
 
 def predict():
 
-    # test_csv = "/home/jupyter-nafisha/X-ray/CSVs/test.csv"
-    # img_dir = "/home/common/Xray-Data"
+    test_csv = "/home/jupyter-nafisha/X-ray/CSVs/test.csv"
+    img_dir = "/home/common"
 
     # test_csv = '/home/jupyter-nafisha/X-ray/CSVs/NIH_test.csv'
     # img_dir = '/home/jupyter-nafisha/X-ray/Inference_data/NIH-test-dataset'
@@ -29,14 +29,14 @@ def predict():
     # img_dir = '/home/jupyter-nafisha/X-ray/Inference_data/padchest_selected_dataset'
 
     # using combined test set
-    test_csv= '/home/jupyter-nafisha/X-ray/CSVs/test_combined.csv'
-    img_dir = '/home/common'
+    # test_csv= '/home/jupyter-nafisha/X-ray/CSVs/test_combined.csv'
+    # img_dir = '/home/common'
     
     device = "cuda" if torch.cuda.is_available() else "cpu"
     # device= "cpu"
 
     # Load trained model
-    checkpoint_path= '/home/jupyter-nafisha/X-ray/checkpoints/best_model.pth'
+    checkpoint_path= '/home/jupyter-nafisha/X-ray/checkpoints/best_model_vinBig.pth'
     model = load_model(checkpoint_path, device)
 
     # Dataset & dataloader
